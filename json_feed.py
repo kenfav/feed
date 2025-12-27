@@ -37,7 +37,7 @@ def gerar_feed_video():
         
         # Tenta pegar 720p, senão pega o último (melhor qualidade)
         for f in files:
-            if f.get('label') == '720p':
+            if f.get('label') == '360p':
                 video_url = f.get('progressiveDownloadURL')
                 file_size = f.get('filesize', 0)
                 break
