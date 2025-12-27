@@ -2,96 +2,72 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 import datetime
-import os
 
 def scrape_site():
-    url = "https://www.jw.org/en/whats-new/"
+    # URL do Hacker News (Site super leve e permissivo)
+    url = "https://news.ycombinator.com/"
     
-    # Headers OBRIGATÓRIOS para não levar erro 403/400
+    print(f"Tentando acessar: {url}")
+    
+    # Headers básicos
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Referer': 'https://www.jw.org/'
+        'User-Agent': 'Mozilla/5.0 (compatible; ScraperTest/1.0)'
     }
 
     try:
-        # O requests usa HTTP/1.1 por padrão, o que é ótimo para evitar o erro do curl
         res = requests.get(url, headers=headers, timeout=30)
-        res.raise_for_status() # Para se der erro
+        res.raise_for_status()
+        print("Conexão bem sucedida!")
     except Exception as e:
-        print(f"Erro ao baixar o site: {e}")
+        print(f"Erro fatal de conexão: {e}")
         return
 
     soup = BeautifulSoup(res.text, 'lxml')
     
     # Configura o Feed
     fg = FeedGenerator()
-    fg.title('JW.org - What\'s New')
+    fg.title('Hacker News - TESTE')
     fg.link(href=url, rel='alternate')
-    fg.description('Latest updates from JW.org')
+    fg.description('Feed de teste para validar o GitHub Actions')
     fg.language('en')
 
-    # Procura os itens (mesma lógica que usamos no RSS-Bridge)
-    for element in soup.select('.synopsis'):
+    # No Hacker News, cada linha de notícia tem a classe 'athing'
+    # Vamos pegar apenas as 10 primeiras para teste
+    items = soup.select('.athing')[:10]
+    
+    if not items:
+        print("Aviso: Conectou, mas não achou os itens (seletor CSS pode estar errado).")
+        # Debug
+        print(res.text[:500])
+    
+    count = 0
+    for element in items:
         fe = fg.add_entry()
         
         # 1. Título e Link
-        title_tag = element.select_one('h3 a')
+        # A estrutura é <span class="titleline"><a href="...">Titulo</a></span>
+        title_tag = element.select_one('.titleline > a')
+        
         if not title_tag:
             continue
             
         title = title_tag.get_text(strip=True)
         link = title_tag['href']
+        
+        # Correção se for link relativo
         if not link.startswith('http'):
-            link = 'https://www.jw.org' + link
+            link = 'https://news.ycombinator.com/' + link
             
         fe.title(title)
         fe.link(href=link)
-        fe.id(link) # ID único
-
-        # 2. Data
-        date_tag = element.select_one('.meta.pubDate')
-        if date_tag:
-            # Tenta converter para data, se falhar usa a atual
-            fe.published(datetime.datetime.now(datetime.timezone.utc))
-
-        # 3. Imagem
-        img_src = ''
-        img_tag = element.select_one('.jsRespImg')
-        if img_tag:
-            # Tenta pegar a imagem MD, LG ou XS
-            if img_tag.has_attr('data-img-size-md'):
-                img_src = img_tag['data-img-size-md']
-            elif img_tag.has_attr('data-img-size-lg'):
-                img_src = img_tag['data-img-size-lg']
-            elif img_tag.has_attr('data-img-size-xs'):
-                img_src = img_tag['data-img-size-xs']
-            elif img_tag.has_attr('src'):
-                img_src = img_tag['src']
-
-        # 4. Contexto e Descrição
-        context_tag = element.select_one('.contextTitle')
-        context = context_tag.get_text(strip=True) if context_tag else ""
+        fe.id(link)
+        fe.published(datetime.datetime.now(datetime.timezone.utc))
         
-        desc_tag = element.select_one('.desc')
-        desc = desc_tag.get_text(strip=True) if desc_tag else ""
-
-        # Monta o HTML para o leitor de RSS
-        content_html = ""
-        if img_src:
-            content_html += f'<img src="{img_src}" style="width:100%; max-width:600px; display:block;" /><br>'
-        if context:
-            content_html += f'<small style="text-transform:uppercase; color:gray;">{context}</small><br>'
-        content_html += desc
-        
-        fe.content(content_html, type='CDATA')
-        fe.description(desc)
+        count += 1
 
     # Salva o arquivo XML
     fg.rss_file('feed.xml')
-    print("Feed gerado com sucesso!")
-    #Teste para rodar
+    print(f"SUCESSO TOTAL: Feed gerado com {count} itens!")
 
 if __name__ == "__main__":
     scrape_site()
