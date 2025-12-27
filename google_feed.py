@@ -109,4 +109,4 @@ def gerar_feed_google():
     print(f"Sucesso! {count} notícias geradas em 'google_world.xml'")
 
 if __name__ == "__main__":
-    gerar_feed()
+    gerar_feed_google()
