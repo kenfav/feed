@@ -21,7 +21,7 @@ def gerar_feed_google():
     # Configuração do Feed
     fg = FeedGenerator()
     fg.title('Google News - World Stories')
-    fg.link(href=target_url, rel='alternate')
+    fg.link(href=url, rel='alternate')
     fg.description('Top stories from Google News (US Edition)')
     fg.language('en')
 
