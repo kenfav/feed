@@ -91,6 +91,7 @@ def scrape_site():
     # Salva o arquivo XML
     fg.rss_file('feed.xml')
     print("Feed gerado com sucesso!")
+    #Teste para rodar
 
 if __name__ == "__main__":
     scrape_site()
