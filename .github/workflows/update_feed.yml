@@ -2,7 +2,7 @@ name: Atualizar RSS JW.org
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Roda a cada 6 horas
+    - cron: '0 */12 * * *' # Roda a cada 6 horas
   workflow_dispatch:      # Permite rodar manualmente clicando num botão
 
 permissions:
