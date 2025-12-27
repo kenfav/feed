@@ -61,8 +61,8 @@ def gerar_feed_offline():
         img_src = ''
         img_tag = element.select_one('.jsRespImg')
         if img_tag:
-            if img_tag.has_attr('data-img-size-md'): img_src = img_tag['data-img-size-md']
-            elif img_tag.has_attr('data-img-size-lg'): img_src = img_tag['data-img-size-lg']
+            if img_tag.has_attr('data-img-size-lg'): img_src = img_tag['data-img-size-lg']
+            elif img_tag.has_attr('data-img-size-md'): img_src = img_tag['data-img-size-md']
             elif img_tag.has_attr('data-img-size-xs'): img_src = img_tag['data-img-size-xs']
 
         # Descrição
