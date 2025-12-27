@@ -3,7 +3,6 @@ import datetime
 from feedgen.feed import FeedGenerator
 
 def gerar_feed_video():
-    # URL da API Oficial (Muito mais estável que o site)
     url = "https://b.jw-cdn.org/apis/mediator/v1/categories/E/LatestVideos?detailed=1&mediaLimit=0&clientType=json"
     
     print(f"Baixando dados da API: {url}")
@@ -16,9 +15,8 @@ def gerar_feed_video():
         print(f"Erro ao baixar JSON: {e}")
         return
 
-    # Configuração do Feed
     fg = FeedGenerator()
-    fg.title(data['category']['name']) # "Latest Videos"
+    fg.title(data['category']['name'])
     fg.description(data['category'].get('description', 'Latest videos from JW Broadcasting'))
     fg.link(href='https://www.jw.org', rel='alternate')
     fg.language('en')
@@ -32,66 +30,74 @@ def gerar_feed_video():
         # 1. Título
         fe.title(video['title'])
         
-        # 2. Link do Vídeo (MP4)
-        # O JSON oferece várias qualidades (240p, 360p, 480p, 720p).
-        # Vamos tentar pegar 720p, se não der, pega o último da lista (geralmente a melhor qualidade)
+        # 2. Busca o link do vídeo (MP4) e Imagem
         files = video.get('files', [])
         video_url = ""
         file_size = 0
         
-        # Procura preferencialmente por 720p
+        # Tenta pegar 720p, senão pega o último (melhor qualidade)
         for f in files:
             if f.get('label') == '720p':
                 video_url = f.get('progressiveDownloadURL')
                 file_size = f.get('filesize', 0)
                 break
         
-        # Se não achou 720p, pega o último disponível (maior qualidade)
         if not video_url and files:
             video_url = files[-1].get('progressiveDownloadURL')
             file_size = files[-1].get('filesize', 0)
 
-        # Adiciona o link principal e o Enclosure (para funcionar como Podcast de vídeo)
-        if video_url:
-            fe.link(href=video_url)
-            fe.id(video_url) # ID único
-            fe.enclosure(video_url, str(file_size), 'video/mp4')
-
-        # 3. Data de Publicação
-        if 'firstPublished' in video:
-            fe.published(video['firstPublished'])
-
-        # 4. Imagem (Thumbnail)
-        # O JSON tem vários formatos. 'wss' (Widescreen) 'lg' (Large) é o ideal.
+        # 3. Imagem (Thumbnail)
         images = video.get('images', {})
         img_src = ""
-        
         if 'wss' in images and 'lg' in images['wss']:
             img_src = images['wss']['lg']
         elif 'sqr' in images and 'md' in images['sqr']:
-            img_src = images['sqr']['md'] # Fallback para quadrado
+            img_src = images['sqr']['md']
 
-        # 5. Descrição HTML (para aparecer bonito no leitor)
+        # 4. Configuração para Download (Enclosure)
+        # Isso garante compatibilidade com Apps de Podcast
+        if video_url:
+            fe.link(href=video_url)
+            fe.id(video_url)
+            fe.enclosure(video_url, str(file_size), 'video/mp4')
+
+        # 5. Data
+        if 'firstPublished' in video:
+            fe.published(video['firstPublished'])
+
+        # 6. CONTEÚDO HTML (Aqui está a mágica do Player)
         duration = video.get('durationFormattedMinSec', '')
-        
+        description_text = video.get('description', '')
+
         content = ""
-        if img_src:
-            content += f'<img src="{img_src}" style="width:100%; max-width:600px; display:block;" /><br>'
         
-        content += f'<b>Duration:</b> {duration}<br>'
+        # Adiciona o Player de Vídeo HTML5
+        # 'poster' é a imagem de capa antes do play
+        # 'controls' mostra os botões de play/volume
+        # 'preload="metadata"' economiza dados do usuário
+        if video_url:
+            content += f'''
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="{img_src}">
+                <source src="{video_url}" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="{video_url}">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            '''
+        elif img_src:
+            # Se não tiver video url (erro raro), mostra só a imagem
+            content += f'<img src="{img_src}" style="width:100%; max-width:600px;" /><br>'
         
-        # Adiciona descrição se houver (o JSON as vezes traz vazio)
-        if video.get('description'):
-            content += f'<p>{video["description"]}</p>'
-            fe.description(video["description"])
-        else:
-            fe.description(f"Video: {video['title']}")
+        content += f'<b>⏳ Duração:</b> {duration}<br>'
+        
+        if description_text:
+            content += f'<p>{description_text}</p>'
 
         fe.content(content, type='CDATA')
+        fe.description(description_text if description_text else video['title'])
 
-    # Salva o arquivo XML
-    fg.rss_file('feed_video.xml', pretty=True)
-    print("Sucesso! Arquivo 'feed_video.xml' gerado.")
+    # Salva com pretty=True para ficar legível (com quebras de linha)
+    fg.rss_file('feed.xml', pretty=True)
+    print("Sucesso! Arquivo 'feed.xml' gerado com player de vídeo.")
 
 if __name__ == "__main__":
     gerar_feed_video()
