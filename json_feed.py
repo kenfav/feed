@@ -96,7 +96,7 @@ def gerar_feed_video():
         fe.description(description_text if description_text else video['title'])
 
     # Salva com pretty=True para ficar legível (com quebras de linha)
-    fg.rss_file('feed.xml', pretty=True)
+    fg.rss_file('feed_video.xml', pretty=True)
     print("Sucesso! Arquivo 'feed.xml' gerado com player de vídeo.")
 
 if __name__ == "__main__":
