@@ -75,7 +75,7 @@ def gerar_feed_offline():
         
         fe.content(content, type='CDATA')
 
-    fg.rss_file('feed.xml')
+    fg.rss_file('feed.xml', pretty=True)
 
 if __name__ == "__main__":
     gerar_feed_offline()
