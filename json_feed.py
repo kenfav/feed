@@ -90,7 +90,7 @@ def gerar_feed_video():
         fe.content(content, type='CDATA')
 
     # Salva o arquivo XML
-    fg.rss_file('feed_video.xml')
+    fg.rss_file('feed_video.xml', pretty=True)
     print("Sucesso! Arquivo 'feed_video.xml' gerado.")
 
 if __name__ == "__main__":
