@@ -17,16 +17,15 @@ def gerar_feed_google():
         return
 
     soup = BeautifulSoup(r.text, 'lxml')
+
     
-    # Configuração do Feed
     fg = FeedGenerator()
-    fg.title('Google News - World Stories')
+    fg.title('Google News - World')
     fg.link(href=url, rel='alternate')
-    fg.description('Top stories from Google News (US Edition)')
+    fg.description('World News')
     fg.language('en')
 
-    # --- LÓGICA DE EXTRAÇÃO (Link -> Figure Anterior) ---
-    # Encontra todos os links de leitura
+    # Encontra os links de notícia
     links = soup.find_all('a', href=lambda x: x and x.startswith('./read/'))
     print(f"Links encontrados: {len(links)}")
 
@@ -34,79 +33,73 @@ def gerar_feed_google():
     urls_vistas = set()
 
     for link_tag in links:
-        # 1. Limpa URL
         href = link_tag['href'].replace('./', 'https://news.google.com/')
         
-        if href in urls_vistas:
-            continue
+        if href in urls_vistas: continue
         urls_vistas.add(href)
 
-        # 2. Título (Texto do Link ou Aria-Label)
-        title = link_tag.get_text(strip=True)
+        # --- CORREÇÃO AQUI: Prioridade TOTAL ao aria-label ---
+        title = link_tag.get('aria-label')
+        
+        # Se não tiver aria-label, tenta o texto (fallback)
         if not title:
-            title = link_tag.get('aria-label', 'No Title')
+            title = link_tag.get_text(strip=True)
+            
+        # Se ainda assim estiver vazio, pula (não gera item sem título)
+        if not title:
+            continue
 
-        # 3. Imagem (Busca a <figure> anterior mais próxima)
+        # Limpeza opcional: O aria-label vem com "Titulo - Fonte - Hora"
+        # Se você quiser limpar, pode descomentar abaixo:
+        # parts = title.rsplit(' - ', 2) # Tenta separar as 2 ultimas partes
+        # if len(parts) > 1: title = parts[0] 
+
+        # --- Imagem (Lógica Figure Anterior) ---
         img_src = ""
         figure = link_tag.find_previous('figure')
-        
-        # Verifica se a figure é "vizinha" próxima (para não pegar imagem de outra noticia)
-        # Geralmente no Google News estão no mesmo container pai ou avô
         if figure:
             img = figure.find('img')
             if img:
-                # Tenta pegar a melhor qualidade no srcset
                 if img.has_attr('srcset'):
-                    # Formato: /url 1x, /url 2x
                     parts = img['srcset'].split(' ')
-                    if len(parts) >= 2:
-                        raw_src = parts[-2]
-                    else:
-                        raw_src = img.get('src')
+                    if len(parts) >= 2: img_src = parts[-2]
+                    else: img_src = img.get('src')
                 else:
-                    raw_src = img.get('src')
+                    img_src = img.get('src')
 
-                # Corrige caminho relativo da imagem
-                if raw_src:
-                    if raw_src.startswith('/'):
-                        img_src = 'https://news.google.com' + raw_src
-                    elif raw_src.startswith('http'):
-                        img_src = raw_src
+                if img_src and img_src.startswith('/'):
+                    img_src = 'https://news.google.com' + img_src
 
-        # 4. Data
+        # --- Data ---
         pub_date = datetime.datetime.now(datetime.timezone.utc)
-        # Tenta achar <time> perto do link
-        container = link_tag.parent
-        time_tag = container.find('time') if container else None
-        
-        # Se não achou no pai direto, tenta no próximo irmão (estrutura comum do Google)
+        # Procura data perto do link
+        time_tag = None
+        if link_tag.parent:
+            time_tag = link_tag.parent.find('time')
         if not time_tag:
             time_tag = link_tag.find_next('time')
-
+            
         if time_tag and time_tag.has_attr('datetime'):
-            try:
-                pub_date = time_tag['datetime']
+            try: pub_date = time_tag['datetime']
             except: pass
 
-        # 5. Adiciona ao Feed
+        # --- Adiciona ao Feed ---
         fe = fg.add_entry()
         fe.title(title)
         fe.link(href=href)
         fe.id(href)
         fe.published(pub_date)
 
-        # HTML
         content = ""
         if img_src:
-            content += f'<img src="{img_src}" style="width:100%; max-width:600px; border-radius: 8px;" /><br>'
-        
+            content += f'<img src="{img_src}" style="width:100%; max-width:600px;" /><br>'
         content += f'<p>{title}</p>'
         
         fe.content(content, type='CDATA')
         count += 1
 
     fg.rss_file('google_world.xml', pretty=True)
-    print(f"Sucesso! {count} notícias geradas em 'google_world.xml'")
+    print(f"Sucesso! {count} itens com títulos (via aria-label).")
 
 if __name__ == "__main__":
     gerar_feed_google()
