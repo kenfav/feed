@@ -27,39 +27,40 @@ def gerar_feed_google():
 
     # Encontra os links de notícia
     links = soup.find_all('a', href=lambda x: x and x.startswith('./read/'))
-    print(f"Links encontrados: {len(links)}")
-
+    
     count = 0
     urls_vistas = set()
 
     for link_tag in links:
-        href = link_tag['href'].replace('./', 'https://news.google.com/')
+        # 1. TENTA EXTRAIR O TÍTULO PRIMEIRO
+        # Seu log mostrou que o link bom tem "aria-label" e o ruim tem "aria-hidden"
         
-        if href in urls_vistas: continue
-        urls_vistas.add(href)
+        # Ignora links ocultos (os quadradinhos vazios)
+        if link_tag.get('aria-hidden') == 'true':
+            continue
 
-        # --- CORREÇÃO AQUI: Prioridade TOTAL ao aria-label ---
         title = link_tag.get('aria-label')
-        
-        # Se não tiver aria-label, tenta o texto (fallback)
         if not title:
             title = link_tag.get_text(strip=True)
             
-        # Se ainda assim estiver vazio, pula (não gera item sem título)
+        # Se não tem título nenhum, ignora e NÃO marca a URL como vista ainda
         if not title:
             continue
 
-        # Limpeza opcional: O aria-label vem com "Titulo - Fonte - Hora"
-        # Se você quiser limpar, pode descomentar abaixo:
-        # parts = title.rsplit(' - ', 2) # Tenta separar as 2 ultimas partes
-        # if len(parts) > 1: title = parts[0] 
+        # 2. AGORA verifica duplicatas (só para links válidos)
+        href = link_tag['href'].replace('./', 'https://news.google.com/')
+        
+        if href in urls_vistas:
+            continue
+        urls_vistas.add(href)
 
-        # --- Imagem (Lógica Figure Anterior) ---
+        # 3. Busca Imagem (Figure Anterior)
         img_src = ""
         figure = link_tag.find_previous('figure')
         if figure:
             img = figure.find('img')
             if img:
+                # Prioridade: srcset -> src
                 if img.has_attr('srcset'):
                     parts = img['srcset'].split(' ')
                     if len(parts) >= 2: img_src = parts[-2]
@@ -67,12 +68,13 @@ def gerar_feed_google():
                 else:
                     img_src = img.get('src')
 
+                # Limpeza da URL
                 if img_src and img_src.startswith('/'):
                     img_src = 'https://news.google.com' + img_src
 
-        # --- Data ---
+        # 4. Data
         pub_date = datetime.datetime.now(datetime.timezone.utc)
-        # Procura data perto do link
+        # Tenta achar <time> no pai ou no próximo elemento
         time_tag = None
         if link_tag.parent:
             time_tag = link_tag.parent.find('time')
@@ -83,7 +85,7 @@ def gerar_feed_google():
             try: pub_date = time_tag['datetime']
             except: pass
 
-        # --- Adiciona ao Feed ---
+        # 5. Adiciona Item
         fe = fg.add_entry()
         fe.title(title)
         fe.link(href=href)
@@ -93,13 +95,14 @@ def gerar_feed_google():
         content = ""
         if img_src:
             content += f'<img src="{img_src}" style="width:100%; max-width:600px;" /><br>'
+        
         content += f'<p>{title}</p>'
         
         fe.content(content, type='CDATA')
         count += 1
 
     fg.rss_file('google_world.xml', pretty=True)
-    print(f"Sucesso! {count} itens com títulos (via aria-label).")
+    print(f"Sucesso! {count} itens com títulos gerados.")
 
 if __name__ == "__main__":
     gerar_feed_google()
