@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Jan 2026 01:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 01:03:40 +0000</lastBuildDate>
     <item>
       <title>William Turner, Jr.: How Did Jesus Deal With Others? (Luke 22:28)</title>
       <link>https://cfp2.jw-cdn.org/a/e90732c/1/o/jwbvod25_E_51_r360P.mp4</link>
@@ -97,6 +97,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/e08c2e/1/o/mwbv_E_202601_01_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/e08c2e/1/o/mwbv_E_202601_01_r360P.mp4" length="23605555" type="video/mp4"/>
       <pubDate>Mon, 12 Jan 2026 15:48:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 3: “I Am He”</title>
+      <link>https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4</link>
+      <description>Episode 3: “I Am He”</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/1112023107/univ/art/1112023107_univ_wss_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 39m 40s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4" length="145345447" type="video/mp4"/>
+      <pubDate>Mon, 19 Jan 2026 15:52:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 2: “This Is My Son”</title>
+      <link>https://cfp2.jw-cdn.org/a/62d746/2/o/gnj_E_02_r360P.mp4</link>
+      <description>Episode 2: “This Is My Son”</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/1112023104/univ/art/1112023104_univ_wss_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/62d746/2/o/gnj_E_02_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/62d746/2/o/gnj_E_02_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 52m 46s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/62d746/2/o/gnj_E_02_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/62d746/2/o/gnj_E_02_r360P.mp4" length="196368695" type="video/mp4"/>
+      <pubDate>Mon, 19 Jan 2026 15:54:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
