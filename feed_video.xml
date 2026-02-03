@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Feb 2026 01:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 01:18:59 +0000</lastBuildDate>
     <item>
       <title>Jehovah Is Real</title>
       <link>https://cfp2.jw-cdn.org/a/01f32ef/1/o/pkon_E_035_r360P.mp4</link>
@@ -157,6 +157,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/335816c/2/o/1112024048_E_cnt_1_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/335816c/2/o/1112024048_E_cnt_1_r360P.mp4" length="42549644" type="video/mp4"/>
       <pubDate>Fri, 30 Jan 2026 11:45:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>JW Broadcasting—February 2026: Annual Meeting 2025, Part 2</title>
+      <link>https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4</link>
+      <description>JW Broadcasting—February 2026: Annual Meeting 2025, Part 2</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-134/univ/art/jwb-134_univ_wss_09_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 1h 53m 42s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4" length="283214102" type="video/mp4"/>
+      <pubDate>Mon, 02 Feb 2026 16:19:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
