@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Feb 2026 01:20:09 +0000</lastBuildDate>
-    <item>
-      <title>Episode 3: “I Am He”</title>
-      <link>https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4</link>
-      <description>Episode 3: “I Am He”</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/1112023107/univ/art/1112023107_univ_wss_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 39m 40s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/df351c/2/o/gnj_E_03_r360P.mp4" length="145345447" type="video/mp4"/>
-      <pubDate>Mon, 19 Jan 2026 15:52:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Episode 2: “This Is My Son”</title>
-      <link>https://cfp2.jw-cdn.org/a/62d746/3/o/gnj_E_02_r360P.mp4</link>
-      <description>Episode 2: “This Is My Son”</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/1112023104/univ/art/1112023104_univ_wss_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/62d746/3/o/gnj_E_02_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/62d746/3/o/gnj_E_02_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 52m 46s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/62d746/3/o/gnj_E_02_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/62d746/3/o/gnj_E_02_r360P.mp4" length="196407627" type="video/mp4"/>
-      <pubDate>Mon, 19 Jan 2026 15:54:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 01:15:54 +0000</lastBuildDate>
     <item>
       <title>Gage Fleegle: “The Cry of the Lowly” (Prov. 21:13)</title>
       <link>https://cfp2.jw-cdn.org/a/c8852f7/1/o/jwbvod26_E_05_r360P.mp4</link>
@@ -112,6 +82,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4" length="283214102" type="video/mp4"/>
       <pubDate>Mon, 02 Feb 2026 16:19:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Deal With Loneliness</title>
+      <link>https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4</link>
+      <description>How to Deal With Loneliness</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/502100032/univ/art/502100032_univ_wss_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 3m 16s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4" length="5850988" type="video/mp4"/>
+      <pubDate>Thu, 19 Feb 2026 15:44:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
