@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Feb 2026 01:19:22 +0000</lastBuildDate>
-    <item>
-      <title>Gage Fleegle: “The Cry of the Lowly” (Prov. 21:13)</title>
-      <link>https://cfp2.jw-cdn.org/a/c8852f7/1/o/jwbvod26_E_05_r360P.mp4</link>
-      <description>Gage Fleegle: “The Cry of the Lowly” (Prov. 21:13)</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_05_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/c8852f7/1/o/jwbvod26_E_05_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/c8852f7/1/o/jwbvod26_E_05_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 9m 32s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/c8852f7/1/o/jwbvod26_E_05_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/c8852f7/1/o/jwbvod26_E_05_r360P.mp4" length="20113789" type="video/mp4"/>
-      <pubDate>Fri, 23 Jan 2026 14:19:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Per Christensen: The “Pure Language”—A Gift From Jehovah (Zeph. 3:9)</title>
-      <link>https://cfp2.jw-cdn.org/a/cbee008/1/o/jwbvod26_E_04_r360P.mp4</link>
-      <description>Per Christensen: The “Pure Language”—A Gift From Jehovah (Zeph. 3:9)</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_04_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/cbee008/1/o/jwbvod26_E_04_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/cbee008/1/o/jwbvod26_E_04_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 9m 53s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/cbee008/1/o/jwbvod26_E_04_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/cbee008/1/o/jwbvod26_E_04_r360P.mp4" length="18707525" type="video/mp4"/>
-      <pubDate>Fri, 23 Jan 2026 14:19:44 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 01:18:34 +0000</lastBuildDate>
     <item>
       <title>Jeffrey Winder: Manifest Godly Patience (Eccl. 3:7)</title>
       <link>https://cfp2.jw-cdn.org/a/1f838ff/2/o/jwbvod26_E_06_r360P.mp4</link>
