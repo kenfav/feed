@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 01:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 01:19:41 +0000</lastBuildDate>
     <item>
       <title>JW Broadcasting—February 2026: Annual Meeting 2025, Part 2</title>
       <link>https://cfp2.jw-cdn.org/a/c069cf/2/o/jwb-134_E_09_r360P.mp4</link>
@@ -112,6 +112,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/2f3cd3/1/o/jwbvod26_E_08_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/2f3cd3/1/o/jwbvod26_E_08_r360P.mp4" length="19110126" type="video/mp4"/>
       <pubDate>Fri, 27 Feb 2026 13:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>JW Broadcasting—March 2026</title>
+      <link>https://cfp2.jw-cdn.org/a/1ad82f7/2/o/jwb-135_E_01_r360P.mp4</link>
+      <description>JW Broadcasting—March 2026</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-135/univ/art/jwb-135_univ_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/1ad82f7/2/o/jwb-135_E_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/1ad82f7/2/o/jwb-135_E_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 58m 55s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/1ad82f7/2/o/jwb-135_E_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/1ad82f7/2/o/jwb-135_E_01_r360P.mp4" length="160616961" type="video/mp4"/>
+      <pubDate>Mon, 02 Mar 2026 16:50:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
