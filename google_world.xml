@@ -7,118 +7,69 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 16:53:19 +0000</lastBuildDate>
-    <item>
-      <title>Trump tells CNN he’s not worried whether Iran becomes a democratic state - CNN - 2 days ago - By Dana Bash</title>
-      <link>https://news.google.com/read/CBMigAFBVV95cUxPMzV1eVM5R1ZnUmFiQ3lkb0JGeFhzU0c4Y0FlWDR2MFZyWG5aSWRYVWxKcF9Gb2tfWHZDZGgyLV8xZ3l0ang5YTlobmM5NW9uZTNuYUc5UmpUdG9NQ0lXamxNU1F3S2RwTEZfYzFpY3JuNjRFb3BwU01UX2NnaVFINQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhWeTFNVW5aMFVrOWphRkp6VFJDZkF4ampCU2dLTWdhcEJwcnRFUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump tells CNN he’s not worried whether Iran becomes a democratic state - CNN - 2 days ago - By Dana Bash</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMigAFBVV95cUxPMzV1eVM5R1ZnUmFiQ3lkb0JGeFhzU0c4Y0FlWDR2MFZyWG5aSWRYVWxKcF9Gb2tfWHZDZGgyLV8xZ3l0ang5YTlobmM5NW9uZTNuYUc5UmpUdG9NQ0lXamxNU1F3S2RwTEZfYzFpY3JuNjRFb3BwU01UX2NnaVFINQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Fri, 06 Mar 2026 14:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump wants Iranian leadership that will not 'threaten Americans': Waltz - ABC News - 1 hour ago - By Oren Oppenheim</title>
-      <link>https://news.google.com/read/CBMimgFBVV95cUxNbGF5ZlVWMHVmTElKdHVJSTJ4SEZEdkVnTmwxQnFfZlNrQ0N6ZXhQcVhfaTl6cVBfLTJHM01DUGFNTzhXUG1kMFlXbFp6emFvMHpCU1VVam1YU3RHNW9uN3V3SkRnXzZPTUl4MFYwUWJIbHdRX3dGenlUUjJlRDByTjBWN2dFN3R6R1NnTDByU0JfRzFjX0g4RV930gGfAUFVX3lxTE16UmRDUS03Q1hLX3VscWRmaVBjeFl4cW9JV0ExUktMZDlSRk1PQWN0RmVnNHpWcm1MMXBWOVUtaXl1S0hzdmtiTm9TZmM4em16UEVCNlpJUUxoREdwYjZ5ZkpIZVI4S19PcmJUZExSTzd1X0ZhanRfUWdRYXZrVmVJTHh6RDVGeWdlSXc5MzhNRm5mdTVmdVpURjdpN1Qxaw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhWeTFNVW5aMFVrOWphRkp6VFJDZkF4ampCU2dLTWdhcEJwcnRFUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump wants Iranian leadership that will not 'threaten Americans': Waltz - ABC News - 1 hour ago - By Oren Oppenheim</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMimgFBVV95cUxNbGF5ZlVWMHVmTElKdHVJSTJ4SEZEdkVnTmwxQnFfZlNrQ0N6ZXhQcVhfaTl6cVBfLTJHM01DUGFNTzhXUG1kMFlXbFp6emFvMHpCU1VVam1YU3RHNW9uN3V3SkRnXzZPTUl4MFYwUWJIbHdRX3dGenlUUjJlRDByTjBWN2dFN3R6R1NnTDByU0JfRzFjX0g4RV930gGfAUFVX3lxTE16UmRDUS03Q1hLX3VscWRmaVBjeFl4cW9JV0ExUktMZDlSRk1PQWN0RmVnNHpWcm1MMXBWOVUtaXl1S0hzdmtiTm9TZmM4em16UEVCNlpJUUxoREdwYjZ5ZkpIZVI4S19PcmJUZExSTzd1X0ZhanRfUWdRYXZrVmVJTHh6RDVGeWdlSXc5MzhNRm5mdTVmdVpURjdpN1Qxaw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 15:28:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump wants to fully remove Iran’s leadership and what cost Kristi Noem her job: Morning Rundown - NBC News - 2 days ago</title>
-      <link>https://news.google.com/read/CBMiugFBVV95cUxNMGFaRGlCdUFUM0hrcUVqSmdjb3JEQzhHLTNtdmlLc0FxVmIybWhJLS1PRW1zRExzNHNBd1NoSEt1cDF4d29Oc25qYXZMWUJQUzIyay1paDJ4c2VfNU9pcnkycjBfRlNNSjE0WGFrMEFWN2h4c2JoYVNhY2ZBdDFOSVlxdUtqcGpac1hhYmVhX1FOM1FXSUdhbjVnRlMxeE92enBmUEN1Y3ZEQTZMN0FRVDhuM2czdkZmd1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhWeTFNVW5aMFVrOWphRkp6VFJDZkF4ampCU2dLTWdhcEJwcnRFUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump wants to fully remove Iran’s leadership and what cost Kristi Noem her job: Morning Rundown - NBC News - 2 days ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiugFBVV95cUxNMGFaRGlCdUFUM0hrcUVqSmdjb3JEQzhHLTNtdmlLc0FxVmIybWhJLS1PRW1zRExzNHNBd1NoSEt1cDF4d29Oc25qYXZMWUJQUzIyay1paDJ4c2VfNU9pcnkycjBfRlNNSjE0WGFrMEFWN2h4c2JoYVNhY2ZBdDFOSVlxdUtqcGpac1hhYmVhX1FOM1FXSUdhbjVnRlMxeE92enBmUEN1Y3ZEQTZMN0FRVDhuM2czdkZmd1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Fri, 06 Mar 2026 12:00:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran - Axios - 19 hours ago - By Jason Lalljee</title>
-      <link>https://news.google.com/read/CBMib0FVX3lxTFA2Qlprd0U1U1pxT0ZfNTNOQ1ZSR2tKUlM4X1FYa1p0QWpWZmRqTHlPQ0J6RTl5ZjFHclRmcWF5emIzbW9MbEtsdFZ5cDBvNlQ2LXUxMXpHUzFhSlRYRThzQVlaQXlPa0loNDF0ZllPZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhWeTFNVW5aMFVrOWphRkp6VFJDZkF4ampCU2dLTWdhcEJwcnRFUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Times the U.S. has installed a foreign leader, as Trump zeroes in on Iran - Axios - 19 hours ago - By Jason Lalljee</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMib0FVX3lxTFA2Qlprd0U1U1pxT0ZfNTNOQ1ZSR2tKUlM4X1FYa1p0QWpWZmRqTHlPQ0J6RTl5ZjFHclRmcWF5emIzbW9MbEtsdFZ5cDBvNlQ2LXUxMXpHUzFhSlRYRThzQVlaQXlPa0loNDF0ZllPZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 21:01:49 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 20:50:47 +0000</lastBuildDate>
     <item>
       <title>Threats to water supply and food inflation stalk Gulf states - Middle East Eye - 2 days ago - By Sean Mathews</title>
       <link>https://news.google.com/read/CBMilwFBVV95cUxPdDZ4dWFBdlRVV2cwam1GWEFVMFdHYXBuRDhKbG5zLWQxUldpSXpLRUhudnIzbW42RF8wVFJFLUtZVmhYMXlDVXB5UnNabHg2V0ZZSDhEN2l1RDI1a2JRNTNOR2pkNElrWnExVlNsM0xYZjRqM0VXZm0yTzFOWjlHeTNxX2c1V1BBZmJYVndXY01BQ21Fb2I4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhaVUo0ZFdGSFdXMDRSbFJCVFJDUEF4alhCQ2dLTWdhZDhZb1J6UVE=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Threats to water supply and food inflation stalk Gulf states - Middle East Eye - 2 days ago - By Sean Mathews</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpaSFpqY1VWb1VqWnZWbVZ3VFJEZ0F4aUFCU2dLTWdZbEE1SlJHUWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Threats to water supply and food inflation stalk Gulf states - Middle East Eye - 2 days ago - By Sean Mathews</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMilwFBVV95cUxPdDZ4dWFBdlRVV2cwam1GWEFVMFdHYXBuRDhKbG5zLWQxUldpSXpLRUhudnIzbW42RF8wVFJFLUtZVmhYMXlDVXB5UnNabHg2V0ZZSDhEN2l1RDI1a2JRNTNOR2pkNElrWnExVlNsM0xYZjRqM0VXZm0yTzFOWjlHeTNxX2c1V1BBZmJYVndXY01BQ21Fb2I4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Fri, 06 Mar 2026 19:48:00 +0000</pubDate>
     </item>
     <item>
       <title>The Iran War’s Most Precious Commodity Isn’t Oil - Bloomberg - 4 days ago - By Javier Blas</title>
       <link>https://news.google.com/read/CBMiqwFBVV95cUxQYUJiRkkxa2xFMnFpeDUtNkZpakptSzFibGJGUFJIUG1UTUlEMXFpRUpMZGg4SkstSzlRSF82dl9mNElCWXA5N1VLSmEwZUxXR0JjWnBsSWNXYnhHMVNGOUlQTkgtMVRDc0VaQ2J2TGhHeDMzMk1xSGNzSmtvY2hhU0xNQjJQdFFJSXp6cWZoZVhHMjRzbDMxbTR3MllKTHFKb3kzOEphNWVxS2M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhaVUo0ZFdGSFdXMDRSbFJCVFJDUEF4alhCQ2dLTWdhZDhZb1J6UVE=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>The Iran War’s Most Precious Commodity Isn’t Oil - Bloomberg - 4 days ago - By Javier Blas</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpaSFpqY1VWb1VqWnZWbVZ3VFJEZ0F4aUFCU2dLTWdZbEE1SlJHUWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>The Iran War’s Most Precious Commodity Isn’t Oil - Bloomberg - 4 days ago - By Javier Blas</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMiqwFBVV95cUxQYUJiRkkxa2xFMnFpeDUtNkZpakptSzFibGJGUFJIUG1UTUlEMXFpRUpMZGg4SkstSzlRSF82dl9mNElCWXA5N1VLSmEwZUxXR0JjWnBsSWNXYnhHMVNGOUlQTkgtMVRDc0VaQ2J2TGhHeDMzMk1xSGNzSmtvY2hhU0xNQjJQdFFJSXp6cWZoZVhHMjRzbDMxbTR3MllKTHFKb3kzOEphNWVxS2M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Wed, 04 Mar 2026 10:34:55 +0000</pubDate>
     </item>
     <item>
-      <title>Why the Middle East’s Desalination Plants Are Critical - WSJ - 2 hours ago - By Thomas Grove</title>
-      <link>https://news.google.com/read/CBMi1wFBVV95cUxQUVRQSUpCOTFxQy05Y0pFUjRFSWRCUHJ4Y0JBWmltNDNBa1BaSWdvSHdodGt3aHhRUlh3WHpuNnFsN2JIQkQ2TkhtUG03V09PU2gtRFdLcTZmY2JsaU90SHZqZFdlNndvTk9FV0NxN0Ywei1rZXlmUVNXd041dS1VYU04NWFrYl9kRV9FcUF4MVNXWndqbHcyR0lyRGNrWWlWbF9NRTFBTW1jUU9qNkVlMXR2clJHRXBuT2FaaTNMdV80MWFUUHRlMWRuZDQzMG56R2czQWRUNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhaVUo0ZFdGSFdXMDRSbFJCVFJDUEF4alhCQ2dLTWdhZDhZb1J6UVE=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Why the Middle East’s Desalination Plants Are Critical - WSJ - 2 hours ago - By Thomas Grove</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMi1wFBVV95cUxQUVRQSUpCOTFxQy05Y0pFUjRFSWRCUHJ4Y0JBWmltNDNBa1BaSWdvSHdodGt3aHhRUlh3WHpuNnFsN2JIQkQ2TkhtUG03V09PU2gtRFdLcTZmY2JsaU90SHZqZFdlNndvTk9FV0NxN0Ywei1rZXlmUVNXd041dS1VYU04NWFrYl9kRV9FcUF4MVNXWndqbHcyR0lyRGNrWWlWbF9NRTFBTW1jUU9qNkVlMXR2clJHRXBuT2FaaTNMdV80MWFUUHRlMWRuZDQzMG56R2czQWRUNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 14:36:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both - AP News - 3 hours ago - By Annika Hammerschlag</title>
+      <title>Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both - AP News - 7 hours ago - By Annika Hammerschlag</title>
       <link>https://news.google.com/read/CBMipgFBVV95cUxQNmgzSHVQYVhibi1zQ01vZzR0WE41bUVIT0sxVXB0VEdCVktOOGtiX3NYVllTdl9GMkFmcVZkRndENHJyazVIRlhsVXFnN3I2RnRMc1IyLTVSUndCQkpxMFVLb25seDVfY2I0c1FsMXR2cGgxNjBQRDl4Rm1YeUZPblpXZWNXYjVpS2pERWVVSU8tbXA2aVFEUFl2X21TZFBTWXJlQjZR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhaVUo0ZFdGSFdXMDRSbFJCVFJDUEF4alhCQ2dLTWdhZDhZb1J6UVE=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both - AP News - 3 hours ago - By Annika Hammerschlag</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpaSFpqY1VWb1VqWnZWbVZ3VFJEZ0F4aUFCU2dLTWdZbEE1SlJHUWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Oil built the Persian Gulf. Desalinated water keeps it alive. War could threaten both - AP News - 7 hours ago - By Annika Hammerschlag</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMipgFBVV95cUxQNmgzSHVQYVhibi1zQ01vZzR0WE41bUVIT0sxVXB0VEdCVktOOGtiX3NYVllTdl9GMkFmcVZkRndENHJyazVIRlhsVXFnN3I2RnRMc1IyLTVSUndCQkpxMFVLb25seDVfY2I0c1FsMXR2cGgxNjBQRDl4Rm1YeUZPblpXZWNXYjVpS2pERWVVSU8tbXA2aVFEUFl2X21TZFBTWXJlQjZR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sun, 08 Mar 2026 13:19:00 +0000</pubDate>
     </item>
     <item>
-      <title>Iran War Live: Trump says Iran’s next supreme leader ‘won’t last long’ without US approval - Moneycontrol.com - 55 minutes ago</title>
-      <link>https://news.google.com/read/CBMiugFBVV95cUxPMGt1LTctWjBkWmk1ajRwVzdGNkJtWVNIRHZNclZ5bE9vZzdRaEo4YjVRd3ZFNXRYNmpnWHhmMXdKbzBPVmtwODdlcS03S3o0MEh2WG13ajYwMG1MUUN2MUdpUUIyd3BmQU5NS01tMzJGWTdQS1NCMmc2aWpxS2NHVDVUX0d0SEJ3azRCYktrN3JkdTJ4RXpzX0lDcV95RW1fVHhHOGdDWlJBVGRQbF84UWlMMVZveXNjbXfSAb8BQVVfeXFMTWVhTFV5YWpPMUo4bENYNUFlUnlPZkh1ZFRPNnp0aURFVzhjemJLN1pzeVFMUjBna1pDQUFITy02NUZ1NGY3SW9KN09DblZ6WW9qR05oZjhkeW1uM2t0RWJlWmk4VzRLZUxZM0trNVg0c25vWlNJR21KdjdmRXZSNU52RlA4SjItREVPTGdTM2RfSVRiX0txbGpoa0xQZ3VtZUNnTzZPdWdldDlJWFRHSTBXYldsZ0R0VEFreW1HMlE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDNiVzE0Vmxod0xYRkpiVTE1VFJDZkF4ampCU2dLTWdZSm9vVG11Z1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran War Live: Trump says Iran’s next supreme leader ‘won’t last long’ without US approval - Moneycontrol.com - 55 minutes ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiugFBVV95cUxPMGt1LTctWjBkWmk1ajRwVzdGNkJtWVNIRHZNclZ5bE9vZzdRaEo4YjVRd3ZFNXRYNmpnWHhmMXdKbzBPVmtwODdlcS03S3o0MEh2WG13ajYwMG1MUUN2MUdpUUIyd3BmQU5NS01tMzJGWTdQS1NCMmc2aWpxS2NHVDVUX0d0SEJ3azRCYktrN3JkdTJ4RXpzX0lDcV95RW1fVHhHOGdDWlJBVGRQbF84UWlMMVZveXNjbXfSAb8BQVVfeXFMTWVhTFV5YWpPMUo4bENYNUFlUnlPZkh1ZFRPNnp0aURFVzhjemJLN1pzeVFMUjBna1pDQUFITy02NUZ1NGY3SW9KN09DblZ6WW9qR05oZjhkeW1uM2t0RWJlWmk4VzRLZUxZM0trNVg0c25vWlNJR21KdjdmRXZSNU52RlA4SjItREVPTGdTM2RfSVRiX0txbGpoa0xQZ3VtZUNnTzZPdWdldDlJWFRHSTBXYldsZ0R0VEFreW1HMlE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 15:57:42 +0000</pubDate>
+      <title>How targeting of desalination plants could disrupt water supply in the Gulf - Al Jazeera - 6 hours ago - By Priyanka Shankar</title>
+      <link>https://news.google.com/read/CBMitgFBVV95cUxPbGZRSnNqb1lhWVpGWUxnWmdSNUtWQnY0aUxTemU1SXd5ekRtdjVvdFVGcXZfQk1IOTZ1YThUZVo3aGlsZ3dRei1GdElSam5BanpQR0tWZGd1RGFqX0xZLU5pVV9Xb0hxMzdPNmw1TkZldHhTSEpXdDdYdW5xYzNOTnFJZzlRTEpvay00aGZyX3ZKU2NQd0xnRzlfWTRwWi0ycEVSNV9UekFCeV9yeXpBTGlrdGhNQdIBuwFBVV95cUxNQUpsY1U1TnBuSGFLeVpUNmRnaVBkRXNKaXQ0WExFNmZfa0ZROURsM1U1ejNSQkd4OGpRbzRNTWNtY19hMGpvM0pMSUJUUTlVOW1IZVplaWtCeEJ4dHhtXzhzYWE2MDVOZDJWTVl1V1dVRUJ4SmRhcVRtUWpscEVBbDRaSXVnVXRzVExaREIwb0t6cXpaeFVVMGMtLWNmT1c3eXhWeHZFdUY0TjBEZ2Q1TGtaVDNBOGJOa0xj?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpaSFpqY1VWb1VqWnZWbVZ3VFJEZ0F4aUFCU2dLTWdZbEE1SlJHUWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>How targeting of desalination plants could disrupt water supply in the Gulf - Al Jazeera - 6 hours ago - By Priyanka Shankar</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitgFBVV95cUxPbGZRSnNqb1lhWVpGWUxnWmdSNUtWQnY0aUxTemU1SXd5ekRtdjVvdFVGcXZfQk1IOTZ1YThUZVo3aGlsZ3dRei1GdElSam5BanpQR0tWZGd1RGFqX0xZLU5pVV9Xb0hxMzdPNmw1TkZldHhTSEpXdDdYdW5xYzNOTnFJZzlRTEpvay00aGZyX3ZKU2NQd0xnRzlfWTRwWi0ycEVSNV9UekFCeV9yeXpBTGlrdGhNQdIBuwFBVV95cUxNQUpsY1U1TnBuSGFLeVpUNmRnaVBkRXNKaXQ0WExFNmZfa0ZROURsM1U1ejNSQkd4OGpRbzRNTWNtY19hMGpvM0pMSUJUUTlVOW1IZVplaWtCeEJ4dHhtXzhzYWE2MDVOZDJWTVl1V1dVRUJ4SmRhcVRtUWpscEVBbDRaSXVnVXRzVExaREIwb0t6cXpaeFVVMGMtLWNmT1c3eXhWeHZFdUY0TjBEZ2Q1TGtaVDNBOGJOa0xj?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 14:50:08 +0000</pubDate>
     </item>
     <item>
-      <title>Live. Trump says Iran’s next supreme leader must have US approval - Euronews.com - 10 hours ago - By Sandor Zsiros</title>
-      <link>https://news.google.com/read/CBMitgFBVV95cUxQbGo2eGhPZWZKMUFVczYwRk80ejJ4U2taWlRxUFZ2U0M2Vms3ZVJ4aGlIdFBndmJNdUsxSEFsNm1pd2VuZVlrQlk2RERyYW9qVzZZLWJUYzY5QlhJNW02VGNwYWxwR2Z4dXFrNjJ1b0FuU1dHYV9kbkQ0NXh4MFNsREQtQ0p5UGY5cUNPZ3NzZUpCQlhHOTk0UjlGeC1UV3pmZlpjaF9uSERSVkxfVVFkTk9GaU9tUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDNiVzE0Vmxod0xYRkpiVTE1VFJDZkF4ampCU2dLTWdZSm9vVG11Z1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Live. Trump says Iran’s next supreme leader must have US approval - Euronews.com - 10 hours ago - By Sandor Zsiros</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMitgFBVV95cUxQbGo2eGhPZWZKMUFVczYwRk80ejJ4U2taWlRxUFZ2U0M2Vms3ZVJ4aGlIdFBndmJNdUsxSEFsNm1pd2VuZVlrQlk2RERyYW9qVzZZLWJUYzY5QlhJNW02VGNwYWxwR2Z4dXFrNjJ1b0FuU1dHYV9kbkQ0NXh4MFNsREQtQ0p5UGY5cUNPZ3NzZUpCQlhHOTk0UjlGeC1UV3pmZlpjaF9uSERSVkxfVVFkTk9GaU9tUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 06:27:21 +0000</pubDate>
+      <title>5 charts show China’s oil dilemma after US strikes on Iran - Politico - 6 days ago - By Paroma Soni &amp; Catherine Allen</title>
+      <link>https://news.google.com/read/CBMikwFBVV95cUxQcXBuSVo5ejZicnBLQW8wbGF6N1ZGa3RDY2tkWXNGM3dGQ1RUSHZyZklXenBvbllzRk9kWTMwQkJYRTZ0WFEzOEhnTnBNY3c2WVQyXzNYQi10dlNmemQwQVY3MmVXLUozVHhFemZ3Y2dFQ0NwQ3FSTnV6TmxSTVhkamtuS3BnQUI1dHlwTGYzRl81NUE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhRVUZ5ZFZORFpqaHVUR2RXVFJES0F4aWRCU2dLTWdhUkpZQ0h5Z00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>5 charts show China’s oil dilemma after US strikes on Iran - Politico - 6 days ago - By Paroma Soni & Catherine Allen</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMikwFBVV95cUxQcXBuSVo5ejZicnBLQW8wbGF6N1ZGa3RDY2tkWXNGM3dGQ1RUSHZyZklXenBvbllzRk9kWTMwQkJYRTZ0WFEzOEhnTnBNY3c2WVQyXzNYQi10dlNmemQwQVY3MmVXLUozVHhFemZ3Y2dFQ0NwQ3FSTnV6TmxSTVhkamtuS3BnQUI1dHlwTGYzRl81NUE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Mon, 02 Mar 2026 15:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Lebanon says nearly 400 killed in Israeli strikes as US urges Iranians to 'stay at home' - BBC - 3 minutes ago</title>
-      <link>https://news.google.com/read/CBMiV0FVX3lxTE41X1JPTWhpR0I1Wnp0UFpHYS1ISHl0Wk1YdUgxU2pFOGM4OXRNenBlOWFNNUxYWThzNU5TaXdoSF8wWTZCOTFRNlk0THJPc1NPaGdGTFN1TQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDNiVzE0Vmxod0xYRkpiVTE1VFJDZkF4ampCU2dLTWdZSm9vVG11Z1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Lebanon says nearly 400 killed in Israeli strikes as US urges Iranians to 'stay at home' - BBC - 3 minutes ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiV0FVX3lxTE41X1JPTWhpR0I1Wnp0UFpHYS1ISHl0Wk1YdUgxU2pFOGM4OXRNenBlOWFNNUxYWThzNU5TaXdoSF8wWTZCOTFRNlk0THJPc1NPaGdGTFN1TQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 16:50:06 +0000</pubDate>
+      <title>'What is the game plan?': The Iran war is unsettling China and its ambitions - BBC - 3 days ago - By Laura Bicker</title>
+      <link>https://news.google.com/read/CBMiWkFVX3lxTE5heUZ1dDVzTGE0OVdiMWhTUTdPSVR6emRabUtfR0VTQ3JYX3hUMFFodDEzSDBpM2xibm9ueXpBTndDX0JQYjNrcGFoVDB4U0xWQ2N0QnFoUHZnZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhRVUZ5ZFZORFpqaHVUR2RXVFJES0F4aWRCU2dLTWdhUkpZQ0h5Z00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>'What is the game plan?': The Iran war is unsettling China and its ambitions - BBC - 3 days ago - By Laura Bicker</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiWkFVX3lxTE5heUZ1dDVzTGE0OVdiMWhTUTdPSVR6emRabUtfR0VTQ3JYX3hUMFFodDEzSDBpM2xibm9ueXpBTndDX0JQYjNrcGFoVDB4U0xWQ2N0QnFoUHZnZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Thu, 05 Mar 2026 23:13:57 +0000</pubDate>
     </item>
     <item>
-      <title>Huge fire engulfs Kuwait City tower as Trump accuses Starmer of seeking to 'join wars after we've already won' - BBC - 10 hours ago</title>
-      <link>https://news.google.com/read/CBMiVEFVX3lxTE1Tek5qazh4bTFBR3hzMDVfc1ZJSnZJYU1nak40TE1uRTNLb0dvUU9EMzVjZ1pNU0J3N2ZuZVY3cE5hZVlIbjRDTkFKYWM4R2J2RGRZNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDNiVzE0Vmxod0xYRkpiVTE1VFJDZkF4ampCU2dLTWdZSm9vVG11Z1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Huge fire engulfs Kuwait City tower as Trump accuses Starmer of seeking to 'join wars after we've already won' - BBC - 10 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiVEFVX3lxTE1Tek5qazh4bTFBR3hzMDVfc1ZJSnZJYU1nak40TE1uRTNLb0dvUU9EMzVjZ1pNU0J3N2ZuZVY3cE5hZVlIbjRDTkFKYWM4R2J2RGRZNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 06:32:09 +0000</pubDate>
+      <title>‘No popular support’: China warns against government change in Iran - Al Jazeera - 12 hours ago</title>
+      <link>https://news.google.com/read/CBMipwFBVV95cUxQSThyd1JuNFc4NHk1a1BaUmVJdGNldl9VbkQxcHdmdGNEM0dLbjM3OVR1TW9UNUtMc1BoRU9yZUFPNVFwZlJEZ3VlUlYwaHk2aEZoQ21GbUJUb0daZk93YU5XX3NBTUU0Rm5zcXhheWN4dlZEVnR2Mk9CMEZnRXdqTDNXMWNYTjBaTmREY2pjMEV2SmVSNlV0VERyb0djN1J2U2t1b0tab9IBrAFBVV95cUxNYlk1Y18xalRSc0VUendVN2JoV19zTjZkWENIT3luR3VTTjl0SEFWVWhwWVNjQVRvcG0tV3VLdGF2aTFwV2hEUDN6SC1zT2xZNU1TcDd3ZjJQVnZMaFNsdnZjT0c0WjItLTljZWlRMnZINVg0VzlhVWxsLWlOMDRnZXFzY0RTajl4aDFSVVpUTDZpVDlfX0xqRTd4V1prU1hES21DNmdlWWw4bkRU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhRVUZ5ZFZORFpqaHVUR2RXVFJES0F4aWRCU2dLTWdhUkpZQ0h5Z00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>‘No popular support’: China warns against government change in Iran - Al Jazeera - 12 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMipwFBVV95cUxQSThyd1JuNFc4NHk1a1BaUmVJdGNldl9VbkQxcHdmdGNEM0dLbjM3OVR1TW9UNUtMc1BoRU9yZUFPNVFwZlJEZ3VlUlYwaHk2aEZoQ21GbUJUb0daZk93YU5XX3NBTUU0Rm5zcXhheWN4dlZEVnR2Mk9CMEZnRXdqTDNXMWNYTjBaTmREY2pjMEV2SmVSNlV0VERyb0djN1J2U2t1b0tab9IBrAFBVV95cUxNYlk1Y18xalRSc0VUendVN2JoV19zTjZkWENIT3luR3VTTjl0SEFWVWhwWVNjQVRvcG0tV3VLdGF2aTFwV2hEUDN6SC1zT2xZNU1TcDd3ZjJQVnZMaFNsdnZjT0c0WjItLTljZWlRMnZINVg0VzlhVWxsLWlOMDRnZXFzY0RTajl4aDFSVVpUTDZpVDlfX0xqRTd4V1prU1hES21DNmdlWWw4bkRU?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 08:37:23 +0000</pubDate>
     </item>
     <item>
-      <title>Trump tells Britain he does not need its help to win Iran war - Reuters - 17 hours ago</title>
-      <link>https://news.google.com/read/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump tells Britain he does not need its help to win Iran war - Reuters - 17 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 22:55:14 +0000</pubDate>
+      <title>China warns ‘flames of war’ spreading and calls on US to help manage differences ahead of Xi-Trump meeting - CNN - 17 hours ago - By John Liu</title>
+      <link>https://news.google.com/read/CBMidkFVX3lxTE1rVjltb3lUcC1oQUtZaVlHYVg2U1M3WXJ1MkhjNkJiR0NwTHFxNWZMU0pNVWF5d3dDOFZVR1ZIZHZyTkw2ZXhSOHBZelpLZ0Y4R09SUmZKNlZKNmdvcEJUR0pMOHVTZ1lEMVZvYU5EMnBkYmJ2M0E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhRVUZ5ZFZORFpqaHVUR2RXVFJES0F4aWRCU2dLTWdhUkpZQ0h5Z00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>China warns ‘flames of war’ spreading and calls on US to help manage differences ahead of Xi-Trump meeting - CNN - 17 hours ago - By John Liu</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMidkFVX3lxTE1rVjltb3lUcC1oQUtZaVlHYVg2U1M3WXJ1MkhjNkJiR0NwTHFxNWZMU0pNVWF5d3dDOFZVR1ZIZHZyTkw2ZXhSOHBZelpLZ0Y4R09SUmZKNlZKNmdvcEJUR0pMOHVTZ1lEMVZvYU5EMnBkYmJ2M0E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 03:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>Starmer speaks with Trump after president criticises lack of UK support for Iran strikes - The Guardian - 26 minutes ago</title>
-      <link>https://news.google.com/read/CBMi0wFBVV95cUxOQXE3OVRxYnR6UUdlV3QxRnpWTzBhNmZDbTAyWUk4Rm10Wi1tenNtX0NpNjVVSkkwSmV4RmxyTXlrX0xGYkEwbEZuTU5QVFQtd2tDRFJXaDFuRW1BT0xXZVJCNldhSldXcjR4WDVpS1pHR1F0Ykd1M2tReTV1YmVOVVJCemRnLXY2RFBNWER0R3dZd3NYRXkybnpJRHlPZjlPMVRpQ3hoVUsycHY5MUF6aFZWSkRneHY0aW9CLVpDYkQzUms2X25GeUdzdnBEWGxMd2ZB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Starmer speaks with Trump after president criticises lack of UK support for Iran strikes - The Guardian - 26 minutes ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMi0wFBVV95cUxOQXE3OVRxYnR6UUdlV3QxRnpWTzBhNmZDbTAyWUk4Rm10Wi1tenNtX0NpNjVVSkkwSmV4RmxyTXlrX0xGYkEwbEZuTU5QVFQtd2tDRFJXaDFuRW1BT0xXZVJCNldhSldXcjR4WDVpS1pHR1F0Ykd1M2tReTV1YmVOVVJCemRnLXY2RFBNWER0R3dZd3NYRXkybnpJRHlPZjlPMVRpQ3hoVUsycHY5MUF6aFZWSkRneHY0aW9CLVpDYkQzUms2X25GeUdzdnBEWGxMd2ZB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 16:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump accuses Starmer of seeking to 'join wars after we've already won' - BBC - 9 hours ago - By Ana Faguy</title>
-      <link>https://news.google.com/read/CBMiWkFVX3lxTE1uU0J6UV9fMG9Ndld6UmI0ZGdCY2s4Y0tLenlyMWVQaURFR2lXNms3dE16MEJEOHVsUVNZSjZaUDZxa3ZWVGp4QTRQYkJuTURaUExZdW1BVnpjUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump accuses Starmer of seeking to 'join wars after we've already won' - BBC - 9 hours ago - By Ana Faguy</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiWkFVX3lxTE1uU0J6UV9fMG9Ndld6UmI0ZGdCY2s4Y0tLenlyMWVQaURFR2lXNms3dE16MEJEOHVsUVNZSjZaUDZxa3ZWVGp4QTRQYkJuTURaUExZdW1BVnpjUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 07:11:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu - 8 hours ago - By Jones Hayden</title>
-      <link>https://news.google.com/read/CBMioAFBVV95cUxOUGdyamNYQWctYzRmVndZcklLY3VQUy14WGM5OVM1NVRPNE9GTTVQM0NjMmFFUmVCMmkwcVBZbDhLYm1pUEdxaFNnT3lZZFhuN1A0X21abmYxV0JKQ1pKOVg1eUMwS2R5T2hkbElyb2JYQmprRFBlLWktOWdHWC1aRlVGYVIyTmE1X2lQYVBOVGdhdVFyRjZ4Z01HZW1QOGE4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu - 8 hours ago - By Jones Hayden</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMioAFBVV95cUxOUGdyamNYQWctYzRmVndZcklLY3VQUy14WGM5OVM1NVRPNE9GTTVQM0NjMmFFUmVCMmkwcVBZbDhLYm1pUEdxaFNnT3lZZFhuN1A0X21abmYxV0JKQ1pKOVg1eUMwS2R5T2hkbElyb2JYQmprRFBlLWktOWdHWC1aRlVGYVIyTmE1X2lQYVBOVGdhdVFyRjZ4Z01HZW1QOGE4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 08:02:00 +0000</pubDate>
+      <title>Russia ‘helping’ Iran ‘in many different directions’ amid war: Araghchi - The Hill - 4 hours ago - By Sophia Vento</title>
+      <link>https://news.google.com/read/CBMiigFBVV95cUxNRklHNnBfRnEwajhZUHc5ZlNXT2ZoX3AybzgxaDNnQTEycFlfWEtXNmtLbHlRT1VmNTZ5Zzg5eHlGcXZTalRORUFETEloV29iVEpwNllVeldaX3lkUW5EQmlOMzJRcXJWMk1sNW1Lc2tRTmxGa2VSREF4UkZzOVByNW9zY0RkUlRfd0HSAY8BQVVfeXFMT3FPVzZUMnZpX1lEUmh4YVkzRTMyMzlWbFlXbXFMbUN1eTJVMmlfVU4yWnVoTEpiSkkzME1rZ2pIVE10R1A2Wml2R21fZXBYZkVNRmpodTQxM291SnhrbGdYRDRzMmg2b1VrdVRhY2tfM3JaLS1ldXdmV2ZaRExYdVh5U2VBdnQwMTJ4WEVMNjQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNHhaVlJTVjA5SVZtZFFjR3RyVFJDZkF4ampCU2dLTWdZZFI1b3FIZ2s=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Russia ‘helping’ Iran ‘in many different directions’ amid war: Araghchi - The Hill - 4 hours ago - By Sophia Vento</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiigFBVV95cUxNRklHNnBfRnEwajhZUHc5ZlNXT2ZoX3AybzgxaDNnQTEycFlfWEtXNmtLbHlRT1VmNTZ5Zzg5eHlGcXZTalRORUFETEloV29iVEpwNllVeldaX3lkUW5EQmlOMzJRcXJWMk1sNW1Lc2tRTmxGa2VSREF4UkZzOVByNW9zY0RkUlRfd0HSAY8BQVVfeXFMT3FPVzZUMnZpX1lEUmh4YVkzRTMyMzlWbFlXbXFMbUN1eTJVMmlfVU4yWnVoTEpiSkkzME1rZ2pIVE10R1A2Wml2R21fZXBYZkVNRmpodTQxM291SnhrbGdYRDRzMmg2b1VrdVRhY2tfM3JaLS1ldXdmV2ZaRExYdVh5U2VBdnQwMTJ4WEVMNjQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 16:01:00 +0000</pubDate>
     </item>
     <item>
       <title>Russian Offensive Campaign Assessment, March 6, 2026 - Institute for the Study of War - Yesterday</title>
@@ -126,13 +77,6 @@
       <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNHhaVlJTVjA5SVZtZFFjR3RyVFJDZkF4ampCU2dLTWdZZFI1b3FIZ2s=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Russian Offensive Campaign Assessment, March 6, 2026 - Institute for the Study of War - Yesterday</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMipwFBVV95cUxQZmNFd3g1SkR3Z212NG1UMHRFLUtxcDg4QU91THBid3B0TWVoenRTcF9MUHNKbmN6bVFrdnZxazlnSDFFSnExSkFyR243SFFjaWFVSDZzTFEzWmV4OVFwUDUtZ01iZmNZVXRfMVhqLU1WRTV0aW1ROTk3Y1NvUTlFbzUtZ2M5YUxrS1otRzYtLXdEUkFJV1B0Q0lCZUlRMjFmdmR6UDFWYw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sat, 07 Mar 2026 07:35:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Russia ‘helping’ Iran ‘in many different directions’ amid war: Araghchi - The Hill - 1 hour ago - By Sophia Vento</title>
-      <link>https://news.google.com/read/CBMiigFBVV95cUxNRklHNnBfRnEwajhZUHc5ZlNXT2ZoX3AybzgxaDNnQTEycFlfWEtXNmtLbHlRT1VmNTZ5Zzg5eHlGcXZTalRORUFETEloV29iVEpwNllVeldaX3lkUW5EQmlOMzJRcXJWMk1sNW1Lc2tRTmxGa2VSREF4UkZzOVByNW9zY0RkUlRfd0HSAY8BQVVfeXFMT3FPVzZUMnZpX1lEUmh4YVkzRTMyMzlWbFlXbXFMbUN1eTJVMmlfVU4yWnVoTEpiSkkzME1rZ2pIVE10R1A2Wml2R21fZXBYZkVNRmpodTQxM291SnhrbGdYRDRzMmg2b1VrdVRhY2tfM3JaLS1ldXdmV2ZaRExYdVh5U2VBdnQwMTJ4WEVMNjQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNHhaVlJTVjA5SVZtZFFjR3RyVFJDZkF4ampCU2dLTWdZZFI1b3FIZ2s=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Russia ‘helping’ Iran ‘in many different directions’ amid war: Araghchi - The Hill - 1 hour ago - By Sophia Vento</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiigFBVV95cUxNRklHNnBfRnEwajhZUHc5ZlNXT2ZoX3AybzgxaDNnQTEycFlfWEtXNmtLbHlRT1VmNTZ5Zzg5eHlGcXZTalRORUFETEloV29iVEpwNllVeldaX3lkUW5EQmlOMzJRcXJWMk1sNW1Lc2tRTmxGa2VSREF4UkZzOVByNW9zY0RkUlRfd0HSAY8BQVVfeXFMT3FPVzZUMnZpX1lEUmh4YVkzRTMyMzlWbFlXbXFMbUN1eTJVMmlfVU4yWnVoTEpiSkkzME1rZ2pIVE10R1A2Wml2R21fZXBYZkVNRmpodTQxM291SnhrbGdYRDRzMmg2b1VrdVRhY2tfM3JaLS1ldXdmV2ZaRExYdVh5U2VBdnQwMTJ4WEVMNjQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 15:47:15 +0000</pubDate>
     </item>
     <item>
       <title>Russia is providing Iran intelligence to target U.S. forces, officials say - The Washington Post - 2 days ago - By Ellen Nakashima, Noah Robertson &amp; Warren P. Strobel</title>
@@ -149,6 +93,13 @@
       <pubDate>Sat, 07 Mar 2026 06:29:07 +0000</pubDate>
     </item>
     <item>
+      <title>Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones - Al Jazeera - 21 hours ago</title>
+      <link>https://news.google.com/read/CBMirwFBVV95cUxPUWFhdXc1N1VqSENGNk0wZmNzRkFLd3phakJsdzk5S05NLUdlUUphVjNzZTBGWDhFcndrMmdFeVZ4TUJnNF9rM1VLLVpVaGdIYmMzZXdzSXV2Tzh4aWd2bjFDSml3d2VqZ2Fta2V0ZlkxMXRheE5EdzhBRms3SzFJbnNhZ3RVNEZEcm5QU1U5aVpoeDVKWVJ0VzZfVjA2ZkwwdzlmNmlQYWlQWWQ5TWRN0gG0AUFVX3lxTFBKQWMxU3plcmxiWGkxTWFZb2RvMEZ6Tk5EN080UWpsdm1VbjRQdDU5TnRRZ3VQcW8xUks2azItOV9weTJjWkRvUmcwTjJaUGRERlBWUjNYQVRjQWgwWlFUYUxMU3FnUjRnVUpEWUE2T1pvOGlmVVVvWDFweF82cmJSbGp6MUtLbEpwRTJsTkx2Z3pUS3FLNkdLdFdrc2lBZEk5bWFnZ2tFTy1LeXdEWXFrN1dkag?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhUR05aWVVaUVRqbDNNbXhJVFJERUF4aW5CU2dLTWdZbGRwRHNyUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Zelenskyy offers Saudi Arabia’s MBS help countering Iranian drones - Al Jazeera - 21 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMirwFBVV95cUxPUWFhdXc1N1VqSENGNk0wZmNzRkFLd3phakJsdzk5S05NLUdlUUphVjNzZTBGWDhFcndrMmdFeVZ4TUJnNF9rM1VLLVpVaGdIYmMzZXdzSXV2Tzh4aWd2bjFDSml3d2VqZ2Fta2V0ZlkxMXRheE5EdzhBRms3SzFJbnNhZ3RVNEZEcm5QU1U5aVpoeDVKWVJ0VzZfVjA2ZkwwdzlmNmlQYWlQWWQ5TWRN0gG0AUFVX3lxTFBKQWMxU3plcmxiWGkxTWFZb2RvMEZ6Tk5EN080UWpsdm1VbjRQdDU5TnRRZ3VQcW8xUks2azItOV9weTJjWkRvUmcwTjJaUGRERlBWUjNYQVRjQWgwWlFUYUxMU3FnUjRnVUpEWUE2T1pvOGlmVVVvWDFweF82cmJSbGp6MUtLbEpwRTJsTkx2Z3pUS3FLNkdLdFdrc2lBZEk5bWFnZ2tFTy1LeXdEWXFrN1dkag?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 23:18:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Russian Offensive Campaign Assessment, March 5, 2026 - Institute for the Study of War - 2 days ago</title>
       <link>https://news.google.com/read/CBMipwFBVV95cUxPY3hiMmtyVV92MnJlWUozOWgzaWpZMkJlRlJQeHIyRkxUa2otR0RBSFNoYXZ0ZFdKWjJqR1ZNUGdjQjlmTEpLLWxZNk12bFpveHRMRlh4QmctTGQ1cHZrUkRLdGxaTnJUek9ZbWFsM1d3Z1dycHE1SFlLWVdDU0xYNTF3bVdfNFpNVEhyZWZMMkdmSTRwTnZ5NGwxUGFrZVZraW5sYmx0OA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
       <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhUR05aWVVaUVRqbDNNbXhJVFJERUF4aW5CU2dLTWdZbGRwRHNyUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Russian Offensive Campaign Assessment, March 5, 2026 - Institute for the Study of War - 2 days ago</p>]]></description>
@@ -156,67 +107,53 @@
       <pubDate>Fri, 06 Mar 2026 07:21:20 +0000</pubDate>
     </item>
     <item>
-      <title>U.S. Army Sends Ukraine-Tested Drones to Hit Iran’s Drones - WSJ - 20 hours ago - By Daniel Michaels, Michael R. Gordon &amp; Alistair MacDonald</title>
+      <title>U.S. Army Sends Ukraine-Tested Drones to Hit Iran’s Drones - WSJ - Yesterday - By Daniel Michaels, Michael R. Gordon &amp; Alistair MacDonald</title>
       <link>https://news.google.com/read/CBMilgFBVV95cUxOa0VydU5FQUFLOWdnUXFicGFHRkRxZU1jMzlJMzlZZFZacE1WZjZ6Y1dQRGJTUmduaDZFSm80blJfa0ZZOUpSTUI0WkwzMkMtSm1RUVlaUHhXQm1xWmFmdWY0V0ZLOTVnTExwU25FNHNvTE5USlV6c3VWS2hLVG9QUU5tXy05VnhHWFNKSkkyRHlkRERPZmc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhUR05aWVVaUVRqbDNNbXhJVFJERUF4aW5CU2dLTWdZbGRwRHNyUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>U.S. Army Sends Ukraine-Tested Drones to Hit Iran’s Drones - WSJ - 20 hours ago - By Daniel Michaels, Michael R. Gordon & Alistair MacDonald</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhUR05aWVVaUVRqbDNNbXhJVFJERUF4aW5CU2dLTWdZbGRwRHNyUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>U.S. Army Sends Ukraine-Tested Drones to Hit Iran’s Drones - WSJ - Yesterday - By Daniel Michaels, Michael R. Gordon & Alistair MacDonald</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMilgFBVV95cUxOa0VydU5FQUFLOWdnUXFicGFHRkRxZU1jMzlJMzlZZFZacE1WZjZ6Y1dQRGJTUmduaDZFSm80blJfa0ZZOUpSTUI0WkwzMkMtSm1RUVlaUHhXQm1xWmFmdWY0V0ZLOTVnTExwU25FNHNvTE5USlV6c3VWS2hLVG9QUU5tXy05VnhHWFNKSkkyRHlkRERPZmc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sat, 07 Mar 2026 20:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zelensky says Ukrainian drone experts will be ‘on site’ in Mideast next week - The Times of Israel - 3 hours ago</title>
-      <link>https://news.google.com/read/CBMivAFBVV95cUxNVFVNNnZrMFR4MFlpS3JJR29BLU92bzEzMnJkLXgzTGJtNFdfUURLbjJsRDhKcDM3WlZoY3FDeUd3UUYtTmlNLUtLMHZMMUJHZC0wOXdpd3REMmFuQ0k0dWZCWTZueW0tei05OUtWUWpMWVJOTDFLSWprM2dfM1JGTW5ock5zNXlvNmZVUTFWeFdQQ0tSY0N1N08xSjBxRFp5SWVrVFViS19HT2lfVWFrV3Z4c1hBY1Y4TUJzVQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhUR05aWVVaUVRqbDNNbXhJVFJERUF4aW5CU2dLTWdZbGRwRHNyUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Zelensky says Ukrainian drone experts will be ‘on site’ in Mideast next week - The Times of Israel - 3 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMivAFBVV95cUxNVFVNNnZrMFR4MFlpS3JJR29BLU92bzEzMnJkLXgzTGJtNFdfUURLbjJsRDhKcDM3WlZoY3FDeUd3UUYtTmlNLUtLMHZMMUJHZC0wOXdpd3REMmFuQ0k0dWZCWTZueW0tei05OUtWUWpMWVJOTDFLSWprM2dfM1JGTW5ock5zNXlvNmZVUTFWeFdQQ0tSY0N1N08xSjBxRFp5SWVrVFViS19HT2lfVWFrV3Z4c1hBY1Y4TUJzVQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 13:36:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>US sends AI-powered anti-drone system to Mideast after 'disappointing' response to Iran's Shahed - Fortune - 19 hours ago - By Emma Burrows</title>
+      <title>US sends AI-powered anti-drone system to Mideast after 'disappointing' response to Iran's Shahed - Fortune - 23 hours ago - By Emma Burrows</title>
       <link>https://news.google.com/read/CBMihgFBVV95cUxNd05YUlpJRWpUZkVPUmdNdWRzM3E1VDZxM3FJQmRTZWtSWV85RFQtNVRmbHVMcE5QeWxveERNUkhSSkc5a1B1MmVWZng1OHp1Y0FBTnh4MTZ0aTNOSW8yR2lsdnhiZWIwOWJBV3NvaS1OZUthRTJxSk9JUXBxTDJNcm05M3VaQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhUR05aWVVaUVRqbDNNbXhJVFJERUF4aW5CU2dLTWdZbGRwRHNyUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>US sends AI-powered anti-drone system to Mideast after 'disappointing' response to Iran's Shahed - Fortune - 19 hours ago - By Emma Burrows</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUhUR05aWVVaUVRqbDNNbXhJVFJERUF4aW5CU2dLTWdZbGRwRHNyUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>US sends AI-powered anti-drone system to Mideast after 'disappointing' response to Iran's Shahed - Fortune - 23 hours ago - By Emma Burrows</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMihgFBVV95cUxNd05YUlpJRWpUZkVPUmdNdWRzM3E1VDZxM3FJQmRTZWtSWV85RFQtNVRmbHVMcE5QeWxveERNUkhSSkc5a1B1MmVWZng1OHp1Y0FBTnh4MTZ0aTNOSW8yR2lsdnhiZWIwOWJBV3NvaS1OZUthRTJxSk9JUXBxTDJNcm05M3VaQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sat, 07 Mar 2026 21:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>First worrying daylight between the U.S. and Israel emerges as they battle Iran | Opinion - Haaretz - 21 hours ago - By Chuck Freilich</title>
-      <link>https://news.google.com/read/CBMilAJBVV95cUxNaVE5VGxOVUF2Y2lfMG44NmRvQjRVX09iUjJZMi1vc2Q4a3BOa1dTUFE1QzNJNU85dURZSS0xTWZieVRzckNra0Jva0FsU1FHUS1VZzV1ZEJVNkZCTG8xYklJU2hUY084cGRnelZSWks0WldpT3VBbnExWUZ1QThwRml1dm1ZZ0xtNjFOY3owZUpYU0pGTjE2LURSYTZXanJ1OWE0SFVLemx6eVc4bTNUTnU3QTFIanR1UWc1a3Q5Rl92S0ZDUmMySUdrbXl3VnN0Z09Nc215TzNHQmtjUld6aTBSNjFqMFVPTW1YdkcwUU1Pb0h6NENQUGRlRHJnN3lMT3dnSVlBdVJ3MUN0VzRSLVJXQmo?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNDVjRXBqUWpsb05ucFFlVjlGVFJERUF4aW1CU2dLTWdtRkVxSVRFU3ZCeFFJ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>First worrying daylight between the U.S. and Israel emerges as they battle Iran | Opinion - Haaretz - 21 hours ago - By Chuck Freilich</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMilAJBVV95cUxNaVE5VGxOVUF2Y2lfMG44NmRvQjRVX09iUjJZMi1vc2Q4a3BOa1dTUFE1QzNJNU85dURZSS0xTWZieVRzckNra0Jva0FsU1FHUS1VZzV1ZEJVNkZCTG8xYklJU2hUY084cGRnelZSWks0WldpT3VBbnExWUZ1QThwRml1dm1ZZ0xtNjFOY3owZUpYU0pGTjE2LURSYTZXanJ1OWE0SFVLemx6eVc4bTNUTnU3QTFIanR1UWc1a3Q5Rl92S0ZDUmMySUdrbXl3VnN0Z09Nc215TzNHQmtjUld6aTBSNjFqMFVPTW1YdkcwUU1Pb0h6NENQUGRlRHJnN3lMT3dnSVlBdVJ3MUN0VzRSLVJXQmo?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 19:32:00 +0000</pubDate>
+      <title>What to know about Iran's Revolutionary Guard, a powerful force within the country's theocracy - AP News - 5 days ago - By Jon Gambrell</title>
+      <link>https://news.google.com/read/CBMisAFBVV95cUxQR1YxRkZLUF9zQmxwOEk3US1tZmVpTGFYNzFKb1RPMEFTcEtxdV84a1FwcS03NTU2dkZpejVQR2ZDZ0VJYU94WkdOeHNacWVYVGc5Y1FtWkhSVmphNnpuTFpFbmdpUXVnUTRaUkREM2Jxa01KN2J2ZGJyeUloQWxNVGdwMnJzRnZob0JMcExrRUVKVHRBblRLSWlneGhBWFc5b1hYMnlPR2JWXzAwSDA2UA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNXhTMmRpTFVoRFdtZFpVa1JVVFJDUUF4allCQ2dLTWdrQllJN2lJbWdrendF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>What to know about Iran's Revolutionary Guard, a powerful force within the country's theocracy - AP News - 5 days ago - By Jon Gambrell</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxQR1YxRkZLUF9zQmxwOEk3US1tZmVpTGFYNzFKb1RPMEFTcEtxdV84a1FwcS03NTU2dkZpejVQR2ZDZ0VJYU94WkdOeHNacWVYVGc5Y1FtWkhSVmphNnpuTFpFbmdpUXVnUTRaUkREM2Jxa01KN2J2ZGJyeUloQWxNVGdwMnJzRnZob0JMcExrRUVKVHRBblRLSWlneGhBWFc5b1hYMnlPR2JWXzAwSDA2UA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Tue, 03 Mar 2026 17:38:30 +0000</pubDate>
     </item>
     <item>
-      <title>One week in: Visualizing the evolution of the US-Israeli war with Iran - CNN - Yesterday - By Renee Rigdon, Janie Boschma &amp; Amy O'Kruk</title>
-      <link>https://news.google.com/read/CBMihgFBVV95cUxQbjBBTFBNblZjVEVaTlU0NDdPRDZGZnJHOS05dHZEUWdqRlR6RjVFTkw0MHF1U185aWZyY0lJcHJfcS1DSE5wRjBYVXFuazJyS3lUTF8yT3h5dWhuZm55WjcwLUtaRzZiRlN6OER3eFVmVGlUNUNmRHlRa0Y4dWNEN1M3cnJoQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNDVjRXBqUWpsb05ucFFlVjlGVFJERUF4aW1CU2dLTWdtRkVxSVRFU3ZCeFFJ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>One week in: Visualizing the evolution of the US-Israeli war with Iran - CNN - Yesterday - By Renee Rigdon, Janie Boschma & Amy O'Kruk</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMihgFBVV95cUxQbjBBTFBNblZjVEVaTlU0NDdPRDZGZnJHOS05dHZEUWdqRlR6RjVFTkw0MHF1U185aWZyY0lJcHJfcS1DSE5wRjBYVXFuazJyS3lUTF8yT3h5dWhuZm55WjcwLUtaRzZiRlN6OER3eFVmVGlUNUNmRHlRa0Y4dWNEN1M3cnJoQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 11:40:13 +0000</pubDate>
+      <title>Who is Ahmad Vahidi, the IRGC’s new commander? - Al Jazeera - 3 days ago - By Faisal Ali</title>
+      <link>https://news.google.com/read/CBMiiwFBVV95cUxOOEVjQlpqNWFkVlJybFZ3VkVHcjd5SE44dzRxem44Zy11VWtXdlRXUGUzLUtVYmdEakYzSFB3dXJ2c1R2ckFRRmFJZlZJT2U0aGF5ZUpTQWNYZF8wOG9TYnlIM1FUZ0R6aHVDa2RKTF8zNHFGQTlxT0UtbUNrcnJXSGRjaVRJSlpiUC040gGQAUFVX3lxTE9IMmJJZnRQUmdGNGVlR3J2WjBnSjB6UDVZVWdlRjJRcW9oaXdTdXo4a0tOTGJNM0ZxU0dFZkVDQk1iVWllMEQ3ZTFKRnAxV1M2RHpKOFh6TlN4SjZVclN6NDIzSlRCanVTREc5Yy1BQ3JnTWZFdlRTSFFEeEM4V0wzR3paZ1RFUHZpY0R6S3BkeA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNXhTMmRpTFVoRFdtZFpVa1JVVFJDUUF4allCQ2dLTWdrQllJN2lJbWdrendF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Who is Ahmad Vahidi, the IRGC’s new commander? - Al Jazeera - 3 days ago - By Faisal Ali</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiiwFBVV95cUxOOEVjQlpqNWFkVlJybFZ3VkVHcjd5SE44dzRxem44Zy11VWtXdlRXUGUzLUtVYmdEakYzSFB3dXJ2c1R2ckFRRmFJZlZJT2U0aGF5ZUpTQWNYZF8wOG9TYnlIM1FUZ0R6aHVDa2RKTF8zNHFGQTlxT0UtbUNrcnJXSGRjaVRJSlpiUC040gGQAUFVX3lxTE9IMmJJZnRQUmdGNGVlR3J2WjBnSjB6UDVZVWdlRjJRcW9oaXdTdXo4a0tOTGJNM0ZxU0dFZkVDQk1iVWllMEQ3ZTFKRnAxV1M2RHpKOFh6TlN4SjZVclN6NDIzSlRCanVTREc5Yy1BQ3JnTWZFdlRTSFFEeEM4V0wzR3paZ1RFUHZpY0R6S3BkeA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Fri, 06 Mar 2026 01:09:50 +0000</pubDate>
     </item>
     <item>
-      <title>In War’s First Week, a Punishing Military Campaign With No Coherent Endgame - The New York Times - 19 hours ago - By Mark Mazzetti, Julian E. Barnes &amp; Farnaz Fassihi</title>
-      <link>https://news.google.com/read/CBMie0FVX3lxTE4yLUtaZzRVeXJSdDNOY1lFR2NxM184VTZoUnZCYTRFNE9vTzVLTlNVVDR0TGVHaEE4c3pNOTdkaWRHaWFQbmkzNGdBUlBTRXBzQzJ4UmNHTy1rOTZaSkNBakdKZ0ljN19nWW5tdkJ6b0xlWUFoZ1JBQmY0Zw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNDVjRXBqUWpsb05ucFFlVjlGVFJERUF4aW1CU2dLTWdtRkVxSVRFU3ZCeFFJ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>In War’s First Week, a Punishing Military Campaign With No Coherent Endgame - The New York Times - 19 hours ago - By Mark Mazzetti, Julian E. Barnes & Farnaz Fassihi</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMie0FVX3lxTE4yLUtaZzRVeXJSdDNOY1lFR2NxM184VTZoUnZCYTRFNE9vTzVLTlNVVDR0TGVHaEE4c3pNOTdkaWRHaWFQbmkzNGdBUlBTRXBzQzJ4UmNHTy1rOTZaSkNBakdKZ0ljN19nWW5tdkJ6b0xlWUFoZ1JBQmY0Zw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 21:17:24 +0000</pubDate>
+      <title>The guards rise again: the force still shaping Iran - Financial Times - 11 hours ago</title>
+      <link>https://news.google.com/read/CBMicEFVX3lxTE1YcnA0X1JQNDdoMHBWRUgxZ1lvZ3pjWWNDVWd5SVQ1cjh6dVc5cWtyTTJ4OWlIYkpsbldncWtyNmNfc01mLUVGd2NKYXQ0OEJpY3g0SkRWNGJpQWs4NXZqcnk5SWQyMm9YVURIUXVFTC0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNXhTMmRpTFVoRFdtZFpVa1JVVFJDUUF4allCQ2dLTWdrQllJN2lJbWdrendF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>The guards rise again: the force still shaping Iran - Financial Times - 11 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMicEFVX3lxTE1YcnA0X1JQNDdoMHBWRUgxZ1lvZ3pjWWNDVWd5SVQ1cjh6dVc5cWtyTTJ4OWlIYkpsbldncWtyNmNfc01mLUVGd2NKYXQ0OEJpY3g0SkRWNGJpQWs4NXZqcnk5SWQyMm9YVURIUXVFTC0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 09:15:54 +0000</pubDate>
     </item>
     <item>
-      <title>Iran War: Ends and Means - RealClearDefense - Yesterday - By Francis P. Sempa</title>
-      <link>https://news.google.com/read/CBMikwFBVV95cUxNalFKQlFkbEZTN2RVT1JQUTZxMU5WUFhPM1cwczktdGprS19tN2h3X01CZ1cyR0FWVEMwVDItMEs4YkpUd1U2QnQtcjhCT0J4NkNTMVYwU1QtZ3V0ZU9PeEoyeGtZbVJ1Nlc3NzZNUUJsNHFzbERtcEpzaTRfOWttdTFJVVk3d0szeW1yOHE4c1FmRGc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNDVjRXBqUWpsb05ucFFlVjlGVFJERUF4aW1CU2dLTWdtRkVxSVRFU3ZCeFFJ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran War: Ends and Means - RealClearDefense - Yesterday - By Francis P. Sempa</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMikwFBVV95cUxNalFKQlFkbEZTN2RVT1JQUTZxMU5WUFhPM1cwczktdGprS19tN2h3X01CZ1cyR0FWVEMwVDItMEs4YkpUd1U2QnQtcjhCT0J4NkNTMVYwU1QtZ3V0ZU9PeEoyeGtZbVJ1Nlc3NzZNUUJsNHFzbERtcEpzaTRfOWttdTFJVVk3d0szeW1yOHE4c1FmRGc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 13:19:29 +0000</pubDate>
+      <title>Iran’s Revolutionary Guards: The Spine of a Militarized State - The New York Times - 10 hours ago - By Neil MacFarquhar</title>
+      <link>https://news.google.com/read/CBMiigFBVV95cUxNNzlkQXZVVFp6MUpUVzl5MnJpRmlTQmstdjdwSGxFOWxmZmIzYVhIa0g1Ykh2VUVfYVBFTHUxbm5oamJBTFJBSVBaLXlvTDRHcFhyY2FPNXhELXR3MDZVckV5WTViaEZxUUFTdnBVZE5ydFdPYzZKbXZvTzFpMXktbEZOdXdOMlR6Smc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNXhTMmRpTFVoRFdtZFpVa1JVVFJDUUF4allCQ2dLTWdrQllJN2lJbWdrendF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran’s Revolutionary Guards: The Spine of a Militarized State - The New York Times - 10 hours ago - By Neil MacFarquhar</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiigFBVV95cUxNNzlkQXZVVFp6MUpUVzl5MnJpRmlTQmstdjdwSGxFOWxmZmIzYVhIa0g1Ykh2VUVfYVBFTHUxbm5oamJBTFJBSVBaLXlvTDRHcFhyY2FPNXhELXR3MDZVckV5WTViaEZxUUFTdnBVZE5ydFdPYzZKbXZvTzFpMXktbEZOdXdOMlR6Smc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 10:11:46 +0000</pubDate>
     </item>
     <item>
-      <title>American stranded in Doha amid Middle East conflict says she's 'in shock' at lack of communication from US government - ABC News - 2 days ago - By Kelly McCarthy</title>
-      <link>https://news.google.com/read/CBMiowFBVV95cUxOSnJxcEFJMHBLSTZfQ29BeUttLXhMazlMTWQzeUVEbGNfN2p6dVNNZ0hlS1pVemJCLWFzV3pGVFBGUEQ3WllWajFzX0hEcUJQMHpycU5VM1ljX0lNRkVEUVR5VDY0Y3RpcnhHN3lxZVc0eG4yTS12VUpCTm51eDNoVndaTm9yVERPaFBYRzNHUDFfeEd4WlNRZXhLalBMenJ3VW5z0gGoAUFVX3lxTE5FaEpXaGRIVXF6dndhckFxTG0xaEprWE16QUlwYXAxRkxibm55TjIzd0pYZFR4SjRJb3VQQ3daOVVPTVRfb1l4NHU0UnZVYi1VZ1dqOVJRVFN3WHEzb1M4TmloZjlxZzZYb0JKZ0lZcERIYzUwZnRRMkVhRlZEZnBhQUR0TjF0LXdOcEtxVG9vR0QxTVJKVk9ydmRFcEphYmN3bFA5MjdNQg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXdSM0V4VjFKMVNrdFdjMmswVFJETkF4aVpCU2dLTWdPQk1RNA=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>American stranded in Doha amid Middle East conflict says she's 'in shock' at lack of communication from US government - ABC News - 2 days ago - By Kelly McCarthy</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiowFBVV95cUxOSnJxcEFJMHBLSTZfQ29BeUttLXhMazlMTWQzeUVEbGNfN2p6dVNNZ0hlS1pVemJCLWFzV3pGVFBGUEQ3WllWajFzX0hEcUJQMHpycU5VM1ljX0lNRkVEUVR5VDY0Y3RpcnhHN3lxZVc0eG4yTS12VUpCTm51eDNoVndaTm9yVERPaFBYRzNHUDFfeEd4WlNRZXhLalBMenJ3VW5z0gGoAUFVX3lxTE5FaEpXaGRIVXF6dndhckFxTG0xaEprWE16QUlwYXAxRkxibm55TjIzd0pYZFR4SjRJb3VQQ3daOVVPTVRfb1l4NHU0UnZVYi1VZ1dqOVJRVFN3WHEzb1M4TmloZjlxZzZYb0JKZ0lZcERIYzUwZnRRMkVhRlZEZnBhQUR0TjF0LXdOcEtxVG9vR0QxTVJKVk9ydmRFcEphYmN3bFA5MjdNQg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 04:37:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump administration takes heat as Americans slowly return from Middle East - The Hill - 2 days ago - By Ashleigh Fields &amp; Laura Kelly</title>
-      <link>https://news.google.com/read/CBMihwFBVV95cUxPTVRyT1RYUHhFd3laUXlxbU5weWpjWHByRXV1YWVITS1DbnczZGV6RE1VQzVRRHRmYkJCT1pvVnU1ZUc0d0Q2OXVzVTlxek5iWDhFaEtyY2psNVhpWWRYTVpRRWY2WDlsLVotRnNyalpPa0VMb0U2M3Vxc0pnRXhtRG91dUluMVXSAYwBQVVfeXFMUFlPSUFiRm1OUkhCbTdZczhIVW5IdTR4OFRzQmF0SUF1SGJZZ3gyQnhFRm4tTlgtS3hpbTBqZGdSRGlBYnFoaFp3VjZjX1pnd1lYZzVuUVRDZXRoV3ZxM1lEQVVrRURHOVZMRjdBNlhPemJja3Y4SWJ5Mm0wZmprd2RCVVZsRFMxS0FDTGg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXdSM0V4VjFKMVNrdFdjMmswVFJETkF4aVpCU2dLTWdPQk1RNA=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump administration takes heat as Americans slowly return from Middle East - The Hill - 2 days ago - By Ashleigh Fields & Laura Kelly</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMihwFBVV95cUxPTVRyT1RYUHhFd3laUXlxbU5weWpjWHByRXV1YWVITS1DbnczZGV6RE1VQzVRRHRmYkJCT1pvVnU1ZUc0d0Q2OXVzVTlxek5iWDhFaEtyY2psNVhpWWRYTVpRRWY2WDlsLVotRnNyalpPa0VMb0U2M3Vxc0pnRXhtRG91dUluMVXSAYwBQVVfeXFMUFlPSUFiRm1OUkhCbTdZczhIVW5IdTR4OFRzQmF0SUF1SGJZZ3gyQnhFRm4tTlgtS3hpbTBqZGdSRGlBYnFoaFp3VjZjX1pnd1lYZzVuUVRDZXRoV3ZxM1lEQVVrRURHOVZMRjdBNlhPemJja3Y4SWJ5Mm0wZmprd2RCVVZsRFMxS0FDTGg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Fri, 06 Mar 2026 16:36:00 +0000</pubDate>
+      <title>Americans share journeys of being abroad amid Iran strikes - NewsNation - 16 hours ago - By Rob Taub</title>
+      <link>https://news.google.com/read/CBMigAFBVV95cUxPbWdibjZ6STFaRy1KaVYzUGFscktweklvX2Fvd2hfalRsNU8zNlpUMnZiWjlmN3U1b0Jxb01raTVVSTVFYWZCM2cwcG5ILWJyTjdtNktSZ0M2OWlDTGJNVnRxX21KV3l2SFRFWG5KS05mU1B0TWozLUpiZUhiYjRMMNIBhgFBVV95cUxOWkpiWF85THhnVEVRbUNia3NuQXVmNzRwbGZ3Ui02Zzk5MGRWZmJ5c01CMlRJRktmNjd1ak5BOE9Sb05CSzFaYzUxVFR6R09PbmdkY3ktamJxLTM1cF9rc0d0Q3AwMHg1dXhRY2VsdVAxMGdYMXlINC1NVWtfOF83Y1ZhMUhxZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXdSM0V4VjFKMVNrdFdjMmswVFJETkF4aVpCU2dLTWdPQk1RNA=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Americans share journeys of being abroad amid Iran strikes - NewsNation - 16 hours ago - By Rob Taub</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMigAFBVV95cUxPbWdibjZ6STFaRy1KaVYzUGFscktweklvX2Fvd2hfalRsNU8zNlpUMnZiWjlmN3U1b0Jxb01raTVVSTVFYWZCM2cwcG5ILWJyTjdtNktSZ0M2OWlDTGJNVnRxX21KV3l2SFRFWG5KS05mU1B0TWozLUpiZUhiYjRMMNIBhgFBVV95cUxOWkpiWF85THhnVEVRbUNia3NuQXVmNzRwbGZ3Ui02Zzk5MGRWZmJ5c01CMlRJRktmNjd1ak5BOE9Sb05CSzFaYzUxVFR6R09PbmdkY3ktamJxLTM1cF9rc0d0Q3AwMHg1dXhRY2VsdVAxMGdYMXlINC1NVWtfOF83Y1ZhMUhxZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 04:15:35 +0000</pubDate>
     </item>
     <item>
       <title>Americans Stranded in the Middle East Say U.S. Left Them to Fend for Themselves - WSJ - 2 days ago - By Stephen Kalin &amp; Vera Bergengruen</title>
@@ -226,270 +163,263 @@
       <pubDate>Sat, 07 Mar 2026 00:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters - 21 hours ago</title>
+      <title>State Department defends 'proactive' evacuation efforts against Dems' claims of diplomatic chaos - Fox News - 5 hours ago - By Alexandra Miller</title>
+      <link>https://news.google.com/read/CBMiwAFBVV95cUxNMjVGa0JIYnI1RVhVeS1oazVNLTlKYzk4X29aQVlBM3Q1LWVjeXNuVTlmUFJYcDN4akpiemdTWWpiWGN1YXBsX3pjZGpSYnoyNFpCUElyZ2tsUUxHLTRmR1NoZ1duZ01uY2dWdUFoczlabEJhZFpDUlJoZTI0RTBYZXhoaGtrMTluSEswSU1hQ00xUG93SWRfRFFmZjJKR01mcDVxOHR1blVBNHlDMGpfZnc4SVVUVzZRTHNUb3BoTXjSAcYBQVVfeXFMTWRQNHMyYUVMdlI3X1RDSmVIT0Q4NWNjSm9qcjlEVVNRem5WQ21iRGZ4UXBCdWpOOEJhcFJsbms1ZVhhc21FbUNsdHJnLUU4VWw3V2wxU0sxX2NFRmlnVWhSMFpiT2g0eDI1VmlUQUpJSGFMNHRTWElTNkp2RndrZVNHTEVJdmZhY2xCOGF6SWdtaUJacDdmM1lVN0JrM2FKRC1RMW05MUprVjdQLUZJemdvNEpDQ1FlY0xiel9OdFhLYmM0aEd3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXdSM0V4VjFKMVNrdFdjMmswVFJETkF4aVpCU2dLTWdPQk1RNA=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>State Department defends 'proactive' evacuation efforts against Dems' claims of diplomatic chaos - Fox News - 5 hours ago - By Alexandra Miller</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiwAFBVV95cUxNMjVGa0JIYnI1RVhVeS1oazVNLTlKYzk4X29aQVlBM3Q1LWVjeXNuVTlmUFJYcDN4akpiemdTWWpiWGN1YXBsX3pjZGpSYnoyNFpCUElyZ2tsUUxHLTRmR1NoZ1duZ01uY2dWdUFoczlabEJhZFpDUlJoZTI0RTBYZXhoaGtrMTluSEswSU1hQ00xUG93SWRfRFFmZjJKR01mcDVxOHR1blVBNHlDMGpfZnc4SVVUVzZRTHNUb3BoTXjSAcYBQVVfeXFMTWRQNHMyYUVMdlI3X1RDSmVIT0Q4NWNjSm9qcjlEVVNRem5WQ21iRGZ4UXBCdWpOOEJhcFJsbms1ZVhhc21FbUNsdHJnLUU4VWw3V2wxU0sxX2NFRmlnVWhSMFpiT2g0eDI1VmlUQUpJSGFMNHRTWElTNkp2RndrZVNHTEVJdmZhY2xCOGF6SWdtaUJacDdmM1lVN0JrM2FKRC1RMW05MUprVjdQLUZJemdvNEpDQ1FlY0xiel9OdFhLYmM0aEd3?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 15:17:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters - Yesterday</title>
       <link>https://news.google.com/read/CBMisAFBVV95cUxPOVdrZWlSTmthOVFfUFlEN0gxbklBZlV2amJHVTB1MlJudjNqdzBCNkRVcUdKVUVxZ3A1a1VvOE9ROXM2UGZsYWJBdW9jbExmZloycE9rSFg1blQtS09ZVXoyVURlRTNHT0RSZlEweXNrQWowbGlzLXpTaDE3cnVkdEtxbjl2OEhMaGgwMWF0OE1aNl9WR0VwVFd6Rlh3SnVEN3QydHdIMUxYeFlRY19uNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXdSM0V4VjFKMVNrdFdjMmswVFJETkF4aVpCU2dLTWdPQk1RNA=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters - 21 hours ago</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXdSM0V4VjFKMVNrdFdjMmswVFJETkF4aVpCU2dLTWdPQk1RNA=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters - Yesterday</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxPOVdrZWlSTmthOVFfUFlEN0gxbklBZlV2amJHVTB1MlJudjNqdzBCNkRVcUdKVUVxZ3A1a1VvOE9ROXM2UGZsYWJBdW9jbExmZloycE9rSFg1blQtS09ZVXoyVURlRTNHT0RSZlEweXNrQWowbGlzLXpTaDE3cnVkdEtxbjl2OEhMaGgwMWF0OE1aNl9WR0VwVFd6Rlh3SnVEN3QydHdIMUxYeFlRY19uNA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sat, 07 Mar 2026 19:25:13 +0000</pubDate>
     </item>
     <item>
-      <title>Iranian Amphibious Vessel Seeks Refuge in Indian Port - USNI News - 2 days ago - By Aaron-matthew Lariosa</title>
-      <link>https://news.google.com/read/CBMijwFBVV95cUxQYzVqeDY4V1d4R1Y5U05WcWl6dXJsakVZamtLUVQxdU11MXNFUFBDbG41eEpUc1J5UEdLNW1RV3lmR09ySTA5QU1NbHJ1MjU1V1FhVlFhR3RQdko1anJvOHJPa1B5ZVEzcGFNVG8yVDZIb3lqekFDV0VVZC00ZnBxcUMtbWFndnJVbklRWGJocw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWpjR0owTWpoQ1gzaEdaV0ZhVFJEQ0F4aXBCU2dLTWdhZGdvTFBXUU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iranian Amphibious Vessel Seeks Refuge in Indian Port - USNI News - 2 days ago - By Aaron-matthew Lariosa</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMijwFBVV95cUxQYzVqeDY4V1d4R1Y5U05WcWl6dXJsakVZamtLUVQxdU11MXNFUFBDbG41eEpUc1J5UEdLNW1RV3lmR09ySTA5QU1NbHJ1MjU1V1FhVlFhR3RQdko1anJvOHJPa1B5ZVEzcGFNVG8yVDZIb3lqekFDV0VVZC00ZnBxcUMtbWFndnJVbklRWGJocw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Fri, 06 Mar 2026 18:26:00 +0000</pubDate>
+      <title>Malaysia Airlines flight MH370: New update on search - 12 years after it disappeared - Sky News - 15 hours ago</title>
+      <link>https://news.google.com/read/CBMimgFBVV95cUxOR0c2a1J5NFRaUDA1UjdDUW01RGFxellQOGZhdlo2enYzMlFhNDNOam9kT2JmX0s5RXlUMHNvbE5JcDVZRnFoemktNUpOWFUwZldMLWs3clZyWFpPOV9ob2Q2dElrMGphd0RIX0JpY2liZ3ZIY25LbVc4NHhZSDV6U00teTNfaVd4TEhjYy1XMlhueTcxMlN1OTJn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZjbFZzTkdoNGNtNVpjVE4wVFJDX0F4ajJCQ2dLTWdZQllJNm9yQWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Malaysia Airlines flight MH370: New update on search - 12 years after it disappeared - Sky News - 15 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMimgFBVV95cUxOR0c2a1J5NFRaUDA1UjdDUW01RGFxellQOGZhdlo2enYzMlFhNDNOam9kT2JmX0s5RXlUMHNvbE5JcDVZRnFoemktNUpOWFUwZldMLWs3clZyWFpPOV9ob2Q2dElrMGphd0RIX0JpY2liZ3ZIY25LbVc4NHhZSDV6U00teTNfaVd4TEhjYy1XMlhueTcxMlN1OTJn?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 05:13:48 +0000</pubDate>
     </item>
     <item>
-      <title>Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India - AP News - 3 days ago - By Sheikh Saaliq &amp; Krishan Francis</title>
-      <link>https://news.google.com/read/CBMikgFBVV95cUxNLTd6c0VOc3JfcXcweFU2MGZPaDJWeVRoemFZNDhiU19kQ1dNdjllaFFrR3NVX01GTXRITmJlNlJEb3NpWU5DOEJHLWl2S1FPYmRlaGh0V0lyQ3JEbmw1RVJBQ2hDWDA4aVdoQVVDdnZ3OVlYenRZQk1EYXVEZTkyeEdGXzFVYWFNTDJzc0JPeEstdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWpjR0owTWpoQ1gzaEdaV0ZhVFJEQ0F4aXBCU2dLTWdhZGdvTFBXUU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iranian warship sunk by the US was sailing home after taking part in an exhibition hosted by India - AP News - 3 days ago - By Sheikh Saaliq & Krishan Francis</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMikgFBVV95cUxNLTd6c0VOc3JfcXcweFU2MGZPaDJWeVRoemFZNDhiU19kQ1dNdjllaFFrR3NVX01GTXRITmJlNlJEb3NpWU5DOEJHLWl2S1FPYmRlaGh0V0lyQ3JEbmw1RVJBQ2hDWDA4aVdoQVVDdnZ3OVlYenRZQk1EYXVEZTkyeEdGXzFVYWFNTDJzc0JPeEstdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Thu, 05 Mar 2026 17:10:00 +0000</pubDate>
+      <title>Conclusion of the search for Malaysian Airlines flight MH370 - Ocean Infinity - 20 hours ago</title>
+      <link>https://news.google.com/read/CBMilwFBVV95cUxNLXNwZmRLanlCbFppQTJFSktaMmRZUldoUFVNZ2p4SEw2X1ROM204SkV6eWhTZS1KT3NsQmJucUI4bG1JUFJLM2FrSHlfRVpsT0VPdS10TEFnZ0QwRWJFVTl6SFBLUjNtdDkwWlY3UlFPSW5tbURJZE5Vc201UFVzRVNOWDVvTU5qd2xtRl84bGppQmZfejNR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZjbFZzTkdoNGNtNVpjVE4wVFJDX0F4ajJCQ2dLTWdZQllJNm9yQWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Conclusion of the search for Malaysian Airlines flight MH370 - Ocean Infinity - 20 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMilwFBVV95cUxNLXNwZmRLanlCbFppQTJFSktaMmRZUldoUFVNZ2p4SEw2X1ROM204SkV6eWhTZS1KT3NsQmJucUI4bG1JUFJLM2FrSHlfRVpsT0VPdS10TEFnZ0QwRWJFVTl6SFBLUjNtdDkwWlY3UlFPSW5tbURJZE5Vc201UFVzRVNOWDVvTU5qd2xtRl84bGppQmZfejNR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Iran’s warship was torpedoed 2,000 miles from its shores. Was it a legitimate target? - CNN - 3 days ago - By Brad Lendon</title>
-      <link>https://news.google.com/read/CBMikgFBVV95cUxOc0pGTzJrcjFranRiRHQxbWZIRE9BLTJXeWE5M2JEVFN2NHVkZVZjVjd3ckxydUJfWTYyajJyTzFJbklfeGI4SFo3SGFGS2xMY3ZBZjhfWVdoODUzbzdlNWhmcjRrS1FYNFdVMzBOelprZFR4WE55ZmJzZkdtNmk2NXljR2Z1MmQteFZXa1llcERFUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWpjR0owTWpoQ1gzaEdaV0ZhVFJEQ0F4aXBCU2dLTWdhZGdvTFBXUU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran’s warship was torpedoed 2,000 miles from its shores. Was it a legitimate target? - CNN - 3 days ago - By Brad Lendon</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMikgFBVV95cUxOc0pGTzJrcjFranRiRHQxbWZIRE9BLTJXeWE5M2JEVFN2NHVkZVZjVjd3ckxydUJfWTYyajJyTzFJbklfeGI4SFo3SGFGS2xMY3ZBZjhfWVdoODUzbzdlNWhmcjRrS1FYNFdVMzBOelprZFR4WE55ZmJzZkdtNmk2NXljR2Z1MmQteFZXa1llcERFUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Thu, 05 Mar 2026 14:56:14 +0000</pubDate>
+      <title>Families of MH370 victims call for search extension, 12 years after Malaysia Airlines jet vanished - The Guardian - 2 hours ago</title>
+      <link>https://news.google.com/read/CBMi2wFBVV95cUxQWkNnbXdUR1Y2eTY5amV3TFNkRGxvM0dPdEt0MUoxakRxYXZSRG82TkQ5cDR6MHFnT2ZmMU5FMlFDQTlwbXpDNjlncXpOeTROVWlwQ0dmdzBaUWlyMFdpaGQtUkNnYkd1eDc3MzVvZkJoR1l1bHVTVXdRVkRhbnVFQnZ1c05ZUGpDLXZKcmVFeHFVWWxrYVdreURpWWx0MEJPU29XbEdlSTYxYTJINklEbXhnLW5YOU5nVE5QRXlZWU9fWE5ndTVBUDJxUzVxSkNjSGZKWWZSMnk3QUk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZjbFZzTkdoNGNtNVpjVE4wVFJDX0F4ajJCQ2dLTWdZQllJNm9yQWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Families of MH370 victims call for search extension, 12 years after Malaysia Airlines jet vanished - The Guardian - 2 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMi2wFBVV95cUxQWkNnbXdUR1Y2eTY5amV3TFNkRGxvM0dPdEt0MUoxakRxYXZSRG82TkQ5cDR6MHFnT2ZmMU5FMlFDQTlwbXpDNjlncXpOeTROVWlwQ0dmdzBaUWlyMFdpaGQtUkNnYkd1eDc3MzVvZkJoR1l1bHVTVXdRVkRhbnVFQnZ1c05ZUGpDLXZKcmVFeHFVWWxrYVdreURpWWx0MEJPU29XbEdlSTYxYTJINklEbXhnLW5YOU5nVE5QRXlZWU9fWE5ndTVBUDJxUzVxSkNjSGZKWWZSMnk3QUk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 17:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>World War II museum ships suddenly feel less like history after a US submarine sank an Iranian warship - Business Insider - Yesterday - By Talia Lakritz</title>
-      <link>https://news.google.com/read/CBMigAFBVV95cUxQbWs3QlZ2XzFTekZFRTVlamhCbnVIMF9rUUEwa0lXTkt1MkVIRkFaLUdvektMMjBJQW02V0pseHZKdzE4QTdEdmlPa0hKZy1BZEp4aVdDb1J3SEdoZGtxeEZ6azBOTXB0bXVRc3hxZmlXTWkyMkF1YmNiRjJfYkJLeA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWpjR0owTWpoQ1gzaEdaV0ZhVFJEQ0F4aXBCU2dLTWdhZGdvTFBXUU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>World War II museum ships suddenly feel less like history after a US submarine sank an Iranian warship - Business Insider - Yesterday - By Talia Lakritz</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMigAFBVV95cUxQbWs3QlZ2XzFTekZFRTVlamhCbnVIMF9rUUEwa0lXTkt1MkVIRkFaLUdvektMMjBJQW02V0pseHZKdzE4QTdEdmlPa0hKZy1BZEp4aVdDb1J3SEdoZGtxeEZ6azBOTXB0bXVRc3hxZmlXTWkyMkF1YmNiRjJfYkJLeA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 14:35:00 +0000</pubDate>
+      <title>12 years on, renewed hunt for missing Flight MH370 comes up empty - Politico - 8 hours ago</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxONjF5bXlDdUFXcG9RV2NwUkFDVGZrb2xnTnVsQ2dfN0FtVE5lNlE5bDZnWi1VLVY3S2VURERKN3RuU3BNWHdiX2QzVm4xaGlJSkE2UlVsZzRobVpYWEtGUnpGam1HUlgwMEYzWTBWVlA0NU5IZUgwd2hOb0I2U3M0MzF6OXA1U1NKQUNBbWFhLUtTazFzSXNJOS1mWFEtUkVHNEN2YU1qYl9hVHM1cTNEbGZ2Tzg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZjbFZzTkdoNGNtNVpjVE4wVFJDX0F4ajJCQ2dLTWdZQllJNm9yQWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>12 years on, renewed hunt for missing Flight MH370 comes up empty - Politico - 8 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitAFBVV95cUxONjF5bXlDdUFXcG9RV2NwUkFDVGZrb2xnTnVsQ2dfN0FtVE5lNlE5bDZnWi1VLVY3S2VURERKN3RuU3BNWHdiX2QzVm4xaGlJSkE2UlVsZzRobVpYWEtGUnpGam1HUlgwMEYzWTBWVlA0NU5IZUgwd2hOb0I2U3M0MzF6OXA1U1NKQUNBbWFhLUtTazFzSXNJOS1mWFEtUkVHNEN2YU1qYl9hVHM1cTNEbGZ2Tzg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump tells CNN he’s not worried whether Iran becomes a democratic state - CNN - 2 days ago - By Dana Bash</title>
+      <link>https://news.google.com/read/CBMigAFBVV95cUxPMzV1eVM5R1ZnUmFiQ3lkb0JGeFhzU0c4Y0FlWDR2MFZyWG5aSWRYVWxKcF9Gb2tfWHZDZGgyLV8xZ3l0ang5YTlobmM5NW9uZTNuYUc5UmpUdG9NQ0lXamxNU1F3S2RwTEZfYzFpY3JuNjRFb3BwU01UX2NnaVFINQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDJOMEp3ZGtOclZuSnVSVVZoVFJDZkF4ampCU2dLTWdhcGRZck9zUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump tells CNN he’s not worried whether Iran becomes a democratic state - CNN - 2 days ago - By Dana Bash</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMigAFBVV95cUxPMzV1eVM5R1ZnUmFiQ3lkb0JGeFhzU0c4Y0FlWDR2MFZyWG5aSWRYVWxKcF9Gb2tfWHZDZGgyLV8xZ3l0ang5YTlobmM5NW9uZTNuYUc5UmpUdG9NQ0lXamxNU1F3S2RwTEZfYzFpY3JuNjRFb3BwU01UX2NnaVFINQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Fri, 06 Mar 2026 14:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump: Next Iranian supreme leader ‘not going to last long’ without US approval - The Times of Israel - 33 minutes ago</title>
+      <link>https://news.google.com/read/CBMiqwFBVV95cUxNX3ctSHB4UTVrb0xRTGZSLWdDd1R2eTFjQ2tFOHNfY2VHVVpYMlAtR3lRNUhKbHJZNnZIRVBZYjh0bWw4RVp3Zlh3REY4T05EdWFHMm1hUFFJenJ2TXo1Vm9FYlFZcC1oVDFZTHY1NS1iSWQxTFF2MV9YaUxmbTllREI3YVdrNXhhUWdseS1YX292RWdkRmc0UVI0cTRZckgzNmw1WTlBUm5HeGfSAbABQVVfeXFMTUxwdVh0U3lCemRvWW9KSlMwYXFCbGJsN0lBWFUtTTFwRFZfUDJBUS1KSHJ6ajhLaEtTM3hpaG5GTGxrS21hQWJCODRnN2xxQjJSZnk4TzZ2ZVdnc2xSX0k2T193OW1lc04wNlFPWXNzTldrMnZDS0VJQlRRVnBrWDl6Wld3cnB2eUJtb0VhRGw4OTItQjNFZmdlNldTRUlSbEhkOTJRSUdja1pxdm41X3c?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDJOMEp3ZGtOclZuSnVSVVZoVFJDZkF4ampCU2dLTWdhcGRZck9zUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump: Next Iranian supreme leader ‘not going to last long’ without US approval - The Times of Israel - 33 minutes ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiqwFBVV95cUxNX3ctSHB4UTVrb0xRTGZSLWdDd1R2eTFjQ2tFOHNfY2VHVVpYMlAtR3lRNUhKbHJZNnZIRVBZYjh0bWw4RVp3Zlh3REY4T05EdWFHMm1hUFFJenJ2TXo1Vm9FYlFZcC1oVDFZTHY1NS1iSWQxTFF2MV9YaUxmbTllREI3YVdrNXhhUWdseS1YX292RWdkRmc0UVI0cTRZckgzNmw1WTlBUm5HeGfSAbABQVVfeXFMTUxwdVh0U3lCemRvWW9KSlMwYXFCbGJsN0lBWFUtTTFwRFZfUDJBUS1KSHJ6ajhLaEtTM3hpaG5GTGxrS21hQWJCODRnN2xxQjJSZnk4TzZ2ZVdnc2xSX0k2T193OW1lc04wNlFPWXNzTldrMnZDS0VJQlRRVnBrWDl6Wld3cnB2eUJtb0VhRGw4OTItQjNFZmdlNldTRUlSbEhkOTJRSUdja1pxdm41X3c?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 20:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump wants to fully remove Iran’s leadership and what cost Kristi Noem her job: Morning Rundown - NBC News - 2 days ago</title>
+      <link>https://news.google.com/read/CBMiugFBVV95cUxNMGFaRGlCdUFUM0hrcUVqSmdjb3JEQzhHLTNtdmlLc0FxVmIybWhJLS1PRW1zRExzNHNBd1NoSEt1cDF4d29Oc25qYXZMWUJQUzIyay1paDJ4c2VfNU9pcnkycjBfRlNNSjE0WGFrMEFWN2h4c2JoYVNhY2ZBdDFOSVlxdUtqcGpac1hhYmVhX1FOM1FXSUdhbjVnRlMxeE92enBmUEN1Y3ZEQTZMN0FRVDhuM2czdkZmd1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDJOMEp3ZGtOclZuSnVSVVZoVFJDZkF4ampCU2dLTWdhcGRZck9zUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump wants to fully remove Iran’s leadership and what cost Kristi Noem her job: Morning Rundown - NBC News - 2 days ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiugFBVV95cUxNMGFaRGlCdUFUM0hrcUVqSmdjb3JEQzhHLTNtdmlLc0FxVmIybWhJLS1PRW1zRExzNHNBd1NoSEt1cDF4d29Oc25qYXZMWUJQUzIyay1paDJ4c2VfNU9pcnkycjBfRlNNSjE0WGFrMEFWN2h4c2JoYVNhY2ZBdDFOSVlxdUtqcGpac1hhYmVhX1FOM1FXSUdhbjVnRlMxeE92enBmUEN1Y3ZEQTZMN0FRVDhuM2czdkZmd1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Fri, 06 Mar 2026 12:00:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran's next supreme leader won't 'last long' without my approval, Trump says - ABC News - 5 hours ago - By Mary Bruce &amp; Justin Fishel</title>
+      <link>https://news.google.com/read/CBMikgFBVV95cUxQX3RvSkROQ1dUcVdOb0hGTHNHM092RlZncjZweFNZTFZ2Wm5vM0xSUE1CQVYwZl95ZnZrTUVWbHFaR2Utc1hTMW5WMFNNUlRYOTJQTzR2OUNGMjhjdzRZZ0FZekRDWGlyQkhuNXYxVGtmVzRSaUV2NHU2YllOMUNFQmgwakd2dUJxSGxVbVMwOWZNUdIBlwFBVV95cUxPbGdERVM5X3ktZTVvSDNXNmxvb2FEQllES1NLRVFfOWFvNllwNUdWbi1pZE96Tml2a2U0TEFuREJ4bnAwOVktS1o0TXNuZTRlTlZVV3pnSExrenpianBHZDFqSXo0YTZ3aHVYT0VjVFJpWlAta1BEbHhSZW1UeHhYUU1DQ29aS0Y0aWFiUm9lMGtRbENwbDRz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDJOMEp3ZGtOclZuSnVSVVZoVFJDZkF4ampCU2dLTWdhcGRZck9zUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran's next supreme leader won't 'last long' without my approval, Trump says - ABC News - 5 hours ago - By Mary Bruce & Justin Fishel</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMikgFBVV95cUxQX3RvSkROQ1dUcVdOb0hGTHNHM092RlZncjZweFNZTFZ2Wm5vM0xSUE1CQVYwZl95ZnZrTUVWbHFaR2Utc1hTMW5WMFNNUlRYOTJQTzR2OUNGMjhjdzRZZ0FZekRDWGlyQkhuNXYxVGtmVzRSaUV2NHU2YllOMUNFQmgwakd2dUJxSGxVbVMwOWZNUdIBlwFBVV95cUxPbGdERVM5X3ktZTVvSDNXNmxvb2FEQllES1NLRVFfOWFvNllwNUdWbi1pZE96Tml2a2U0TEFuREJ4bnAwOVktS1o0TXNuZTRlTlZVV3pnSExrenpianBHZDFqSXo0YTZ3aHVYT0VjVFJpWlAta1BEbHhSZW1UeHhYUU1DQ29aS0Y0aWFiUm9lMGtRbENwbDRz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 15:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump's shifting Iran goals highlight war's weak legal basis - DW.com - 5 hours ago - By Cherie Chan</title>
+      <link>https://news.google.com/read/CBMimwFBVV95cUxQTzdydk5WeHFWVUdoNWRCUklRejJ1d2k1TWZ3S2tJa2lTeGF0alBfVTg0eW16ZUtLUjdyZlNqNG9UM1ZaMWtPcm42VzhMdXBVQ08yenJtZlVySzVIQTQwZWhLT1IzRXRIVHJCZmhzTzJuZnVJcVhHZm5YSmEtSnhxaFdpdUpHTEtyelZKWWxGSEpWdnZBT05rVkVRVQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXJRMnBDY2s5eWRVdGtWMVIyVFJDM0FSaVRBaWdCTWdZTmVaU21yZ2M=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump's shifting Iran goals highlight war's weak legal basis - DW.com - 5 hours ago - By Cherie Chan</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMimwFBVV95cUxQTzdydk5WeHFWVUdoNWRCUklRejJ1d2k1TWZ3S2tJa2lTeGF0alBfVTg0eW16ZUtLUjdyZlNqNG9UM1ZaMWtPcm42VzhMdXBVQ08yenJtZlVySzVIQTQwZWhLT1IzRXRIVHJCZmhzTzJuZnVJcVhHZm5YSmEtSnhxaFdpdUpHTEtyelZKWWxGSEpWdnZBT05rVkVRVQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 15:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>The International Community at a Crossroads Over Iran: The reawakening of “illegal but legitimate” or the “law of self-preservation”? - Just Security - 2 days ago - By Yuval Shany &amp; Amichai Cohen</title>
+      <link>https://news.google.com/read/CBMic0FVX3lxTE1HYWZLR1lXMFhEcWxERVptOHByVlhNMElZdDBmMHBuZGxrN0VhSmRQbzJRd0ozVEgwMG9BSFlnMXFkc3VyYXIwMGZxbXJER095UWV2UUdDQllVVktVWm9pSEptR2tiZHF3SVE4VnJRVG9jVTQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXJRMnBDY2s5eWRVdGtWMVIyVFJDM0FSaVRBaWdCTWdZTmVaU21yZ2M=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>The International Community at a Crossroads Over Iran: The reawakening of “illegal but legitimate” or the “law of self-preservation”? - Just Security - 2 days ago - By Yuval Shany & Amichai Cohen</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMic0FVX3lxTE1HYWZLR1lXMFhEcWxERVptOHByVlhNMElZdDBmMHBuZGxrN0VhSmRQbzJRd0ozVEgwMG9BSFlnMXFkc3VyYXIwMGZxbXJER095UWV2UUdDQllVVktVWm9pSEptR2tiZHF3SVE4VnJRVG9jVTQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Fri, 06 Mar 2026 12:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>MIDDLE EAST LIVE 6 March: World economy at grave risk, warns UN chief; ‘the situation could spiral beyond anyone's control’ - UN News - 2 days ago</title>
+      <link>https://news.google.com/read/CBMiV0FVX3lxTFBNNlVZZmtoT19LeEJIRjF5dVI1ZF9rb01KeTlCSnM4d1dlaUVOWGRQNjlYWWNxVzdWT2ZiWURPZE5ZWWJWUWI0RHQxcXpPWXkxLVFHQUFfMA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXJRMnBDY2s5eWRVdGtWMVIyVFJDM0FSaVRBaWdCTWdZTmVaU21yZ2M=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>MIDDLE EAST LIVE 6 March: World economy at grave risk, warns UN chief; ‘the situation could spiral beyond anyone's control’ - UN News - 2 days ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiV0FVX3lxTFBNNlVZZmtoT19LeEJIRjF5dVI1ZF9rb01KeTlCSnM4d1dlaUVOWGRQNjlYWWNxVzdWT2ZiWURPZE5ZWWJWUWI0RHQxcXpPWXkxLVFHQUFfMA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Fri, 06 Mar 2026 08:57:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran attacks breach international law, Swiss Defence Minister says - Reuters - 10 hours ago - By David Holmes, Christoph Steitz &amp; John Revill</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxNR05zSnZhbXcybjN3NHpiNzc4dGhGd1lOX2VWMFYybG01NFZDTm5DTVRWU3FnXy1JQ29NVTlrTGlmUVJYWVh5S29GSmNWcnZJa0VDQmg0NUptQ1dqOHlqZHUxUXN4X2d6RFEtYVpqcmJ4N0VYZmV1djdHMTJvWC1NLVlYb2pHZXg1eWk5OE9maWlFQUlJbWo5WlNQQmZybUNoSDJKN1drVWpxbEZ5VmI0dy16U0I?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXJRMnBDY2s5eWRVdGtWMVIyVFJDM0FSaVRBaWdCTWdZTmVaU21yZ2M=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran attacks breach international law, Swiss Defence Minister says - Reuters - 10 hours ago - By David Holmes, Christoph Steitz & John Revill</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitAFBVV95cUxNR05zSnZhbXcybjN3NHpiNzc4dGhGd1lOX2VWMFYybG01NFZDTm5DTVRWU3FnXy1JQ29NVTlrTGlmUVJYWVh5S29GSmNWcnZJa0VDQmg0NUptQ1dqOHlqZHUxUXN4X2d6RFEtYVpqcmJ4N0VYZmV1djdHMTJvWC1NLVlYb2pHZXg1eWk5OE9maWlFQUlJbWo5WlNQQmZybUNoSDJKN1drVWpxbEZ5VmI0dy16U0I?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 10:31:56 +0000</pubDate>
     </item>
     <item>
       <title>Iranian missiles intercepted over Saudi Arabia, Qatar, UAE, Bahrain sirens - Al Jazeera - Yesterday</title>
-      <link>https://news.google.com/read/CBMisAFBVV95cUxNc0xUNTBObTFab2dWN2ptUVNreG9wcnAtQ2t1eGZ3REFpUnMxemFDV3RNLXlkbVYyWjIzemxiTVhocmloMmc4bldIQjNRZ1AtYjFjaFhaYTNFSGE4bG5mQ1hYYVhXdHJaMXNCWThiTlhJQ2p4UWpCU25pWlVROUxtWjlnWjN2MUNIc2xRVkZQTEpTU0VZRjJLVlNyY2NjNG9HWFVFeTdZMnJlTVZRT2lfaQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <link>https://news.google.com/read/CBMisAFBVV95cUxNc0xUNTBObTFab2dWN2ptUVNreG9wcnAtQ2t1eGZ3REFpUnMxemFDV3RNLXlkbVYyWjIzemxiTVhocmloMmc4bldIQjNRZ1AtYjFjaFhaYTNFSGE4bG5mQ1hYYVhXdHJaMXNCWThiTlhJQ2p4UWpCU25pWlVROUxtWjlnWjN2MUNIc2xRVkZQTEpTU0VZRjJLVlNyY2NjNG9HWFVFeTdZMnJlTVZRT2lfadIBtgFBVV95cUxNV0tNMVVWY3MwWHRiSkJuaFJyTF9zSjJLX0d0QzU2MkRZQ2t1OFI0aEtKdE41UU90SVA2RDU5LTN2S2pzUThXTXh6eTZ2UWRhc0VjY3BsblVrQzczanBlaVQwUExTRXM5bnFOb1lNNUl4QXUxSmU5bGhPOGRBeThBeDVyMF9XS3RuZFpqZkRwTTZjNl9yTWxVRXVhZ2Q2dldyYWgyZlFkcjB6aV9KZmRWNUJlQkFXZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
       <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpXRWRvTW5JM1lWUk5NWHAyVFJDa0F4ajJCQ2dLTWdZUmRvUkpNZ00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iranian missiles intercepted over Saudi Arabia, Qatar, UAE, Bahrain sirens - Al Jazeera - Yesterday</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxNc0xUNTBObTFab2dWN2ptUVNreG9wcnAtQ2t1eGZ3REFpUnMxemFDV3RNLXlkbVYyWjIzemxiTVhocmloMmc4bldIQjNRZ1AtYjFjaFhaYTNFSGE4bG5mQ1hYYVhXdHJaMXNCWThiTlhJQ2p4UWpCU25pWlVROUxtWjlnWjN2MUNIc2xRVkZQTEpTU0VZRjJLVlNyY2NjNG9HWFVFeTdZMnJlTVZRT2lfaQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxNc0xUNTBObTFab2dWN2ptUVNreG9wcnAtQ2t1eGZ3REFpUnMxemFDV3RNLXlkbVYyWjIzemxiTVhocmloMmc4bldIQjNRZ1AtYjFjaFhaYTNFSGE4bG5mQ1hYYVhXdHJaMXNCWThiTlhJQ2p4UWpCU25pWlVROUxtWjlnWjN2MUNIc2xRVkZQTEpTU0VZRjJLVlNyY2NjNG9HWFVFeTdZMnJlTVZRT2lfadIBtgFBVV95cUxNV0tNMVVWY3MwWHRiSkJuaFJyTF9zSjJLX0d0QzU2MkRZQ2t1OFI0aEtKdE41UU90SVA2RDU5LTN2S2pzUThXTXh6eTZ2UWRhc0VjY3BsblVrQzczanBlaVQwUExTRXM5bnFOb1lNNUl4QXUxSmU5bGhPOGRBeThBeDVyMF9XS3RuZFpqZkRwTTZjNl9yTWxVRXVhZ2Q2dldyYWgyZlFkcjB6aV9KZmRWNUJlQkFXZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sat, 07 Mar 2026 12:37:05 +0000</pubDate>
     </item>
     <item>
-      <title>Bahrain says Iran hit a desalination plant, stoking fears of attacks on civilian sites - WTOP - 1 hour ago</title>
-      <link>https://news.google.com/read/CBMiiwFBVV95cUxPeEltT0szcEpEWlo5YXBWVGdKdnFfcnpKNmdtdEsyVml2TXBHOFNwbjFFWmZMUXdoa2xZb2g5TzktcG85UG1UX1g5dVF2aVlpd1VGeVdQRnBQeWNZTTZzekVwcm1kU2ZUMzNSSkJlNTVQSzdkTVpUalBtc1VYQU9JV0dfc3VTVEw5bHEw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpXRWRvTW5JM1lWUk5NWHAyVFJDa0F4ajJCQ2dLTWdZUmRvUkpNZ00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Bahrain says Iran hit a desalination plant, stoking fears of attacks on civilian sites - WTOP - 1 hour ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiiwFBVV95cUxPeEltT0szcEpEWlo5YXBWVGdKdnFfcnpKNmdtdEsyVml2TXBHOFNwbjFFWmZMUXdoa2xZb2g5TzktcG85UG1UX1g5dVF2aVlpd1VGeVdQRnBQeWNZTTZzekVwcm1kU2ZUMzNSSkJlNTVQSzdkTVpUalBtc1VYQU9JV0dfc3VTVEw5bHEw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 15:02:21 +0000</pubDate>
+      <title>Iran war's targets widen into civilian infrastructure and Saudi Arabia reports first deaths - Yahoo - 13 hours ago - By Samy Magdy, Jon Gambrell &amp; Sam Metz</title>
+      <link>https://news.google.com/read/CBMilgFBVV95cUxPWERnWVp1UEVQUjhLZ2Y3NkxXMVduWlIxYkpQaGN2eWNhb2tEb2k0RVF6SXEwNTNjNF9ScHBPdUdvTnpyb2lIelViQU1MODNNRW9meWtmSzNvYWVKQVM1OE1SeFdRaUhKXy1KZDBVX3JfZEw5UVZjQ0docm1sSzZNaE4xSjZhQmthR3BNMENLTVM5X1lvUlE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpXRWRvTW5JM1lWUk5NWHAyVFJDa0F4ajJCQ2dLTWdZUmRvUkpNZ00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran war's targets widen into civilian infrastructure and Saudi Arabia reports first deaths - Yahoo - 13 hours ago - By Samy Magdy, Jon Gambrell & Sam Metz</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMilgFBVV95cUxPWERnWVp1UEVQUjhLZ2Y3NkxXMVduWlIxYkpQaGN2eWNhb2tEb2k0RVF6SXEwNTNjNF9ScHBPdUdvTnpyb2lIelViQU1MODNNRW9meWtmSzNvYWVKQVM1OE1SeFdRaUhKXy1KZDBVX3JfZEw5UVZjQ0docm1sSzZNaE4xSjZhQmthR3BNMENLTVM5X1lvUlE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 06:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed - CNBC - 7 hours ago - By Azhar Sukri, Emma Graham-Harrison &amp; Garrett Downs</title>
+      <title>Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed - CNBC - 11 hours ago - By Azhar Sukri, Emma Graham-Harrison &amp; Garrett Downs</title>
       <link>https://news.google.com/read/CBMiqAFBVV95cUxNUmczX0RDQjE1RlpGalVHaU5YZlM1TzZLUmpPcGVabHYxQjJyQ1Y0YkVXb0ZjNVpNemRKY3JDS2Y2SjVLb1dOTS10dzdmR1RnYmhEV1ktYlpjS0I5QkppUEVER0hHVmFoaGszODAyal9qZ3JVMUZpRHdTVHRNQV9CN0ViR1R5WWhSTC11Q29udTVIb1ZkdHh5bFg4b3pZTEF4UThMRTlDcELSAa4BQVVfeXFMTlZabDdxTU5FQllyc0dQU2t4UHd5cXROQnVJVW1VR3NQbWlJSDF2cHBBd2g0RDVZU3FjenRoT3QyY2hJZUtTQTdPbGpQcEltazcycmRwUUFhUHk4cmN5UkhtTDMzMjlPajQwQ1V2Vm1seUZvWlVfTWdfWHVobGduTUwtaFgtZHExZ2loenhfZ1pCb284V2EtckM3a3pSalhtMFZDRDlmUmNBNmNDaHhR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpXRWRvTW5JM1lWUk5NWHAyVFJDa0F4ajJCQ2dLTWdZUmRvUkpNZ00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed - CNBC - 7 hours ago - By Azhar Sukri, Emma Graham-Harrison & Garrett Downs</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpXRWRvTW5JM1lWUk5NWHAyVFJDa0F4ajJCQ2dLTWdZUmRvUkpNZ00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran continues to hit Gulf countries as Israeli strikes intensify; Tehran says new leader appointed - CNBC - 11 hours ago - By Azhar Sukri, Emma Graham-Harrison & Garrett Downs</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMiqAFBVV95cUxNUmczX0RDQjE1RlpGalVHaU5YZlM1TzZLUmpPcGVabHYxQjJyQ1Y0YkVXb0ZjNVpNemRKY3JDS2Y2SjVLb1dOTS10dzdmR1RnYmhEV1ktYlpjS0I5QkppUEVER0hHVmFoaGszODAyal9qZ3JVMUZpRHdTVHRNQV9CN0ViR1R5WWhSTC11Q29udTVIb1ZkdHh5bFg4b3pZTEF4UThMRTlDcELSAa4BQVVfeXFMTlZabDdxTU5FQllyc0dQU2t4UHd5cXROQnVJVW1VR3NQbWlJSDF2cHBBd2g0RDVZU3FjenRoT3QyY2hJZUtTQTdPbGpQcEltazcycmRwUUFhUHk4cmN5UkhtTDMzMjlPajQwQ1V2Vm1seUZvWlVfTWdfWHVobGduTUwtaFgtZHExZ2loenhfZ1pCb284V2EtckM3a3pSalhtMFZDRDlmUmNBNmNDaHhR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sun, 08 Mar 2026 09:30:48 +0000</pubDate>
     </item>
     <item>
-      <title>UAE says Iran has fired 16 ballistic missiles and 117 drones in new barrages - Politico - 5 hours ago</title>
+      <title>UAE says Iran has fired 16 ballistic missiles and 117 drones in new barrages - Politico - 9 hours ago</title>
       <link>https://news.google.com/read/CBMixAFBVV95cUxNTzlQVXFLNEZoeXFnUm5LYXFSX0FpYi1rR1dPNFV5WklxV0QzNHRxeFlLRmpKMWs0cUZ4MWxLWE9GV1B4LXlQV0R0UkNJbXVNZEdMWTZ4ckVMZ21RMW1pb2dHV1VZNEt3S0toaTNLajdPRFQ0bGw2bTE0VWlOMXpCd0FZNnp5XzVrbDdCa1JTSXNKVEF0c2xINDZuVGtoR0l5eGtKQTQxcU5JZ2Izal9GaGREZWhFcmVGTjVUR0ZxNVprYU96?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpXRWRvTW5JM1lWUk5NWHAyVFJDa0F4ajJCQ2dLTWdZUmRvUkpNZ00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>UAE says Iran has fired 16 ballistic missiles and 117 drones in new barrages - Politico - 5 hours ago</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpXRWRvTW5JM1lWUk5NWHAyVFJDa0F4ajJCQ2dLTWdZUmRvUkpNZ00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>UAE says Iran has fired 16 ballistic missiles and 117 drones in new barrages - Politico - 9 hours ago</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMixAFBVV95cUxNTzlQVXFLNEZoeXFnUm5LYXFSX0FpYi1rR1dPNFV5WklxV0QzNHRxeFlLRmpKMWs0cUZ4MWxLWE9GV1B4LXlQV0R0UkNJbXVNZEdMWTZ4ckVMZ21RMW1pb2dHV1VZNEt3S0toaTNLajdPRFQ0bGw2bTE0VWlOMXpCd0FZNnp5XzVrbDdCa1JTSXNKVEF0c2xINDZuVGtoR0l5eGtKQTQxcU5JZ2Izal9GaGREZWhFcmVGTjVUR0ZxNVprYU96?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Sun, 08 Mar 2026 11:13:22 +0000</pubDate>
     </item>
     <item>
-      <title>Under threat, Iraqi Kurds resist pressure to join Iran war - Axios - 10 hours ago - By Barak Ravid &amp; Marc Antony Caputo</title>
-      <link>https://news.google.com/read/CBMifEFVX3lxTE1kcGVzU19HSnk1R2dNMTdyUk9PUVlGellaRVNaOTZzaUh3MXIxRGp2NDk0cVYxdV9ZZTZTd3ZwdUIwVkRmYnU3eE92QU1ya1FZR2lMdFpPQVd0U3d1T2VTMXlIV2FncV96VDJIQ1lHaXBDaklMS2ZianNZWVE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXdWRXg2V2w4dFUwOVdVMUpyVFJERUF4aW1CU2dLTWdZZElKWUxsZ28=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Under threat, Iraqi Kurds resist pressure to join Iran war - Axios - 10 hours ago - By Barak Ravid & Marc Antony Caputo</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMifEFVX3lxTE1kcGVzU19HSnk1R2dNMTdyUk9PUVlGellaRVNaOTZzaUh3MXIxRGp2NDk0cVYxdV9ZZTZTd3ZwdUIwVkRmYnU3eE92QU1ya1FZR2lMdFpPQVd0U3d1T2VTMXlIV2FncV96VDJIQ1lHaXBDaklMS2ZianNZWVE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 06:39:31 +0000</pubDate>
+      <title>India letting Iran warship dock after US sank another off Sri Lanka, officials say - The Times of Israel - Yesterday</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxNbXRmQzdJUmQ1dDYydmVYYUhWYzFBMmduQnVLcExwbm8tNWZVcG5YODF1V1hTXzZybHNHNTcwdFRfUmVfQlJBQVFyd0tCZ1ZqTzdENUIyRGQtX2Q2ajFZTEx0amp1eVRRX3R0NG0yc1lEcmxjeElIMnc1V1BSZ2Z5YXZEdks2MnZqaW9UYTltZ1htQ2ctWjlBSGQwX3cwYmFfWXNJblplb3Nyajd5d3ZoN2VB0gG3AUFVX3lxTE1zZDFGRTJNN1FUSzg1YWJMRVlXeUdxc1p6cDNMWm1RbS1sTHZVVVBfWlo5QTRienVsbUZDMzhZME9VSHp0RFpaTDllVHhHbkpDdjZDS2hfU2JHU1pVa3hIMGpwbXdCVjdaRl9uZlNfYU9kMnliT1RZMG52bEJvWk4yOXNCMXlhVU92TE94WkhJcTR5cU90My1wUFRKaVdUMS1uNDRZMnlIbnl6LVN5ODRQWWhBeVFUQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNTNhbmhDZFcxTVZuaEZWV3RHVFJDckF4aUFCU2dLTWdPdGt3NA=-w400-h224-p-df" style="width:100%; max-width:600px;" /><br><p>India letting Iran warship dock after US sank another off Sri Lanka, officials say - The Times of Israel - Yesterday</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMisgFBVV95cUxNbXRmQzdJUmQ1dDYydmVYYUhWYzFBMmduQnVLcExwbm8tNWZVcG5YODF1V1hTXzZybHNHNTcwdFRfUmVfQlJBQVFyd0tCZ1ZqTzdENUIyRGQtX2Q2ajFZTEx0amp1eVRRX3R0NG0yc1lEcmxjeElIMnc1V1BSZ2Z5YXZEdks2MnZqaW9UYTltZ1htQ2ctWjlBSGQwX3cwYmFfWXNJblplb3Nyajd5d3ZoN2VB0gG3AUFVX3lxTE1zZDFGRTJNN1FUSzg1YWJMRVlXeUdxc1p6cDNMWm1RbS1sTHZVVVBfWlo5QTRienVsbUZDMzhZME9VSHp0RFpaTDllVHhHbkpDdjZDS2hfU2JHU1pVa3hIMGpwbXdCVjdaRl9uZlNfYU9kMnliT1RZMG52bEJvWk4yOXNCMXlhVU92TE94WkhJcTR5cU90My1wUFRKaVdUMS1uNDRZMnlIbnl6LVN5ODRQWWhBeVFUQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 15:11:00 +0000</pubDate>
     </item>
     <item>
-      <title>Kurdish leader links potential Iran ground push to US-enforced no-fly zone - Politico - 50 minutes ago - By Carolina Drüten</title>
-      <link>https://news.google.com/read/CBMieEFVX3lxTE15R1hhVjRMc0tmSUlHVmkxRHdCUmlvNktVTlN1SkR5UmV5c3gtUVpHdHhpYmZJRmRRUS1admc2cklhdzN5ZEg2azRhelBlZkZ2TF9NVG96X0NCbklXZTBDR2IxeUhiMmJ1YlZ1NDh2VzlNZHFMYVZKbw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXdWRXg2V2w4dFUwOVdVMUpyVFJERUF4aW1CU2dLTWdZZElKWUxsZ28=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Kurdish leader links potential Iran ground push to US-enforced no-fly zone - Politico - 50 minutes ago - By Carolina Drüten</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMieEFVX3lxTE15R1hhVjRMc0tmSUlHVmkxRHdCUmlvNktVTlN1SkR5UmV5c3gtUVpHdHhpYmZJRmRRUS1admc2cklhdzN5ZEg2azRhelBlZkZ2TF9NVG96X0NCbklXZTBDR2IxeUhiMmJ1YlZ1NDh2VzlNZHFMYVZKbw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 16:03:09 +0000</pubDate>
+      <title>How Russia Emerged as an Early Winner of the Iran War - AOL.com - Yesterday - By Rebecca Schneid</title>
+      <link>https://news.google.com/read/CBMidkFVX3lxTE41RlJJSG1Rd1FudGFNV3AwaHR3ZV9KWVctZ2dFQjN5NzFfclRKS2lNcERwdkVVTm0zV2V0RnlEcm1hQ1lMTVFvVWl0WmxoYWVsTm5US1BIMUpyS2JPbWR0Nm5MaGdNa0hrd2UtbG1ZY01jNEgtdGc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXBPR042U1hWYVVtbFVYMWRwVFJDbUJSakVBeWdLTWdZVmxJd0xzZ1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>How Russia Emerged as an Early Winner of the Iran War - AOL.com - Yesterday - By Rebecca Schneid</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMidkFVX3lxTE41RlJJSG1Rd1FudGFNV3AwaHR3ZV9KWVctZ2dFQjN5NzFfclRKS2lNcERwdkVVTm0zV2V0RnlEcm1hQ1lMTVFvVWl0WmxoYWVsTm5US1BIMUpyS2JPbWR0Nm5MaGdNa0hrd2UtbG1ZY01jNEgtdGc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 20:14:32 +0000</pubDate>
     </item>
     <item>
-      <title>Trump says he’s ruled out having Kurds join the Iran war - AP News - Yesterday</title>
-      <link>https://news.google.com/read/CBMiZ0FVX3lxTE4yaU5qdjluS2tBZ1MzUkpBalVpN0QwbGt6NHA3WVhVZVdRMWE3Q3dHY0FQOHZmWTc3Rm40ZVNxWldRMDV2dEozOFdQM3pYOWsxaVdIWmRBeDYtc0NDcVdVTDAtMzhSd3M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXdWRXg2V2w4dFUwOVdVMUpyVFJERUF4aW1CU2dLTWdZZElKWUxsZ28=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump says he’s ruled out having Kurds join the Iran war - AP News - Yesterday</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiZ0FVX3lxTE4yaU5qdjluS2tBZ1MzUkpBalVpN0QwbGt6NHA3WVhVZVdRMWE3Q3dHY0FQOHZmWTc3Rm40ZVNxWldRMDV2dEozOFdQM3pYOWsxaVdIWmRBeDYtc0NDcVdVTDAtMzhSd3M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 06:51:00 +0000</pubDate>
+      <title>Live Updates: Iran close to naming new supreme leader as Israel strikes smother Tehran - CBS News - 6 hours ago - By Kerry Breen &amp; Lucia I Suarez Sang (She/Her)</title>
+      <link>https://news.google.com/read/CBMihgFBVV95cUxPUFh4c0djeTJobnBEVmtQeVUyTVJubkw5UGducS02T1pUMjE2QmhDQnM4aVRlSnRacFoxelVIazZnSExCdGZvMnZKcFU2dmt6dzg3WHcwN2FfQjZLaFNKNXpuemRSckxubXdYdGxXeWptek92dXhfaVNSVmlVWTNJaHJjVDY0Z9IBiwFBVV95cUxNNmVWRVloV2N6OHFickp4MVNwT1BLZGd1ckYxWlhYUll2NVNwNHNOVHpTSDJNQXpNM0lhaDJFN1lCYzYzTlBvb1hZVVRwb05RbjkxZS1TdTYyRkl5bGZ2T0o2WTk3aHJSSGVXTWl1MkFBZU5heG9fNDRyTE8zVjJ3QXB5dFMzci1tRDVB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXBPR042U1hWYVVtbFVYMWRwVFJDbUJSakVBeWdLTWdZVmxJd0xzZ1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Live Updates: Iran close to naming new supreme leader as Israel strikes smother Tehran - CBS News - 6 hours ago - By Kerry Breen & Lucia I Suarez Sang (She/Her)</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMihgFBVV95cUxPUFh4c0djeTJobnBEVmtQeVUyTVJubkw5UGducS02T1pUMjE2QmhDQnM4aVRlSnRacFoxelVIazZnSExCdGZvMnZKcFU2dmt6dzg3WHcwN2FfQjZLaFNKNXpuemRSckxubXdYdGxXeWptek92dXhfaVNSVmlVWTNJaHJjVDY0Z9IBiwFBVV95cUxNNmVWRVloV2N6OHFickp4MVNwT1BLZGd1ckYxWlhYUll2NVNwNHNOVHpTSDJNQXpNM0lhaDJFN1lCYzYzTlBvb1hZVVRwb05RbjkxZS1TdTYyRkl5bGZ2T0o2WTk3aHJSSGVXTWl1MkFBZU5heG9fNDRyTE8zVjJ3QXB5dFMzci1tRDVB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 14:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>After initially voicing support, Trump says he doesn’t want Kurds to enter Iran war - The Times of Israel - 12 hours ago</title>
-      <link>https://news.google.com/read/CBMisgFBVV95cUxQZlhKaXJGN3d3VkV5Vk9ZOG5tVnAtcTVHOTZRMDRMVmU4Z3FqYl9fSm9xTks4aE1ld2dOOEF6V3BlanJQdHJoVTJ2OGh4RDdqTUpnLVZEcWI4dVpzSDUxc3JOWmdrRVpteWRIbXNocTR4RFVPTTJMZUhrcE9nU2tycWQ4TFc2Rnhsbmo0UFpBT3k4MWRBcy1vUzB1V3BCT1FrOXMzRzBETDlZUUpmVEw2cEFR0gG3AUFVX3lxTFBVb18wd1RaQ0xXQk1OUGZfOE9qTW5pS0poc1NQZHlPZ19nbXhsWjRvX1J3Zno0dDhqbVBlOFZFcHM2bVhDeHFoYS13VVVrWHR6VkZPRFdmQzJkbHZIVktsczVnaXgxeUNDdGRLQk16b3pvWURmYURqQlNGUUsxWkQzLUxtUjVhZGt0TU5udjNCLTBPNDRxbUxfcmNsMHFqcXdfcTFDZ1FwVzlFYlBDU1hpN1N1cTBqbw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXdWRXg2V2w4dFUwOVdVMUpyVFJERUF4aW1CU2dLTWdZZElKWUxsZ28=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>After initially voicing support, Trump says he doesn’t want Kurds to enter Iran war - The Times of Israel - 12 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMisgFBVV95cUxQZlhKaXJGN3d3VkV5Vk9ZOG5tVnAtcTVHOTZRMDRMVmU4Z3FqYl9fSm9xTks4aE1ld2dOOEF6V3BlanJQdHJoVTJ2OGh4RDdqTUpnLVZEcWI4dVpzSDUxc3JOWmdrRVpteWRIbXNocTR4RFVPTTJMZUhrcE9nU2tycWQ4TFc2Rnhsbmo0UFpBT3k4MWRBcy1vUzB1V3BCT1FrOXMzRzBETDlZUUpmVEw2cEFR0gG3AUFVX3lxTFBVb18wd1RaQ0xXQk1OUGZfOE9qTW5pS0poc1NQZHlPZ19nbXhsWjRvX1J3Zno0dDhqbVBlOFZFcHM2bVhDeHFoYS13VVVrWHR6VkZPRFdmQzJkbHZIVktsczVnaXgxeUNDdGRLQk16b3pvWURmYURqQlNGUUsxWkQzLUxtUjVhZGt0TU5udjNCLTBPNDRxbUxfcmNsMHFqcXdfcTFDZ1FwVzlFYlBDU1hpN1N1cTBqbw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 04:06:55 +0000</pubDate>
+      <title>What we know on the ninth day of the US and Israel’s war with Iran - CNN - 16 hours ago</title>
+      <link>https://news.google.com/read/CBMimgFBVV95cUxNYUxTenl1WTdqajFUa0ZlWXVPVmk4SFJ3aHNYTTdPN2ExdTdIRE1UQ3NqRUxsVXNFX2FHSmlTLXN2cUtEUmNwYnpfYW0tblloNnJKOXlOMnFNR2dxS3ptOTJmTW1Ibi0xdWVUUEpHUWFRazlpOWNzQldhUUFjVlpqT2xoV2VNc09DUE4yLTZwNnlsSHdCSExlOGpR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXBPR042U1hWYVVtbFVYMWRwVFJDbUJSakVBeWdLTWdZVmxJd0xzZ1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>What we know on the ninth day of the US and Israel’s war with Iran - CNN - 16 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMimgFBVV95cUxNYUxTenl1WTdqajFUa0ZlWXVPVmk4SFJ3aHNYTTdPN2ExdTdIRE1UQ3NqRUxsVXNFX2FHSmlTLXN2cUtEUmNwYnpfYW0tblloNnJKOXlOMnFNR2dxS3ptOTJmTW1Ibi0xdWVUUEpHUWFRazlpOWNzQldhUUFjVlpqT2xoV2VNc09DUE4yLTZwNnlsSHdCSExlOGpR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 03:57:00 +0000</pubDate>
     </item>
     <item>
-      <title>IDF says it hit key commanders of IRGC’s Quds Force in Beirut; 4 reportedly killed - The Times of Israel - 7 hours ago</title>
-      <link>https://news.google.com/read/CBMisAFBVV95cUxPUkZ1NmdBWW81REdLS3V4OGpRY3hKVXMxUkpTTlFibWdweXZMaVNSZ0h2dXd1dUVxbEdVTHFaTno3U3pwc0NxNC1nbnRtX0tHQWlseGhTNy1HWmhVOEQ4a1Z3YTRINFd5cnA0TnpnRHBPNFhSRHN1S1g5emd2WVIxWlotVkVUNVRGTHlkekNtbEV6Qi1jRldJZlRPdERXYkxwdG8xYTlYQXhETTNObEVfatIBtgFBVV95cUxQLUNZeFVxT3Q0YlpzdmM5YWFoOGx5dXJBQUQ2RzRKS1dJQ0U2b3hrd3d2clBrbXAxb1pDY1dhMWJTVDZBN2wxeEF0Vmc3bGNfMzFtSmw3OElkdFo3T3FLVDB5Njcza1N5NWk5Yi1ENUREUEFvbWM2bnJHOVl4aFh5RURvaG9BWkR3elg4Y2ItaWQ0Z1NRM0ZSUlJ0RlVrRTFKczJUT1hlSFVWY0liWjVIYjZQR08wdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>IDF says it hit key commanders of IRGC’s Quds Force in Beirut; 4 reportedly killed - The Times of Israel - 7 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxPUkZ1NmdBWW81REdLS3V4OGpRY3hKVXMxUkpTTlFibWdweXZMaVNSZ0h2dXd1dUVxbEdVTHFaTno3U3pwc0NxNC1nbnRtX0tHQWlseGhTNy1HWmhVOEQ4a1Z3YTRINFd5cnA0TnpnRHBPNFhSRHN1S1g5emd2WVIxWlotVkVUNVRGTHlkekNtbEV6Qi1jRldJZlRPdERXYkxwdG8xYTlYQXhETTNObEVfatIBtgFBVV95cUxQLUNZeFVxT3Q0YlpzdmM5YWFoOGx5dXJBQUQ2RzRKS1dJQ0U2b3hrd3d2clBrbXAxb1pDY1dhMWJTVDZBN2wxeEF0Vmc3bGNfMzFtSmw3OElkdFo3T3FLVDB5Njcza1N5NWk5Yi1ENUREUEFvbWM2bnJHOVl4aFh5RURvaG9BWkR3elg4Y2ItaWQ0Z1NRM0ZSUlJ0RlVrRTFKczJUT1hlSFVWY0liWjVIYjZQR08wdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 09:26:39 +0000</pubDate>
+      <title>What a second week of war will bring - The Economist - 1 hour ago</title>
+      <link>https://news.google.com/read/CBMinAFBVV95cUxPWWtleGZxbmFONENuWnFXcU1oUE4wWGNUemNZSFpzdEtMcUtSN2FrSURzUGY1VUpuV2JPeXYxSUgxczNBYmtROENIWnEwNGxNTEFMd0cyQmhLaU1WNjdZWkhFT2hheThaQmJDdE1LWUpsVVlZcGVQX05QZ1gwS3VqTXdLclpqYTBNUmJxU1BpOFg3bElVaE9rWTBuRmk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXBPR042U1hWYVVtbFVYMWRwVFJDbUJSakVBeWdLTWdZVmxJd0xzZ1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>What a second week of war will bring - The Economist - 1 hour ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMinAFBVV95cUxPWWtleGZxbmFONENuWnFXcU1oUE4wWGNUemNZSFpzdEtMcUtSN2FrSURzUGY1VUpuV2JPeXYxSUgxczNBYmtROENIWnEwNGxNTEFMd0cyQmhLaU1WNjdZWkhFT2hheThaQmJDdE1LWUpsVVlZcGVQX05QZ1gwS3VqTXdLclpqYTBNUmJxU1BpOFg3bElVaE9rWTBuRmk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 19:21:54 +0000</pubDate>
     </item>
     <item>
-      <title>Is Israel reshaping Lebanon, trying to separate Hezbollah from its people? - Al Jazeera - 14 minutes ago - By Justin Salhani</title>
-      <link>https://news.google.com/read/CBMitwFBVV95cUxNWncxSWFBMVB3RE1nNWN3dU4zVGpvamZSdEVDZ3MyV0diTG4ybEtPWVowb2pzMVlabEFUelJrNmxFdUpLT2lOQ1FTY1ZGMlptWFZPVWRoQlZPdEE3ZHpQSExZVjRDazlyNzdyM2JhRG03MUNBU2QyR0VlTnlwNC1lRDgzN0VqOURYX3ZHZU54TVd0ZThmRUl5dUtxZUpNNi1rZ2hZMFF5Y2tFTWhyZUR5T2hqanQ2eknSAbwBQVVfeXFMTTZfamtZYm1GMkw2QUw2c1JWUkhvZXlpVnFpaUNMWkpkNVBLbVI2eGNkcm5ZME9vMjZMamllZzRDSWRwdW9LUTYyYldTckhoTG5vQ3pDZG4wTC12c2M0TnBNWXllZTEyNVNQdGw3bjhtSFVqV2ROV051dlBDQ3E5ZWdZMERHREZCZllMSmdnTDRvYmt5czNOTmhUWEZSZDhSNnJ5eUx4OVNkM3ZCRjZXc1VsLWlKckQ0TkJTLXI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Is Israel reshaping Lebanon, trying to separate Hezbollah from its people? - Al Jazeera - 14 minutes ago - By Justin Salhani</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMitwFBVV95cUxNWncxSWFBMVB3RE1nNWN3dU4zVGpvamZSdEVDZ3MyV0diTG4ybEtPWVowb2pzMVlabEFUelJrNmxFdUpLT2lOQ1FTY1ZGMlptWFZPVWRoQlZPdEE3ZHpQSExZVjRDazlyNzdyM2JhRG03MUNBU2QyR0VlTnlwNC1lRDgzN0VqOURYX3ZHZU54TVd0ZThmRUl5dUtxZUpNNi1rZ2hZMFF5Y2tFTWhyZUR5T2hqanQ2eknSAbwBQVVfeXFMTTZfamtZYm1GMkw2QUw2c1JWUkhvZXlpVnFpaUNMWkpkNVBLbVI2eGNkcm5ZME9vMjZMamllZzRDSWRwdW9LUTYyYldTckhoTG5vQ3pDZG4wTC12c2M0TnBNWXllZTEyNVNQdGw3bjhtSFVqV2ROV051dlBDQ3E5ZWdZMERHREZCZllMSmdnTDRvYmt5czNOTmhUWEZSZDhSNnJ5eUx4OVNkM3ZCRjZXc1VsLWlKckQ0TkJTLXI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 16:39:14 +0000</pubDate>
+      <title>Live Updates: Iran Says It’s Close to Naming New Supreme Leader as Attacks on Infrastructure Grow - The New York Times - 15 minutes ago - By Minho Kim, Farnaz Fassihi &amp; Aaron Boxerman</title>
+      <link>https://news.google.com/read/CBMigAFBVV95cUxNWTF2UmZ4MDRscktJcF9Vdm8ydTZtLTZzMnFRTUhsaUcyR1RoNk9wY0NQT0FLRzZwTlBYb2tfSU5RcWlpYU5qRUpRYUQxWkNDVFV6eWxGdWxHRTJPS2VVOVh0ZlZoWEN3M3dTTWtsWVZzUDBJVHQ1U1E2Z1dVWkZucQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXBPR042U1hWYVVtbFVYMWRwVFJDbUJSakVBeWdLTWdZVmxJd0xzZ1U=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Live Updates: Iran Says It’s Close to Naming New Supreme Leader as Attacks on Infrastructure Grow - The New York Times - 15 minutes ago - By Minho Kim, Farnaz Fassihi & Aaron Boxerman</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMigAFBVV95cUxNWTF2UmZ4MDRscktJcF9Vdm8ydTZtLTZzMnFRTUhsaUcyR1RoNk9wY0NQT0FLRzZwTlBYb2tfSU5RcWlpYU5qRUpRYUQxWkNDVFV6eWxGdWxHRTJPS2VVOVh0ZlZoWEN3M3dTTWtsWVZzUDBJVHQ1U1E2Z1dVWkZucQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 20:35:03 +0000</pubDate>
     </item>
     <item>
-      <title>Dozens killed, authorities say, as Israeli commandos raid Lebanon in hunt for missing airman - CNN - Yesterday</title>
-      <link>https://news.google.com/read/CBMiigFBVV95cUxNZllvNVBrNHZNc19MdTltNU5USlhsYTJUTmxCdEJUTDEtcUZLYXdzWFc2RHEwZUFPQUhsRS1adVE0akM4WnZRb2tOVXFyUEZWMVQ1aGdZem1XZXVuY1gxMWRXQk1fVkgxMW5EeWVqNlp3TzdGU3d2VVoxV0xfelU4U2NxUldjWGNtZ1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Dozens killed, authorities say, as Israeli commandos raid Lebanon in hunt for missing airman - CNN - Yesterday</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiigFBVV95cUxNZllvNVBrNHZNc19MdTltNU5USlhsYTJUTmxCdEJUTDEtcUZLYXdzWFc2RHEwZUFPQUhsRS1adVE0akM4WnZRb2tOVXFyUEZWMVQ1aGdZem1XZXVuY1gxMWRXQk1fVkgxMW5EeWVqNlp3TzdGU3d2VVoxV0xfelU4U2NxUldjWGNtZ1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 14:34:51 +0000</pubDate>
+      <title>Iran and Israel trade strikes as Tehran chooses new supreme leader - NBC4 Washington - 10 hours ago - By Jon Gambrell, Samy Magdy &amp; Sam Metz</title>
+      <link>https://news.google.com/read/CBMirwFBVV95cUxPR3V3WlYxYVhyZVE4ZHlVNnd4dllJQ3BJaDhtcW81RGNpMEgyQTRMWG00N0NJYWx2dzNaZmI0NHFDYWdFU1BVbUlJQUlpRkhsMXlPcG1PRGd3bkJoZEphaFVBREw1X0Q3Yzh4NTBJV1hSSFFYN3JBNW90RWFIU3c1WFhPZWVYVDlzRGU5WjZjWlZzMnkzZjVKX2JLcVZRNWRsUE94VDdtX3VDQWJucmFJ0gG3AUFVX3lxTE9tY2FmVU1YYzRfX3pPbU9fRW9zVUprY3UzZmdLdzhzalNZUGxjYUp4UjFRSGRKRzk4SWVtaTJaNEdyU3VlRjNrS2hxUm42bjd6Q0hYTUNEOGtGNHQ2Tm9PZnlIcHlSeTFlTGdsVWRZRDN6MzBfdnc2QVlfSVhKa2V3SnZmcThsOEU5MTlfR19ULW5TVkZKUENPcTBnME9EOENBN3lnenE5a3FhY09fWlp3aGE4V05EUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVpXRVl6TldwNFlqWnBNMEkwVFJDUUF4allCQ2dLTWdZeEVKQnhGUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran and Israel trade strikes as Tehran chooses new supreme leader - NBC4 Washington - 10 hours ago - By Jon Gambrell, Samy Magdy & Sam Metz</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMirwFBVV95cUxPR3V3WlYxYVhyZVE4ZHlVNnd4dllJQ3BJaDhtcW81RGNpMEgyQTRMWG00N0NJYWx2dzNaZmI0NHFDYWdFU1BVbUlJQUlpRkhsMXlPcG1PRGd3bkJoZEphaFVBREw1X0Q3Yzh4NTBJV1hSSFFYN3JBNW90RWFIU3c1WFhPZWVYVDlzRGU5WjZjWlZzMnkzZjVKX2JLcVZRNWRsUE94VDdtX3VDQWJucmFJ0gG3AUFVX3lxTE9tY2FmVU1YYzRfX3pPbU9fRW9zVUprY3UzZmdLdzhzalNZUGxjYUp4UjFRSGRKRzk4SWVtaTJaNEdyU3VlRjNrS2hxUm42bjd6Q0hYTUNEOGtGNHQ2Tm9PZnlIcHlSeTFlTGdsVWRZRDN6MzBfdnc2QVlfSVhKa2V3SnZmcThsOEU5MTlfR19ULW5TVkZKUENPcTBnME9EOENBN3lnenE5a3FhY09fWlp3aGE4V05EUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 09:56:04 +0000</pubDate>
     </item>
     <item>
-      <title>Dozens killed in Lebanon as Israel searches for signs of navigator missing for 40 years - Politico - 21 hours ago</title>
-      <link>https://news.google.com/read/CBMi0wFBVV95cUxNYnQyMXF1c29qZTZuYWlwUVJpUlAycUg1TWdsNzNnOHN4X3NwSlBvd1FKMmY4SkRzVkhheVZfTVBzMnhrbU9kZnJzWDIwcktCakFWMlVOT1U0ZURkTmNwVmN4Zko4TkFUN3dMeGVzS2tXRWkxLTJOaWFGZl9rR0huQmtHbFBFdEc0U05GQUFGZFNNektGX1c2MDc3X0wxLVNNZHo0c1BlbVpPWWlsTERQSmRtQktwenE4OEE1VllVS2dYaEhwZWlJcDRqeF9WWkh6TGNN?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Dozens killed in Lebanon as Israel searches for signs of navigator missing for 40 years - Politico - 21 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMi0wFBVV95cUxNYnQyMXF1c29qZTZuYWlwUVJpUlAycUg1TWdsNzNnOHN4X3NwSlBvd1FKMmY4SkRzVkhheVZfTVBzMnhrbU9kZnJzWDIwcktCakFWMlVOT1U0ZURkTmNwVmN4Zko4TkFUN3dMeGVzS2tXRWkxLTJOaWFGZl9rR0huQmtHbFBFdEc0U05GQUFGZFNNektGX1c2MDc3X0wxLVNNZHo0c1BlbVpPWWlsTERQSmRtQktwenE4OEE1VllVS2dYaEhwZWlJcDRqeF9WWkh6TGNN?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 19:13:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>The IRGC Faces Defeat - Jerusalem Center for Security and Foreign Affairs - 3 days ago - By Oded Ailam</title>
-      <link>https://news.google.com/read/CBMiUEFVX3lxTFB6TGh1YUZoY3hyb2tkeWJVYlJoZC1oRWlhdzQ3c2VxZjZvbTdnc3NDNzgySXdaNWM1RmlpaXRVb0hxclhIWWU2TFZyc1NHeXlh?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNHplRXBKUkRFeFltMHlaRkZKVFJDZkF4ampCU2dLTWdZQklJZ0N6d00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>The IRGC Faces Defeat - Jerusalem Center for Security and Foreign Affairs - 3 days ago - By Oded Ailam</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiUEFVX3lxTFB6TGh1YUZoY3hyb2tkeWJVYlJoZC1oRWlhdzQ3c2VxZjZvbTdnc3NDNzgySXdaNWM1RmlpaXRVb0hxclhIWWU2TFZyc1NHeXlh?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Thu, 05 Mar 2026 09:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Who is Ahmad Vahidi, the IRGC’s new commander? - Al Jazeera - 3 days ago - By Faisal Ali</title>
-      <link>https://news.google.com/read/CBMiiwFBVV95cUxOOEVjQlpqNWFkVlJybFZ3VkVHcjd5SE44dzRxem44Zy11VWtXdlRXUGUzLUtVYmdEakYzSFB3dXJ2c1R2ckFRRmFJZlZJT2U0aGF5ZUpTQWNYZF8wOG9TYnlIM1FUZ0R6aHVDa2RKTF8zNHFGQTlxT0UtbUNrcnJXSGRjaVRJSlpiUC040gGQAUFVX3lxTE9IMmJJZnRQUmdGNGVlR3J2WjBnSjB6UDVZVWdlRjJRcW9oaXdTdXo4a0tOTGJNM0ZxU0dFZkVDQk1iVWllMEQ3ZTFKRnAxV1M2RHpKOFh6TlN4SjZVclN6NDIzSlRCanVTREc5Yy1BQ3JnTWZFdlRTSFFEeEM4V0wzR3paZ1RFUHZpY0R6S3BkeA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNHplRXBKUkRFeFltMHlaRkZKVFJDZkF4ampCU2dLTWdZQklJZ0N6d00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Who is Ahmad Vahidi, the IRGC’s new commander? - Al Jazeera - 3 days ago - By Faisal Ali</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiiwFBVV95cUxOOEVjQlpqNWFkVlJybFZ3VkVHcjd5SE44dzRxem44Zy11VWtXdlRXUGUzLUtVYmdEakYzSFB3dXJ2c1R2ckFRRmFJZlZJT2U0aGF5ZUpTQWNYZF8wOG9TYnlIM1FUZ0R6aHVDa2RKTF8zNHFGQTlxT0UtbUNrcnJXSGRjaVRJSlpiUC040gGQAUFVX3lxTE9IMmJJZnRQUmdGNGVlR3J2WjBnSjB6UDVZVWdlRjJRcW9oaXdTdXo4a0tOTGJNM0ZxU0dFZkVDQk1iVWllMEQ3ZTFKRnAxV1M2RHpKOFh6TlN4SjZVclN6NDIzSlRCanVTREc5Yy1BQ3JnTWZFdlRTSFFEeEM4V0wzR3paZ1RFUHZpY0R6S3BkeA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Fri, 06 Mar 2026 01:09:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran’s Revolutionary Guards: The Spine of a Militarized State - The New York Times - 6 hours ago - By Neil MacFarquhar</title>
-      <link>https://news.google.com/read/CBMiigFBVV95cUxNNzlkQXZVVFp6MUpUVzl5MnJpRmlTQmstdjdwSGxFOWxmZmIzYVhIa0g1Ykh2VUVfYVBFTHUxbm5oamJBTFJBSVBaLXlvTDRHcFhyY2FPNXhELXR3MDZVckV5WTViaEZxUUFTdnBVZE5ydFdPYzZKbXZvTzFpMXktbEZOdXdOMlR6Smc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNHplRXBKUkRFeFltMHlaRkZKVFJDZkF4ampCU2dLTWdZQklJZ0N6d00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran’s Revolutionary Guards: The Spine of a Militarized State - The New York Times - 6 hours ago - By Neil MacFarquhar</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiigFBVV95cUxNNzlkQXZVVFp6MUpUVzl5MnJpRmlTQmstdjdwSGxFOWxmZmIzYVhIa0g1Ykh2VUVfYVBFTHUxbm5oamJBTFJBSVBaLXlvTDRHcFhyY2FPNXhELXR3MDZVckV5WTViaEZxUUFTdnBVZE5ydFdPYzZKbXZvTzFpMXktbEZOdXdOMlR6Smc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 10:11:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>The guards rise again: the force still shaping Iran - Financial Times - 7 hours ago</title>
-      <link>https://news.google.com/read/CBMicEFVX3lxTE1YcnA0X1JQNDdoMHBWRUgxZ1lvZ3pjWWNDVWd5SVQ1cjh6dVc5cWtyTTJ4OWlIYkpsbldncWtyNmNfc01mLUVGd2NKYXQ0OEJpY3g0SkRWNGJpQWs4NXZqcnk5SWQyMm9YVURIUXVFTC0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNHplRXBKUkRFeFltMHlaRkZKVFJDZkF4ampCU2dLTWdZQklJZ0N6d00=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>The guards rise again: the force still shaping Iran - Financial Times - 7 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMicEFVX3lxTE1YcnA0X1JQNDdoMHBWRUgxZ1lvZ3pjWWNDVWd5SVQ1cjh6dVc5cWtyTTJ4OWlIYkpsbldncWtyNmNfc01mLUVGd2NKYXQ0OEJpY3g0SkRWNGJpQWs4NXZqcnk5SWQyMm9YVURIUXVFTC0?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 09:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secretary Rubio’s Meeting with Western Hemisphere Presidents - U.S. Department of State (.gov) - 17 hours ago</title>
-      <link>https://news.google.com/read/CBMiwwFBVV95cUxPNmhFTGtCd0NqYzIwcWtRTW9ZQnVBOWh3M01FbW9abWRTdC1BYkRRdmZGdDVqbG9SSWt1bkUzVUlfRzlyd1QxaHJ3X215SnROcmtEdDdwRVk3YTgwdXktVWh2bXN5b3hZWmdla0ZzOURDUG5UcUItN3ZNUzdlbFdCajBSWVNOZUJIUmMtbzlzM0VmT1NCUVMxLUNxMnhNTzZmUHBmdXFOMFJ6WlBtVlNyTUZFYmo5N1RfMkN6NThGMkN1SHc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Secretary Rubio’s Meeting with Western Hemisphere Presidents - U.S. Department of State (.gov) - 17 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiwwFBVV95cUxPNmhFTGtCd0NqYzIwcWtRTW9ZQnVBOWh3M01FbW9abWRTdC1BYkRRdmZGdDVqbG9SSWt1bkUzVUlfRzlyd1QxaHJ3X215SnROcmtEdDdwRVk3YTgwdXktVWh2bXN5b3hZWmdla0ZzOURDUG5UcUItN3ZNUzdlbFdCajBSWVNOZUJIUmMtbzlzM0VmT1NCUVMxLUNxMnhNTzZmUHBmdXFOMFJ6WlBtVlNyTUZFYmo5N1RfMkN6NThGMkN1SHc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 23:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Noem thanks Trump for new Shield of the Americas special envoy role after DHS ouster - Fox News - 19 hours ago - By Michael Dorgan</title>
-      <link>https://news.google.com/read/CBMiqgFBVV95cUxQSkFXb09zTUxwTmQ1cmdKWWV6SDF6aUQ2WmFZdkFPTWdvRUFzX01HeU5qNU96WmpJalZMTXZYa1BENFZVVldzb0RXdF9lZEd2WFVIb3JSM0dsN3FydGpBa01LRktfeS1lbFh2M3pTS2x6U2JyVklRUjQzMEdMUkk2TVVwVEE3SWxHVHBZXzdPVG5PeWpwMVZZQm1WLW82Q2puMVBGSVhnYldjZ9IBrwFBVV95cUxPV2xwTWRNS3h1TGY1TlVNS3g1Qjd1V2FBM29iRjhzdy0xWXc3LUJvcndibEkxRVRSQ05ybDF4VnhaeFFLYVBWSjV2aVFlbFdMQlM2S3ozbTB6YVJlWDJsTDFzT3ZXNG02Z01QdkFRc1laU1dzaUlKLVJfSkVBak9NOWVsRE8wd01MUHFUbzkwTTRpOXQxM2lhZU5UYlFXQ0I3clFZamJzemYxT1RPNDVz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Noem thanks Trump for new Shield of the Americas special envoy role after DHS ouster - Fox News - 19 hours ago - By Michael Dorgan</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiqgFBVV95cUxQSkFXb09zTUxwTmQ1cmdKWWV6SDF6aUQ2WmFZdkFPTWdvRUFzX01HeU5qNU96WmpJalZMTXZYa1BENFZVVldzb0RXdF9lZEd2WFVIb3JSM0dsN3FydGpBa01LRktfeS1lbFh2M3pTS2x6U2JyVklRUjQzMEdMUkk2TVVwVEE3SWxHVHBZXzdPVG5PeWpwMVZZQm1WLW82Q2puMVBGSVhnYldjZ9IBrwFBVV95cUxPV2xwTWRNS3h1TGY1TlVNS3g1Qjd1V2FBM29iRjhzdy0xWXc3LUJvcndibEkxRVRSQ05ybDF4VnhaeFFLYVBWSjV2aVFlbFdMQlM2S3ozbTB6YVJlWDJsTDFzT3ZXNG02Z01QdkFRc1laU1dzaUlKLVJfSkVBak9NOWVsRE8wd01MUHFUbzkwTTRpOXQxM2lhZU5UYlFXQ0I3clFZamJzemYxT1RPNDVz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 21:44:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump Assembles a New Coalition to ‘Eradicate’ Cartels - The New York Times - 12 hours ago - By Annie Correal &amp; Shawn McCreesh</title>
-      <link>https://news.google.com/read/CBMimAFBVV95cUxPT0kzNlVEU2t5THBzWDIzclFuUmx6a0NsRERvcUJVa3NHT3U0TWMwT25rdXlTd3dXUDlvM3lieVVpakhpakFzajRyYlB3MTJYRVNfRDZsZnl3ZG5KTlMtMHduUGstYko0N0QwTlZ1dzBqa1FSUjlsaVI1R01leUZhQ21tMTE3RFVTRGhGeGVfdU14N0M3YWZ5VA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump Assembles a New Coalition to ‘Eradicate’ Cartels - The New York Times - 12 hours ago - By Annie Correal & Shawn McCreesh</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMimAFBVV95cUxPT0kzNlVEU2t5THBzWDIzclFuUmx6a0NsRERvcUJVa3NHT3U0TWMwT25rdXlTd3dXUDlvM3lieVVpakhpakFzajRyYlB3MTJYRVNfRDZsZnl3ZG5KTlMtMHduUGstYko0N0QwTlZ1dzBqa1FSUjlsaVI1R01leUZhQ21tMTE3RFVTRGhGeGVfdU14N0M3YWZ5VA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 04:16:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>"Cuba will fall very soon," says Trump as Shield of the Americas alliance created - Euronews.com - 8 hours ago - By Jesus Maturana</title>
-      <link>https://news.google.com/read/CBMitAFBVV95cUxOVVJtOXdUaldKaUQ2VDFxQ3pZbzAycHFxeE50YjVONThhWmZleHBOWmE3U0EtZUpLOWZzaEpwS3A2dE1obFhERms2ZU1NTnM2RDRxRTg1eUs0MWJLYlU2TzJBYTlRWGxMVUo1NDltWDJBQ1hxTUhid3pzbjhwR3NoS0xlWF94bThVUkd0TVhXVl9SMEZ1THN4OUxkRlJVVEhmdHRhQjV3NVZoY0h2dXppa1ljT1o?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>"Cuba will fall very soon," says Trump as Shield of the Americas alliance created - Euronews.com - 8 hours ago - By Jesus Maturana</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMitAFBVV95cUxOVVJtOXdUaldKaUQ2VDFxQ3pZbzAycHFxeE50YjVONThhWmZleHBOWmE3U0EtZUpLOWZzaEpwS3A2dE1obFhERms2ZU1NTnM2RDRxRTg1eUs0MWJLYlU2TzJBYTlRWGxMVUo1NDltWDJBQ1hxTUhid3pzbjhwR3NoS0xlWF94bThVUkd0TVhXVl9SMEZ1THN4OUxkRlJVVEhmdHRhQjV3NVZoY0h2dXppa1ljT1o?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 08:48:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Live updates: Iran’s president says nation ‘will not bow’ to pressure from U.S. and Israel - AP News - 10 hours ago</title>
-      <link>https://news.google.com/read/CBMiZ0FVX3lxTE4zd29QZnExRmdXejBISlFTWEI5T184cll1ZW9XcXctRnpYMHZxak1iQ3VIeWdmN2NrbW1ZOGRIQWZmMXhyUDFkYS1sVHhqRzhLN2dOSUh6RnhkU0ROb1cxbUNDeUhNNW8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Live updates: Iran’s president says nation ‘will not bow’ to pressure from U.S. and Israel - AP News - 10 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiZ0FVX3lxTE4zd29QZnExRmdXejBISlFTWEI5T184cll1ZW9XcXctRnpYMHZxak1iQ3VIeWdmN2NrbW1ZOGRIQWZmMXhyUDFkYS1sVHhqRzhLN2dOSUh6RnhkU0ROb1cxbUNDeUhNNW8?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 06:08:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian President’s Apology to Neighboring Gulf States Showcases Leadership Rifts - The New York Times - 17 hours ago - By Aaron Boxerman</title>
-      <link>https://news.google.com/read/CBMioAFBVV95cUxNZXRyRUVXVS1kQlk2cDVPdXltSjVNRk5uNGp3UkVVQ2Mzc2Z6Zzd4SEQ3bHhUQ0RIOXZvZkFieXlrMFZVZVR3QXFtenlUek1pV0RZbG1QMFJlRndyOXpZb1pxdUdWR25nNFVuMVE4ZzlMQng1QmkzRFhLTm9rZXdGMTUtSkpSZjdGWnhVejJValE1Mzg4UUhPTXZtWGVhZ3ls?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iranian President’s Apology to Neighboring Gulf States Showcases Leadership Rifts - The New York Times - 17 hours ago - By Aaron Boxerman</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMioAFBVV95cUxNZXRyRUVXVS1kQlk2cDVPdXltSjVNRk5uNGp3UkVVQ2Mzc2Z6Zzd4SEQ3bHhUQ0RIOXZvZkFieXlrMFZVZVR3QXFtenlUek1pV0RZbG1QMFJlRndyOXpZb1pxdUdWR25nNFVuMVE4ZzlMQng1QmkzRFhLTm9rZXdGMTUtSkpSZjdGWnhVejJValE1Mzg4UUhPTXZtWGVhZ3ls?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 23:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran sends first significant message of de-escalation, but with a major caveat - CNN - Yesterday</title>
-      <link>https://news.google.com/read/CBMihgFBVV95cUxQb0tiWUUyM2RyMEI4YWlkUjAtZzE2TElDa3ZQckdxSWlYUkVEci1MRi1VazZZbUJacU5ZN0ViRUdnWHNxb2Y1QmtwcjVNZnYwMEdHOUU4YjZZWmpMMmJsSGd5bHVWTmtoV1FvYkxWT05iWUVCY29jazJRUERFcmFyOFI5LUdfUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran sends first significant message of de-escalation, but with a major caveat - CNN - Yesterday</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMihgFBVV95cUxQb0tiWUUyM2RyMEI4YWlkUjAtZzE2TElDa3ZQckdxSWlYUkVEci1MRi1VazZZbUJacU5ZN0ViRUdnWHNxb2Y1QmtwcjVNZnYwMEdHOUU4YjZZWmpMMmJsSGd5bHVWTmtoV1FvYkxWT05iWUVCY29jazJRUERFcmFyOFI5LUdfUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 15:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian attacks target Gulf States as US warns bombing will intensify - KVUE - 5 hours ago - By Jon Gambrell &amp; David Rising</title>
-      <link>https://news.google.com/read/CBMigAJBVV95cUxNZEVwQ2NBX3NDRlIyVF9rSVlmUEZuMHpwc3J0TVlSWl8xamlVMmNoMkEtbWFBVG9iakIxUG5Hb0l1dFFqUl9YSUJDTFExb1RZY0c5UU9zWllIUk1nc3hYc2tvRkVoRk1RTzFvajVmM3FxSF9GSVBQNVl4WTk1VzZYdE9rd2NIZFVhb19tTUtUbGRqbmlUT0w1VDVyQzJVek9xVVNKZnZaR3R6eGNOVnFrdDlkRlRvT2ZZU0RFNGQ1aG5PTkd5bDhncmRCUndvX3VLWC1sSTVwMWRMRmU1UnhWUkZLOTZxNXdwdHJrT2RseU9uNHpSVFV1Sm9DckN0QV9D?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iranian attacks target Gulf States as US warns bombing will intensify - KVUE - 5 hours ago - By Jon Gambrell & David Rising</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMigAJBVV95cUxNZEVwQ2NBX3NDRlIyVF9rSVlmUEZuMHpwc3J0TVlSWl8xamlVMmNoMkEtbWFBVG9iakIxUG5Hb0l1dFFqUl9YSUJDTFExb1RZY0c5UU9zWllIUk1nc3hYc2tvRkVoRk1RTzFvajVmM3FxSF9GSVBQNVl4WTk1VzZYdE9rd2NIZFVhb19tTUtUbGRqbmlUT0w1VDVyQzJVek9xVVNKZnZaR3R6eGNOVnFrdDlkRlRvT2ZZU0RFNGQ1aG5PTkd5bDhncmRCUndvX3VLWC1sSTVwMWRMRmU1UnhWUkZLOTZxNXdwdHJrT2RseU9uNHpSVFV1Sm9DckN0QV9D?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 11:45:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iran Escalates Retaliatory Strikes as U.S. Signals Long Battle - The New York Times - 4 days ago - By David E. Sanger, Farnaz Fassihi &amp; Erica L. Green</title>
-      <link>https://news.google.com/read/CBMifkFVX3lxTE82Ym5OTm4waTQ1akFtS2dJbkszSnp4WXhIMUthZ3VEOTJoYlRZdHJvUFdDd3U2X1JmYmFvblZ5dXZhNDBpaUFqWHl6bWZWLWlFYnFPUEphY1ZrbF9zZVc0V2tlVU9NN2w0N0pqaUl3c0Q2UlRpa0VsNW5NZktOZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdlRFowTW5oVWF6WkRSVWhCVFJDUEF4alhCQ2dLTWdZeGtwQVBOUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran Escalates Retaliatory Strikes as U.S. Signals Long Battle - The New York Times - 4 days ago - By David E. Sanger, Farnaz Fassihi & Erica L. Green</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMifkFVX3lxTE82Ym5OTm4waTQ1akFtS2dJbkszSnp4WXhIMUthZ3VEOTJoYlRZdHJvUFdDd3U2X1JmYmFvblZ5dXZhNDBpaUFqWHl6bWZWLWlFYnFPUEphY1ZrbF9zZVc0V2tlVU9NN2w0N0pqaUl3c0Q2UlRpa0VsNW5NZktOZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Wed, 04 Mar 2026 08:34:07 +0000</pubDate>
+      <title>Iran targets Israeli embassy in Bahrain, Al Udeid Air Base in Qatar - Al Jazeera - 2 days ago</title>
+      <link>https://news.google.com/read/CBMisAFBVV95cUxQcThpcWFyNUQzSWtNaFR3ZnlFTk9TdkhiMmRaMTl2Mi1VTWJad3FkS25BUWUtYldvYjlDcG45OXAzT1d1eHZlVW1OQ1gwajJTNnZzcXBVeU82RUo3NGRrMTZIaFExR25QQVJqV0pwYXRtQlpBTUFiU2o1ZXdnakhTMnQ0LTRJbmttbEEzMHItdWxWQm1QVzZ5ZEFYWEZNXzBiX1VzZ3NyXzFhRUNyaUttctIBtgFBVV95cUxOSUFKVTc1NzV1VEhlcUFFYjZpR3NSNjlDUEltRU9xX25qVndlMnRqZ2lIOWRmSWZ0eXJ1UUxWSEJ1YWx1Q1o2bEJpZUlpNHk4ZXlUcTlFTF9JLUNSeHJiZzl3eWJKSUNOTEp3QjltSGFJRHRkZTdzRnQyOGk1YVpGNTc2MWRMaHpTeXpuQnlPSE9jUGJITGltOXZvOEh6VS1uV0FGZ3Z6bUthN2UzMDE1VnNITU1JZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVpXRVl6TldwNFlqWnBNMEkwVFJDUUF4allCQ2dLTWdZeEVKQnhGUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran targets Israeli embassy in Bahrain, Al Udeid Air Base in Qatar - Al Jazeera - 2 days ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxQcThpcWFyNUQzSWtNaFR3ZnlFTk9TdkhiMmRaMTl2Mi1VTWJad3FkS25BUWUtYldvYjlDcG45OXAzT1d1eHZlVW1OQ1gwajJTNnZzcXBVeU82RUo3NGRrMTZIaFExR25QQVJqV0pwYXRtQlpBTUFiU2o1ZXdnakhTMnQ0LTRJbmttbEEzMHItdWxWQm1QVzZ5ZEFYWEZNXzBiX1VzZ3NyXzFhRUNyaUttctIBtgFBVV95cUxOSUFKVTc1NzV1VEhlcUFFYjZpR3NSNjlDUEltRU9xX25qVndlMnRqZ2lIOWRmSWZ0eXJ1UUxWSEJ1YWx1Q1o2bEJpZUlpNHk4ZXlUcTlFTF9JLUNSeHJiZzl3eWJKSUNOTEp3QjltSGFJRHRkZTdzRnQyOGk1YVpGNTc2MWRMaHpTeXpuQnlPSE9jUGJITGltOXZvOEh6VS1uV0FGZ3Z6bUthN2UzMDE1VnNITU1JZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Fri, 06 Mar 2026 13:23:31 +0000</pubDate>
     </item>
     <item>
       <title>Middle East conflicts largely avoided energy facilities in the past. Not in this war - NPR - 2 days ago - By Julia Simon</title>
       <link>https://news.google.com/read/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdlRFowTW5oVWF6WkRSVWhCVFJDUEF4alhCQ2dLTWdZeGtwQVBOUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Middle East conflicts largely avoided energy facilities in the past. Not in this war - NPR - 2 days ago - By Julia Simon</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVpXRVl6TldwNFlqWnBNMEkwVFJDUUF4allCQ2dLTWdZeEVKQnhGUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Middle East conflicts largely avoided energy facilities in the past. Not in this war - NPR - 2 days ago - By Julia Simon</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMifEFVX3lxTFAyYW9GeWVRWXZKRFF6aEdaek5lTk5PNElZZDJyWFg4RmRYZDRuVHI2cHNFa1RpNzN0UWtsRlozTUFxOVFyRE1oZGxGakxHSDBpdU9lVVA2bGJaaWxGZGxCVjN3SjRiNEdyUEpjcXNvYjRFQWF4UlhsSTBnUEw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
       <pubDate>Fri, 06 Mar 2026 19:18:49 +0000</pubDate>
     </item>
     <item>
-      <title>Bahrain says water desalination plant damaged in Iranian drone attack - Al Jazeera - 6 hours ago</title>
-      <link>https://news.google.com/read/CBMirgFBVV95cUxOZkRjM1V5WlBnUTZ3SE1LZmE0RXJCYXBLTFlSdG1yMmR6YWdZSEktLUZzZTBVMG52RVg4RE16X1FqZXJGWkM3TVpiT0VaQ2hFWHdUT0prTE9XVklsWlhtRjZaTWpnNXRRNlZWU3NrU1BsaDFfWG9BOHR2cDE4LVI3MUU4LW5DX05ZUnNFdlBZemZ2UGpXUmxXcnM4NGJzbFpsWGhZMndwdVVkMUhhU1HSAbMBQVVfeXFMTnZ4TmVqNGM5YUo5Wkh2M3A3YjFnSk1uSlFKN2tSWnY3QWc2R1o5WDdnQXhnNTJKcm5FQjI0bUJOR2J4LURZM0NMV0xYb05TcF9zQ1NwZUN3U0F4TVpYa040SVV6VUp6RjFMZ2w2eHFrZVZ1SW15VndfQ2JGRWg4WWlER3E1bHFydk13M2V0WnRrSGs2OV9TWU9Sb3VLdERhYlgwbFRzUnFKcFhPVGRVSTdwa1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdlRFowTW5oVWF6WkRSVWhCVFJDUEF4alhCQ2dLTWdZeGtwQVBOUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Bahrain says water desalination plant damaged in Iranian drone attack - Al Jazeera - 6 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMirgFBVV95cUxOZkRjM1V5WlBnUTZ3SE1LZmE0RXJCYXBLTFlSdG1yMmR6YWdZSEktLUZzZTBVMG52RVg4RE16X1FqZXJGWkM3TVpiT0VaQ2hFWHdUT0prTE9XVklsWlhtRjZaTWpnNXRRNlZWU3NrU1BsaDFfWG9BOHR2cDE4LVI3MUU4LW5DX05ZUnNFdlBZemZ2UGpXUmxXcnM4NGJzbFpsWGhZMndwdVVkMUhhU1HSAbMBQVVfeXFMTnZ4TmVqNGM5YUo5Wkh2M3A3YjFnSk1uSlFKN2tSWnY3QWc2R1o5WDdnQXhnNTJKcm5FQjI0bUJOR2J4LURZM0NMV0xYb05TcF9zQ1NwZUN3U0F4TVpYa040SVV6VUp6RjFMZ2w2eHFrZVZ1SW15VndfQ2JGRWg4WWlER3E1bHFydk13M2V0WnRrSGs2OV9TWU9Sb3VLdERhYlgwbFRzUnFKcFhPVGRVSTdwa1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 10:19:27 +0000</pubDate>
+      <title>Vital Water Desalination Plants in Iran and Bahrain Are Attacked - The New York Times - 8 hours ago - By Vivian Nereim</title>
+      <link>https://news.google.com/read/CBMikwFBVV95cUxNVEFZTHRHSXZoOEZrR2J2ZWlBSTlMR29XQktoNU1XTFlCeTM5VGs1MVU0OXhReGh4UVpUQktFVHFRV1BOeFA0Q1oyaTVnVU96SUhLX2NyV1lRcldhUzZZX0JzZnEzTUJISVhrNzlUaGNGdmFMNE9vZDBuU2dBcG5CUzN4aTc0c242akNERWJMakVZSjA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVpXRVl6TldwNFlqWnBNMEkwVFJDUUF4allCQ2dLTWdZeEVKQnhGUXM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Vital Water Desalination Plants in Iran and Bahrain Are Attacked - The New York Times - 8 hours ago - By Vivian Nereim</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMikwFBVV95cUxNVEFZTHRHSXZoOEZrR2J2ZWlBSTlMR29XQktoNU1XTFlCeTM5VGs1MVU0OXhReGh4UVpUQktFVHFRV1BOeFA0Q1oyaTVnVU96SUhLX2NyV1lRcldhUzZZX0JzZnEzTUJISVhrNzlUaGNGdmFMNE9vZDBuU2dBcG5CUzN4aTc0c242akNERWJMakVZSjA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 12:28:10 +0000</pubDate>
     </item>
     <item>
-      <title>Iran war’s targets widen into civilian infrastructure as Bahrain says water plant hit - AP News - 2 hours ago - By Jon Gambrell, Sam Metz &amp; Samy Magdy</title>
-      <link>https://news.google.com/read/CBMikAFBVV95cUxNMEtyTUJhcmFucEVfZDVZSzUzUm1ub19kc2xDMVNjWVBYUnpYaUJRY281TzI3QlpQdEhvejJNWVhNRDJQcHAzdmN0NmNmZkRMOWxFUXBSSDI3a0xUS05rNkNWd2ROejI2TUVmZEVfcEtXTnBkclNmYzZTaFc1RmlYR0hVdklfSmFVQ1VVMVI5dDA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdlRFowTW5oVWF6WkRSVWhCVFJDUEF4alhCQ2dLTWdZeGtwQVBOUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran war’s targets widen into civilian infrastructure as Bahrain says water plant hit - AP News - 2 hours ago - By Jon Gambrell, Sam Metz & Samy Magdy</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMikAFBVV95cUxNMEtyTUJhcmFucEVfZDVZSzUzUm1ub19kc2xDMVNjWVBYUnpYaUJRY281TzI3QlpQdEhvejJNWVhNRDJQcHAzdmN0NmNmZkRMOWxFUXBSSDI3a0xUS05rNkNWd2ROejI2TUVmZEVfcEtXTnBkclNmYzZTaFc1RmlYR0hVdklfSmFVQ1VVMVI5dDA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 14:04:37 +0000</pubDate>
+      <title>Trump vows to use US military force against cartels across Latin America - Politico - Yesterday - By Megan Messerly</title>
+      <link>https://news.google.com/read/CBMilgFBVV95cUxNaUhyQlR0RjVidjBxTnVNQkxLdzJweTVQRFdqSVhIaFM1ZU9aaEt1YWNNMHZOc0cwVEdSa3Z1bFNrS1dIVmhTekZTNXFqQVU2LWFZb19kOHpsSWlJVVRYS0luUlBIWGhzdEZ2SS1sUW12blFvRTJaRTBGT3hZOE5IY0RyaHlBTXdWVUpSRWpORVJUS2w5YlE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump vows to use US military force against cartels across Latin America - Politico - Yesterday - By Megan Messerly</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMilgFBVV95cUxNaUhyQlR0RjVidjBxTnVNQkxLdzJweTVQRFdqSVhIaFM1ZU9aaEt1YWNNMHZOc0cwVEdSa3Z1bFNrS1dIVmhTekZTNXFqQVU2LWFZb19kOHpsSWlJVVRYS0luUlBIWGhzdEZ2SS1sUW12blFvRTJaRTBGT3hZOE5IY0RyaHlBTXdWVUpSRWpORVJUS2w5YlE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 17:05:37 +0000</pubDate>
     </item>
     <item>
-      <title>Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal - Al Jazeera - 5 hours ago</title>
-      <link>https://news.google.com/read/CBMisAFBVV95cUxQXzBOWEZnVEQ4VU5vampQbjBpbkZ5eVdkZzBaZ3VVWUgtMkk5bmlqSjN3QnhsRzJuU0tZakU1ZzRKZjVYTzFSZENaVEwtckFMT2dTRXVXa2w1emlobWptbFB3WWRiNHRHcnU0MGd0X3NDYmhwTVhHcGd3M0U5RTRhVDdsa1M4cG9hbWxwSWFucVhyMTlSX2FWMXpvSmRWcGViQ2ZyUUt0VkJ4cXNQWm5rRNIBtgFBVV95cUxOeVBLcDRjczVGOW1IdkRkR09KR0VwUzdaaUhpWWhQamVUa0J2MEZwa01Idy14YXJGenJ5ZVpFNGw1a0ZUMW15d0N5d1oya3VVOFExUzBacURJVXh3ZXdEVHNwbzlWazVTVlE5U0tJUWdIcjFZNF9mX2N1WDc5T3hSb2ptTC11ZzRCV05QcU5zX2dOY2lxQllQUWpKbnAySmtzMHIxUklDcEJwaE9raGxuckk0OW1KUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iI0NnNHRTRUZEVjBGT1RscEhkV05FVFJEMEFoalJBeWdLTWdB=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal - Al Jazeera - 5 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxQXzBOWEZnVEQ4VU5vampQbjBpbkZ5eVdkZzBaZ3VVWUgtMkk5bmlqSjN3QnhsRzJuU0tZakU1ZzRKZjVYTzFSZENaVEwtckFMT2dTRXVXa2w1emlobWptbFB3WWRiNHRHcnU0MGd0X3NDYmhwTVhHcGd3M0U5RTRhVDdsa1M4cG9hbWxwSWFucVhyMTlSX2FWMXpvSmRWcGViQ2ZyUUt0VkJ4cXNQWm5rRNIBtgFBVV95cUxOeVBLcDRjczVGOW1IdkRkR09KR0VwUzdaaUhpWWhQamVUa0J2MEZwa01Idy14YXJGenJ5ZVpFNGw1a0ZUMW15d0N5d1oya3VVOFExUzBacURJVXh3ZXdEVHNwbzlWazVTVlE5U0tJUWdIcjFZNF9mX2N1WDc5T3hSb2ptTC11ZzRCV05QcU5zX2dOY2lxQllQUWpKbnAySmtzMHIxUklDcEJwaE9raGxuckk0OW1KUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 11:38:12 +0000</pubDate>
+      <title>Trump Assembles a New Coalition to ‘Eradicate’ Cartels - The New York Times - 16 hours ago - By Annie Correal &amp; Shawn McCreesh</title>
+      <link>https://news.google.com/read/CBMimAFBVV95cUxPT0kzNlVEU2t5THBzWDIzclFuUmx6a0NsRERvcUJVa3NHT3U0TWMwT25rdXlTd3dXUDlvM3lieVVpakhpakFzajRyYlB3MTJYRVNfRDZsZnl3ZG5KTlMtMHduUGstYko0N0QwTlZ1dzBqa1FSUjlsaVI1R01leUZhQ21tMTE3RFVTRGhGeGVfdU14N0M3YWZ5VA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump Assembles a New Coalition to ‘Eradicate’ Cartels - The New York Times - 16 hours ago - By Annie Correal & Shawn McCreesh</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMimAFBVV95cUxPT0kzNlVEU2t5THBzWDIzclFuUmx6a0NsRERvcUJVa3NHT3U0TWMwT25rdXlTd3dXUDlvM3lieVVpakhpakFzajRyYlB3MTJYRVNfRDZsZnl3ZG5KTlMtMHduUGstYko0N0QwTlZ1dzBqa1FSUjlsaVI1R01leUZhQ21tMTE3RFVTRGhGeGVfdU14N0M3YWZ5VA?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 04:16:17 +0000</pubDate>
     </item>
     <item>
-      <title>A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election - NPR - 9 hours ago</title>
-      <link>https://news.google.com/read/CBMilgFBVV95cUxPRm44blZLMXA3bXM1Q3lWQ3FHXzNrNnQ2QWJoZkJFZldOel9FR2FlbDFVWmZoSVg5TThCWDVNWGpUNDRlRUNVR3lBVjZEcnFyX09OZ0p2WHdMX3pENnJ5WUhBNHMwMktxOHFXZTVudkpQeW1YOUZYbkppZUg0WUJvN2xoYjFhWTBHZ2QyYmdISm9pMmVSNVE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iI0NnNHRTRUZEVjBGT1RscEhkV05FVFJEMEFoalJBeWdLTWdB=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election - NPR - 9 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMilgFBVV95cUxPRm44blZLMXA3bXM1Q3lWQ3FHXzNrNnQ2QWJoZkJFZldOel9FR2FlbDFVWmZoSVg5TThCWDVNWGpUNDRlRUNVR3lBVjZEcnFyX09OZ0p2WHdMX3pENnJ5WUhBNHMwMktxOHFXZTVudkpQeW1YOUZYbkppZUg0WUJvN2xoYjFhWTBHZ2QyYmdISm9pMmVSNVE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 07:18:54 +0000</pubDate>
+      <title>Noem thanks Trump for new Shield of the Americas special envoy role after DHS ouster - Fox News - 23 hours ago - By Michael Dorgan</title>
+      <link>https://news.google.com/read/CBMiqgFBVV95cUxQSkFXb09zTUxwTmQ1cmdKWWV6SDF6aUQ2WmFZdkFPTWdvRUFzX01HeU5qNU96WmpJalZMTXZYa1BENFZVVldzb0RXdF9lZEd2WFVIb3JSM0dsN3FydGpBa01LRktfeS1lbFh2M3pTS2x6U2JyVklRUjQzMEdMUkk2TVVwVEE3SWxHVHBZXzdPVG5PeWpwMVZZQm1WLW82Q2puMVBGSVhnYldjZ9IBrwFBVV95cUxPV2xwTWRNS3h1TGY1TlVNS3g1Qjd1V2FBM29iRjhzdy0xWXc3LUJvcndibEkxRVRSQ05ybDF4VnhaeFFLYVBWSjV2aVFlbFdMQlM2S3ozbTB6YVJlWDJsTDFzT3ZXNG02Z01QdkFRc1laU1dzaUlKLVJfSkVBak9NOWVsRE8wd01MUHFUbzkwTTRpOXQxM2lhZU5UYlFXQ0I3clFZamJzemYxT1RPNDVz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Noem thanks Trump for new Shield of the Americas special envoy role after DHS ouster - Fox News - 23 hours ago - By Michael Dorgan</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiqgFBVV95cUxQSkFXb09zTUxwTmQ1cmdKWWV6SDF6aUQ2WmFZdkFPTWdvRUFzX01HeU5qNU96WmpJalZMTXZYa1BENFZVVldzb0RXdF9lZEd2WFVIb3JSM0dsN3FydGpBa01LRktfeS1lbFh2M3pTS2x6U2JyVklRUjQzMEdMUkk2TVVwVEE3SWxHVHBZXzdPVG5PeWpwMVZZQm1WLW82Q2puMVBGSVhnYldjZ9IBrwFBVV95cUxPV2xwTWRNS3h1TGY1TlVNS3g1Qjd1V2FBM29iRjhzdy0xWXc3LUJvcndibEkxRVRSQ05ybDF4VnhaeFFLYVBWSjV2aVFlbFdMQlM2S3ozbTB6YVJlWDJsTDFzT3ZXNG02Z01QdkFRc1laU1dzaUlKLVJfSkVBak9NOWVsRE8wd01MUHFUbzkwTTRpOXQxM2lhZU5UYlFXQ0I3clFZamJzemYxT1RPNDVz?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 21:44:56 +0000</pubDate>
     </item>
     <item>
-      <title>Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory - BBC - 12 hours ago - By Thomas Mackintosh</title>
-      <link>https://news.google.com/read/CBMiWkFVX3lxTFBIUDBYRTE4Z1dhaldHbTk1WVBpczkzT0ZiWWlqSnkxcHpUSFhnVUJIdmFyQklEOWU3MXJ0VnAwVWoyMHRSRmtnWHQ2TkdqUzdzMGpmYlp6R3V1QQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iI0NnNHRTRUZEVjBGT1RscEhkV05FVFJEMEFoalJBeWdLTWdB=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory - BBC - 12 hours ago - By Thomas Mackintosh</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiWkFVX3lxTFBIUDBYRTE4Z1dhaldHbTk1WVBpczkzT0ZiWWlqSnkxcHpUSFhnVUJIdmFyQklEOWU3MXJ0VnAwVWoyMHRSRmtnWHQ2TkdqUzdzMGpmYlp6R3V1QQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 04:36:12 +0000</pubDate>
+      <title>"Cuba will fall very soon," says Trump as Shield of the Americas alliance created - Euronews.com - 12 hours ago - By Jesus Maturana</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxOVVJtOXdUaldKaUQ2VDFxQ3pZbzAycHFxeE50YjVONThhWmZleHBOWmE3U0EtZUpLOWZzaEpwS3A2dE1obFhERms2ZU1NTnM2RDRxRTg1eUs0MWJLYlU2TzJBYTlRWGxMVUo1NDltWDJBQ1hxTUhid3pzbjhwR3NoS0xlWF94bThVUkd0TVhXVl9SMEZ1THN4OUxkRlJVVEhmdHRhQjV3NVZoY0h2dXppa1ljT1o?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNWFZMkpRWlZONk1YWllielpOVFJDZkF4ampCU2dLTWdhWkk1NVJHUW8=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>"Cuba will fall very soon," says Trump as Shield of the Americas alliance created - Euronews.com - 12 hours ago - By Jesus Maturana</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitAFBVV95cUxOVVJtOXdUaldKaUQ2VDFxQ3pZbzAycHFxeE50YjVONThhWmZleHBOWmE3U0EtZUpLOWZzaEpwS3A2dE1obFhERms2ZU1NTnM2RDRxRTg1eUs0MWJLYlU2TzJBYTlRWGxMVUo1NDltWDJBQ1hxTUhid3pzbjhwR3NoS0xlWF94bThVUkd0TVhXVl9SMEZ1THN4OUxkRlJVVEhmdHRhQjV3NVZoY0h2dXppa1ljT1o?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 08:48:42 +0000</pubDate>
     </item>
     <item>
-      <title>Ex-rapper Balendra Shah set to be Nepal PM after party’s landslide election win - The Guardian - 56 minutes ago - By Hannah Ellis-Petersen &amp; Gaurav Pokharel</title>
-      <link>https://news.google.com/read/CBMiowFBVV95cUxNRzc2bXFKV2JIQWp1cjdNS2xzT3hRaTFUMHo5a3B4aUxLMllnOERlRFM2bnJhU3FjdV9NV2FSWi1KYWlGcVZuMkV0VzJNTlpWUktMUXlXd2x4emdod2l3dGhVbXlXLVpFTFAzNjY4WENIUG91SzNrWWMyNkM4cUlJaVdCcHZRNThyYm9BeGppWW5EODA3aWVEQ19PcEtZQkJDeDNR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iI0NnNHRTRUZEVjBGT1RscEhkV05FVFJEMEFoalJBeWdLTWdB=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Ex-rapper Balendra Shah set to be Nepal PM after party’s landslide election win - The Guardian - 56 minutes ago - By Hannah Ellis-Petersen & Gaurav Pokharel</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiowFBVV95cUxNRzc2bXFKV2JIQWp1cjdNS2xzT3hRaTFUMHo5a3B4aUxLMllnOERlRFM2bnJhU3FjdV9NV2FSWi1KYWlGcVZuMkV0VzJNTlpWUktMUXlXd2x4emdod2l3dGhVbXlXLVpFTFAzNjY4WENIUG91SzNrWWMyNkM4cUlJaVdCcHZRNThyYm9BeGppWW5EODA3aWVEQ19PcEtZQkJDeDNR?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 15:57:00 +0000</pubDate>
+      <title>Toyota’s Near Indestructible Land Cruiser Has Unique Role In War Zones - Forbes - Yesterday - By Peter Lyon</title>
+      <link>https://news.google.com/read/CBMitwFBVV95cUxPMkRzelJqZUV6UlM2a3NwdXhRYW9lYW5XZmhTTEl5aExlOUJEaXNOY0lJalBBZ1U0Qm9fa0NXUW5FTzR5TTFXbnA3azB2TlplaDk1dlpTdGxDd0NWVHdtLWI1cF9VSThOWTJmU2huNk52MGs4UFZCSE9jWXNod0RSZkhIdzQ3V0YyNXdhaDJ0QTJxdEl5UldLdVB5YzMtX0ZJTVVmSnRRNWR0dXlUOXdJdG1ybTNOTlk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXVkak5rWXpaU09VbENNMGMzVFJDM0FSaVRBaWdCTWdNQndRUQ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Toyota’s Near Indestructible Land Cruiser Has Unique Role In War Zones - Forbes - Yesterday - By Peter Lyon</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitwFBVV95cUxPMkRzelJqZUV6UlM2a3NwdXhRYW9lYW5XZmhTTEl5aExlOUJEaXNOY0lJalBBZ1U0Qm9fa0NXUW5FTzR5TTFXbnA3azB2TlplaDk1dlpTdGxDd0NWVHdtLWI1cF9VSThOWTJmU2huNk52MGs4UFZCSE9jWXNod0RSZkhIdzQ3V0YyNXdhaDJ0QTJxdEl5UldLdVB5YzMtX0ZJTVVmSnRRNWR0dXlUOXdJdG1ybTNOTlk?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 10:47:03 +0000</pubDate>
     </item>
     <item>
-      <title>Trump vows to hit ‘very hard’ after Iran’s president says he won’t surrender - Politico - 18 hours ago - By Gregory Svirnovskiy</title>
-      <link>https://news.google.com/read/CBMimAFBVV95cUxNeVh4LVFURU1ZcWlOZndENDY3cGx6TVB2c3dmM0lKY1VrRTZWaUNIelhqVF9zSzlEcmhwV3UySmp0a0wxQlhpZkttSUtEX3FTQmpVMmVZczM1N0FhODd3MHhKR2dfUjVpbUc5ajRvRkJTRkcyRjN0MVYtcl95WVNoOFowbHhOcnRRbE54WEtweTRGNlQ4YnhjVQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVNUalExV0RsTmNFdDBWMFptVFJDZkF4ampCU2dLTWdZSnNvejBOQVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump vows to hit ‘very hard’ after Iran’s president says he won’t surrender - Politico - 18 hours ago - By Gregory Svirnovskiy</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMimAFBVV95cUxNeVh4LVFURU1ZcWlOZndENDY3cGx6TVB2c3dmM0lKY1VrRTZWaUNIelhqVF9zSzlEcmhwV3UySmp0a0wxQlhpZkttSUtEX3FTQmpVMmVZczM1N0FhODd3MHhKR2dfUjVpbUc5ajRvRkJTRkcyRjN0MVYtcl95WVNoOFowbHhOcnRRbE54WEtweTRGNlQ4YnhjVQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sat, 07 Mar 2026 22:41:57 +0000</pubDate>
+      <title>Trump says he’s ruled out having Kurds join the Iran war - AP News - Yesterday</title>
+      <link>https://news.google.com/read/CBMiZ0FVX3lxTE4yaU5qdjluS2tBZ1MzUkpBalVpN0QwbGt6NHA3WVhVZVdRMWE3Q3dHY0FQOHZmWTc3Rm40ZVNxWldRMDV2dEozOFdQM3pYOWsxaVdIWmRBeDYtc0NDcVdVTDAtMzhSd3M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXVkak5rWXpaU09VbENNMGMzVFJDM0FSaVRBaWdCTWdNQndRUQ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump says he’s ruled out having Kurds join the Iran war - AP News - Yesterday</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiZ0FVX3lxTE4yaU5qdjluS2tBZ1MzUkpBalVpN0QwbGt6NHA3WVhVZVdRMWE3Q3dHY0FQOHZmWTc3Rm40ZVNxWldRMDV2dEozOFdQM3pYOWsxaVdIWmRBeDYtc0NDcVdVTDAtMzhSd3M?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 07:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kurdish leader links potential Iran ground push to US-enforced no-fly zone - Politico - 4 hours ago - By Carolina Drüten</title>
+      <link>https://news.google.com/read/CBMieEFVX3lxTE15R1hhVjRMc0tmSUlHVmkxRHdCUmlvNktVTlN1SkR5UmV5c3gtUVpHdHhpYmZJRmRRUS1admc2cklhdzN5ZEg2azRhelBlZkZ2TF9NVG96X0NCbklXZTBDR2IxeUhiMmJ1YlZ1NDh2VzlNZHFMYVZKbw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXVkak5rWXpaU09VbENNMGMzVFJDM0FSaVRBaWdCTWdNQndRUQ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Kurdish leader links potential Iran ground push to US-enforced no-fly zone - Politico - 4 hours ago - By Carolina Drüten</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMieEFVX3lxTE15R1hhVjRMc0tmSUlHVmkxRHdCUmlvNktVTlN1SkR5UmV5c3gtUVpHdHhpYmZJRmRRUS1admc2cklhdzN5ZEg2azRhelBlZkZ2TF9NVG96X0NCbklXZTBDR2IxeUhiMmJ1YlZ1NDh2VzlNZHFMYVZKbw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 16:03:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Syria's Kurds caution Iran's Kurds against aligning with US against Tehran - Reuters - 3 hours ago - By Orhan Qereman</title>
+      <link>https://news.google.com/read/CBMixAFBVV95cUxPZVRacHlEUDBzU1hKOVZmLW1zN2I2SWNzSTlGS1FZZDMwSy1NanNCS2pQeGhYZ2x5MHRRZEdlTTNHZUQ3b09tLW1aMVpxNEsyR1BoQ2R0Z1QwOVAzdlBHblk3MWl4bkJ2ZlYxbmVOQzAtdGJkNERDMHJ1U185OXFMcFdpOVJ2XzhaZmlhSkVIY24tV3JhaVc3Mk5rMEctdXFMdGVGRjhldVpMeTFiNDEyZGQ1M3FtdG1tUEtSS05wbDdlcUZF?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iJ0NnNXVkak5rWXpaU09VbENNMGMzVFJDM0FSaVRBaWdCTWdNQndRUQ=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Syria's Kurds caution Iran's Kurds against aligning with US against Tehran - Reuters - 3 hours ago - By Orhan Qereman</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMixAFBVV95cUxPZVRacHlEUDBzU1hKOVZmLW1zN2I2SWNzSTlGS1FZZDMwSy1NanNCS2pQeGhYZ2x5MHRRZEdlTTNHZUQ3b09tLW1aMVpxNEsyR1BoQ2R0Z1QwOVAzdlBHblk3MWl4bkJ2ZlYxbmVOQzAtdGJkNERDMHJ1U185OXFMcFdpOVJ2XzhaZmlhSkVIY24tV3JhaVc3Mk5rMEctdXFMdGVGRjhldVpMeTFiNDEyZGQ1M3FtdG1tUEtSS05wbDdlcUZF?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 17:05:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 pledges Trump has made on Iran - Axios - Yesterday - By Rebecca Falconer &amp; Julianna Bragg</title>
+      <link>https://news.google.com/read/CBMieEFVX3lxTE5EU2xha2Qya0pRVkQ0WXJtaGNyMzBvTUpFNnZuU2RaM1FJYm8tekVBaFJPQlRZYTZIZHFMeXhfY1p6Y3lQZlhoU19jUDkwQllNc1REMjJlZ3hGTjVfSVpkc2Z5ZlpiRXVzUzlLSTFqUTJwRmQ1WkxQZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVNUalExV0RsTmNFdDBWMFptVFJDZkF4ampCU2dLTWdZSnNvejBOQVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>3 pledges Trump has made on Iran - Axios - Yesterday - By Rebecca Falconer & Julianna Bragg</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMieEFVX3lxTE5EU2xha2Qya0pRVkQ0WXJtaGNyMzBvTUpFNnZuU2RaM1FJYm8tekVBaFJPQlRZYTZIZHFMeXhfY1p6Y3lQZlhoU19jUDkwQllNc1REMjJlZ3hGTjVfSVpkc2Z5ZlpiRXVzUzlLSTFqUTJwRmQ1WkxQZQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 10:00:54 +0000</pubDate>
     </item>
     <item>
       <title>WATCH: Leavitt clarifies what Trump's demand for Iran's 'unconditional surrender' means - PBS - 2 days ago</title>
@@ -506,39 +436,207 @@
       <pubDate>Sat, 07 Mar 2026 08:21:38 +0000</pubDate>
     </item>
     <item>
-      <title>Trump: "knocked out" 42 Iranian naval ships and will "take care" of Cuba - Axios - 5 hours ago - By Lauren Floyd &amp; Josephine Walker</title>
+      <title>Trump: "Knocked out" 42 Iranian ships, will "take care" of Cuba - Axios - 6 hours ago - By Lauren Floyd &amp; Josephine Walker</title>
       <link>https://news.google.com/read/CBMifEFVX3lxTFBIZGlqSmNMbFRNZFhxX3F0a0lBbC1IckdYS2NPNGF4aFlrU1E5SG50aXB1M3dybFNONllxUENRNWkzaXR3YjlMdks2Nm92ZWJmY1pnSWNzNTRtMHFrU3ZXWjExQUhadjRCcVFZWFM2SXJESUlLU1Q4N3JZMlI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVNUalExV0RsTmNFdDBWMFptVFJDZkF4ampCU2dLTWdZSnNvejBOQVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump: "knocked out" 42 Iranian naval ships and will "take care" of Cuba - Axios - 5 hours ago - By Lauren Floyd & Josephine Walker</p>]]></description>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVNUalExV0RsTmNFdDBWMFptVFJDZkF4ampCU2dLTWdZSnNvejBOQVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump: "Knocked out" 42 Iranian ships, will "take care" of Cuba - Axios - 6 hours ago - By Lauren Floyd & Josephine Walker</p>]]></description>
       <guid isPermaLink="false">https://news.google.com/read/CBMifEFVX3lxTFBIZGlqSmNMbFRNZFhxX3F0a0lBbC1IckdYS2NPNGF4aFlrU1E5SG50aXB1M3dybFNONllxUENRNWkzaXR3YjlMdks2Nm92ZWJmY1pnSWNzNTRtMHFrU3ZXWjExQUhadjRCcVFZWFM2SXJESUlLU1Q4N3JZMlI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 11:21:12 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 14:12:54 +0000</pubDate>
     </item>
     <item>
-      <title>Live Updates: Israel Blasts Fuel Depots in Iran as War Stretches Into Second Week - WSJ - 1 hour ago - By Xavier Martinez, Benoît Faucon &amp; Elvan Kivilcim</title>
-      <link>https://news.google.com/read/CBMia0FVX3lxTFB1aEF2YUhkak5XNlhsZjJibnl5NWJKT2dDRHloai1jalRQVnEyTkc5LTkwTUFhMGJNN0ltX1ZWRFVBeXkzV05lSVlBTlJNWlNqbWk4eVdCRzRmTFRBZkVyS2lScnNIMEhDbHU4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDBjSFpIVG1zMVJFRk5OWEpKVFJERUF4aW1CU2dLTWdZQndJYXB6UU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Live Updates: Israel Blasts Fuel Depots in Iran as War Stretches Into Second Week - WSJ - 1 hour ago - By Xavier Martinez, Benoît Faucon & Elvan Kivilcim</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMia0FVX3lxTFB1aEF2YUhkak5XNlhsZjJibnl5NWJKT2dDRHloai1jalRQVnEyTkc5LTkwTUFhMGJNN0ltX1ZWRFVBeXkzV05lSVlBTlJNWlNqbWk4eVdCRzRmTFRBZkVyS2lScnNIMEhDbHU4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 15:52:50 +0000</pubDate>
+      <title>Iranian President’s Apology to Neighboring Gulf States Showcases Leadership Rifts - The New York Times - Yesterday - By Aaron Boxerman</title>
+      <link>https://news.google.com/read/CBMioAFBVV95cUxNZXRyRUVXVS1kQlk2cDVPdXltSjVNRk5uNGp3UkVVQ2Mzc2Z6Zzd4SEQ3bHhUQ0RIOXZvZkFieXlrMFZVZVR3QXFtenlUek1pV0RZbG1QMFJlRndyOXpZb1pxdUdWR25nNFVuMVE4ZzlMQng1QmkzRFhLTm9rZXdGMTUtSkpSZjdGWnhVejJValE1Mzg4UUhPTXZtWGVhZ3ls?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iranian President’s Apology to Neighboring Gulf States Showcases Leadership Rifts - The New York Times - Yesterday - By Aaron Boxerman</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMioAFBVV95cUxNZXRyRUVXVS1kQlk2cDVPdXltSjVNRk5uNGp3UkVVQ2Mzc2Z6Zzd4SEQ3bHhUQ0RIOXZvZkFieXlrMFZVZVR3QXFtenlUek1pV0RZbG1QMFJlRndyOXpZb1pxdUdWR25nNFVuMVE4ZzlMQng1QmkzRFhLTm9rZXdGMTUtSkpSZjdGWnhVejJValE1Mzg4UUhPTXZtWGVhZ3ls?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 16:28:39 +0000</pubDate>
     </item>
     <item>
-      <title>Live Updates: Israel strikes oil facilities in Tehran as Iranian president vows more attacks on U.S. targets - CBS News - 2 hours ago - By Kerry Breen &amp; Lucia I Suarez Sang (She/Her)</title>
-      <link>https://news.google.com/read/CBMihgFBVV95cUxPUFh4c0djeTJobnBEVmtQeVUyTVJubkw5UGducS02T1pUMjE2QmhDQnM4aVRlSnRacFoxelVIazZnSExCdGZvMnZKcFU2dmt6dzg3WHcwN2FfQjZLaFNKNXpuemRSckxubXdYdGxXeWptek92dXhfaVNSVmlVWTNJaHJjVDY0Z9IBiwFBVV95cUxNNmVWRVloV2N6OHFickp4MVNwT1BLZGd1ckYxWlhYUll2NVNwNHNOVHpTSDJNQXpNM0lhaDJFN1lCYzYzTlBvb1hZVVRwb05RbjkxZS1TdTYyRkl5bGZ2T0o2WTk3aHJSSGVXTWl1MkFBZU5heG9fNDRyTE8zVjJ3QXB5dFMzci1tRDVB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDBjSFpIVG1zMVJFRk5OWEpKVFJERUF4aW1CU2dLTWdZQndJYXB6UU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Live Updates: Israel strikes oil facilities in Tehran as Iranian president vows more attacks on U.S. targets - CBS News - 2 hours ago - By Kerry Breen & Lucia I Suarez Sang (She/Her)</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMihgFBVV95cUxPUFh4c0djeTJobnBEVmtQeVUyTVJubkw5UGducS02T1pUMjE2QmhDQnM4aVRlSnRacFoxelVIazZnSExCdGZvMnZKcFU2dmt6dzg3WHcwN2FfQjZLaFNKNXpuemRSckxubXdYdGxXeWptek92dXhfaVNSVmlVWTNJaHJjVDY0Z9IBiwFBVV95cUxNNmVWRVloV2N6OHFickp4MVNwT1BLZGd1ckYxWlhYUll2NVNwNHNOVHpTSDJNQXpNM0lhaDJFN1lCYzYzTlBvb1hZVVRwb05RbjkxZS1TdTYyRkl5bGZ2T0o2WTk3aHJSSGVXTWl1MkFBZU5heG9fNDRyTE8zVjJ3QXB5dFMzci1tRDVB?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 14:43:00 +0000</pubDate>
+      <title>Iran’s president says nation ‘will not bow’ to pressure from U.S. and Israel. Live updates here. - CTV News - 2 hours ago</title>
+      <link>https://news.google.com/read/CBMi3AFBVV95cUxNUVk4SV9tWXg4Y0Z4RVBuNmItYWk3WmFyTmtRNUNaRUtaV0FPNnFkVUsxVGlRUWdxczdMT1dBdFE2T2VDaTZjdmxNMmo1VDM5NElZcl9Ga3JnMmZGVl82NXhQclB0MHZidHVhejZVbzJacHBsZl85Q2FBOG9tbWZ3WXJMU2llOVJtZzJpcHc0X2tOekdiQzd1UEJXNGgyb3hIMDNhQmdIbk41VFBrMjRrNl9fZkdZZmVDaV9hOGt6QWs2MzJWblMzby0xQkl1ODdFR2NBSE1NQkd6N1hH?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran’s president says nation ‘will not bow’ to pressure from U.S. and Israel. Live updates here. - CTV News - 2 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMi3AFBVV95cUxNUVk4SV9tWXg4Y0Z4RVBuNmItYWk3WmFyTmtRNUNaRUtaV0FPNnFkVUsxVGlRUWdxczdMT1dBdFE2T2VDaTZjdmxNMmo1VDM5NElZcl9Ga3JnMmZGVl82NXhQclB0MHZidHVhejZVbzJacHBsZl85Q2FBOG9tbWZ3WXJMU2llOVJtZzJpcHc0X2tOekdiQzd1UEJXNGgyb3hIMDNhQmdIbk41VFBrMjRrNl9fZkdZZmVDaV9hOGt6QWs2MzJWblMzby0xQkl1ODdFR2NBSE1NQkd6N1hH?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 18:40:01 +0000</pubDate>
     </item>
     <item>
-      <title>'Night turned into day': Iranians tell of strikes on oil depots - BBC - 20 minutes ago - By Ghoncheh Habibiazad</title>
-      <link>https://news.google.com/read/CBMiWkFVX3lxTFA0VlczWHhsR1MyY1F6el9SeEJJU1RyTTlnV0pickltV2tlT1BLajlOZUM5bHhTdkVWZXJMTzlwa3JUd1pJUnBrLVZhd1kzUjdFYjVYNVlINE5Kdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDBjSFpIVG1zMVJFRk5OWEpKVFJERUF4aW1CU2dLTWdZQndJYXB6UU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>'Night turned into day': Iranians tell of strikes on oil depots - BBC - 20 minutes ago - By Ghoncheh Habibiazad</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMiWkFVX3lxTFA0VlczWHhsR1MyY1F6el9SeEJJU1RyTTlnV0pickltV2tlT1BLajlOZUM5bHhTdkVWZXJMTzlwa3JUd1pJUnBrLVZhd1kzUjdFYjVYNVlINE5Kdw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 16:32:57 +0000</pubDate>
+      <title>Iran sends first significant message of de-escalation, but with a major caveat - CNN - Yesterday</title>
+      <link>https://news.google.com/read/CBMihgFBVV95cUxQb0tiWUUyM2RyMEI4YWlkUjAtZzE2TElDa3ZQckdxSWlYUkVEci1MRi1VazZZbUJacU5ZN0ViRUdnWHNxb2Y1QmtwcjVNZnYwMEdHOUU4YjZZWmpMMmJsSGd5bHVWTmtoV1FvYkxWT05iWUVCY29jazJRUERFcmFyOFI5LUdfUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iran sends first significant message of de-escalation, but with a major caveat - CNN - Yesterday</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMihgFBVV95cUxQb0tiWUUyM2RyMEI4YWlkUjAtZzE2TElDa3ZQckdxSWlYUkVEci1MRi1VazZZbUJacU5ZN0ViRUdnWHNxb2Y1QmtwcjVNZnYwMEdHOUU4YjZZWmpMMmJsSGd5bHVWTmtoV1FvYkxWT05iWUVCY29jazJRUERFcmFyOFI5LUdfUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 15:22:46 +0000</pubDate>
     </item>
     <item>
-      <title>Black clouds over Tehran rain down oil drops after Israel strikes oil facilities - The Times of Israel - 2 hours ago</title>
-      <link>https://news.google.com/read/CBMisAFBVV95cUxPOVU4VWZBbFFHT1d5LWxwalVhWjBFVlVDbExBS2lLZFVsNmVFVkY3OUk3QXhFbXpfQWpzTEctUmFiUW51NEdURkl1d3VJTEdHRHkzWURiSllXRTZTMjU0dks4RlRTUENhSUN1SWVlQk9hYThJYXpoQ2RjOWFaakNvTDNlZHBRZUVfYjZreGhNM1NlMTNhX1hsMVJqUXNfUWZQM1FJWGo4V0ZUVzBGSUExWNIBtgFBVV95cUxOa2NuNnJHOW53WU9nSHhCN2F3OWlOR0ZYckJOWlZ4TGxmWXBOc2ZhNFczMEdjMWVzT1otQURzTDJ1ODYyQlhtZk1CYXVFTVNTTGdxb0JwU0xFRFc4eXdyQkRKNGc0Yy1ORUtMSmZHZ25xRVp1N0JjVlY1b2doTVFhUV9qUlViZUZ4VGg1cUhnUzZuTlpCRm5ZdWRWSkF4eWhORXNkWl9BY0tZLUhfTDRBcjRyMDlmZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
-      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDBjSFpIVG1zMVJFRk5OWEpKVFJERUF4aW1CU2dLTWdZQndJYXB6UU0=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Black clouds over Tehran rain down oil drops after Israel strikes oil facilities - The Times of Israel - 2 hours ago</p>]]></description>
-      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxPOVU4VWZBbFFHT1d5LWxwalVhWjBFVlVDbExBS2lLZFVsNmVFVkY3OUk3QXhFbXpfQWpzTEctUmFiUW51NEdURkl1d3VJTEdHRHkzWURiSllXRTZTMjU0dks4RlRTUENhSUN1SWVlQk9hYThJYXpoQ2RjOWFaakNvTDNlZHBRZUVfYjZreGhNM1NlMTNhX1hsMVJqUXNfUWZQM1FJWGo4V0ZUVzBGSUExWNIBtgFBVV95cUxOa2NuNnJHOW53WU9nSHhCN2F3OWlOR0ZYckJOWlZ4TGxmWXBOc2ZhNFczMEdjMWVzT1otQURzTDJ1ODYyQlhtZk1CYXVFTVNTTGdxb0JwU0xFRFc4eXdyQkRKNGc0Yy1ORUtMSmZHZ25xRVp1N0JjVlY1b2doTVFhUV9qUlViZUZ4VGg1cUhnUzZuTlpCRm5ZdWRWSkF4eWhORXNkWl9BY0tZLUhfTDRBcjRyMDlmZw?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
-      <pubDate>Sun, 08 Mar 2026 14:06:43 +0000</pubDate>
+      <title>Iranian attacks target Gulf States as US warns bombing will intensify - KVUE - 9 hours ago - By Jon Gambrell &amp; David Rising</title>
+      <link>https://news.google.com/read/CBMigAJBVV95cUxNZEVwQ2NBX3NDRlIyVF9rSVlmUEZuMHpwc3J0TVlSWl8xamlVMmNoMkEtbWFBVG9iakIxUG5Hb0l1dFFqUl9YSUJDTFExb1RZY0c5UU9zWllIUk1nc3hYc2tvRkVoRk1RTzFvajVmM3FxSF9GSVBQNVl4WTk1VzZYdE9rd2NIZFVhb19tTUtUbGRqbmlUT0w1VDVyQzJVek9xVVNKZnZaR3R6eGNOVnFrdDlkRlRvT2ZZU0RFNGQ1aG5PTkd5bDhncmRCUndvX3VLWC1sSTVwMWRMRmU1UnhWUkZLOTZxNXdwdHJrT2RseU9uNHpSVFV1Sm9DckN0QV9D?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNXFkazVJTWxWcFREWjRVbkowVFJDZkF4ampCU2dLTWdhaGc0Nk5OUVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Iranian attacks target Gulf States as US warns bombing will intensify - KVUE - 9 hours ago - By Jon Gambrell & David Rising</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMigAJBVV95cUxNZEVwQ2NBX3NDRlIyVF9rSVlmUEZuMHpwc3J0TVlSWl8xamlVMmNoMkEtbWFBVG9iakIxUG5Hb0l1dFFqUl9YSUJDTFExb1RZY0c5UU9zWllIUk1nc3hYc2tvRkVoRk1RTzFvajVmM3FxSF9GSVBQNVl4WTk1VzZYdE9rd2NIZFVhb19tTUtUbGRqbmlUT0w1VDVyQzJVek9xVVNKZnZaR3R6eGNOVnFrdDlkRlRvT2ZZU0RFNGQ1aG5PTkd5bDhncmRCUndvX3VLWC1sSTVwMWRMRmU1UnhWUkZLOTZxNXdwdHJrT2RseU9uNHpSVFV1Sm9DckN0QV9D?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 11:45:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Is Israel reshaping Lebanon, trying to separate Hezbollah from its people? - Al Jazeera - 3 hours ago - By Justin Salhani</title>
+      <link>https://news.google.com/read/CBMitwFBVV95cUxNWncxSWFBMVB3RE1nNWN3dU4zVGpvamZSdEVDZ3MyV0diTG4ybEtPWVowb2pzMVlabEFUelJrNmxFdUpLT2lOQ1FTY1ZGMlptWFZPVWRoQlZPdEE3ZHpQSExZVjRDazlyNzdyM2JhRG03MUNBU2QyR0VlTnlwNC1lRDgzN0VqOURYX3ZHZU54TVd0ZThmRUl5dUtxZUpNNi1rZ2hZMFF5Y2tFTWhyZUR5T2hqanQ2eknSAbwBQVVfeXFMTTZfamtZYm1GMkw2QUw2c1JWUkhvZXlpVnFpaUNMWkpkNVBLbVI2eGNkcm5ZME9vMjZMamllZzRDSWRwdW9LUTYyYldTckhoTG5vQ3pDZG4wTC12c2M0TnBNWXllZTEyNVNQdGw3bjhtSFVqV2ROV051dlBDQ3E5ZWdZMERHREZCZllMSmdnTDRvYmt5czNOTmhUWEZSZDhSNnJ5eUx4OVNkM3ZCRjZXc1VsLWlKckQ0TkJTLXI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Is Israel reshaping Lebanon, trying to separate Hezbollah from its people? - Al Jazeera - 3 hours ago - By Justin Salhani</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitwFBVV95cUxNWncxSWFBMVB3RE1nNWN3dU4zVGpvamZSdEVDZ3MyV0diTG4ybEtPWVowb2pzMVlabEFUelJrNmxFdUpLT2lOQ1FTY1ZGMlptWFZPVWRoQlZPdEE3ZHpQSExZVjRDazlyNzdyM2JhRG03MUNBU2QyR0VlTnlwNC1lRDgzN0VqOURYX3ZHZU54TVd0ZThmRUl5dUtxZUpNNi1rZ2hZMFF5Y2tFTWhyZUR5T2hqanQ2eknSAbwBQVVfeXFMTTZfamtZYm1GMkw2QUw2c1JWUkhvZXlpVnFpaUNMWkpkNVBLbVI2eGNkcm5ZME9vMjZMamllZzRDSWRwdW9LUTYyYldTckhoTG5vQ3pDZG4wTC12c2M0TnBNWXllZTEyNVNQdGw3bjhtSFVqV2ROV051dlBDQ3E5ZWdZMERHREZCZllMSmdnTDRvYmt5czNOTmhUWEZSZDhSNnJ5eUx4OVNkM3ZCRjZXc1VsLWlKckQ0TkJTLXI?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 17:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel warns Lebanon of 'disastrous repercussions' as week's death toll nears 300 - Reuters - Yesterday - By maayan lubell, Laila Bassam &amp; Maya Gebeily</title>
+      <link>https://news.google.com/read/CBMirgFBVV95cUxNQm9JYjZaZ2FnSm5GeGc2SGRTM05HdnF5THliVXVMdFNTaktiblZUaVgtOUEtam9KNGNFYVZoTlhBRXlGOFgzSUEwNmlObkJGRjJwbTBrQWxtZmRvOWpoSS1VRmxFajNnREFLVnFHZzRYdEFVVFRPWDlkMGwxa3c0MUFxZlNIeGVtVTR0eUUtOWVsTFI3V0ZPOF9rblpIalpCNll1X19mVnhyZHpOX1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Israel warns Lebanon of 'disastrous repercussions' as week's death toll nears 300 - Reuters - Yesterday - By maayan lubell, Laila Bassam & Maya Gebeily</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMirgFBVV95cUxNQm9JYjZaZ2FnSm5GeGc2SGRTM05HdnF5THliVXVMdFNTaktiblZUaVgtOUEtam9KNGNFYVZoTlhBRXlGOFgzSUEwNmlObkJGRjJwbTBrQWxtZmRvOWpoSS1VRmxFajNnREFLVnFHZzRYdEFVVFRPWDlkMGwxa3c0MUFxZlNIeGVtVTR0eUUtOWVsTFI3V0ZPOF9rblpIalpCNll1X19mVnhyZHpOX1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 07:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Navy strike on Beirut hotel killed five top IRGC commanders, IDF says - The Times of Israel - 2 hours ago</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxQdk9VbHh3NkY4amlsWnprelVUbXlJRmZsZ2FJSGJodVRrREMzNkpHbFJiX1FDQ0plZ2hDM2poX19vNC0wN3NITGZ5NlVWRHhBVmUxbnd0ZjVJRjRZcDhoOTE1R0VSODlvREZFVmZRV3FNNnlSa095TDROemlyVE53Y3Bwb0I0c0xwcnZGUk9lcll1M1RVZEtqOWZINFhwalhIS0N4VVJvdWlUZlg3b0F4YjVYYlc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Navy strike on Beirut hotel killed five top IRGC commanders, IDF says - The Times of Israel - 2 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitAFBVV95cUxQdk9VbHh3NkY4amlsWnprelVUbXlJRmZsZ2FJSGJodVRrREMzNkpHbFJiX1FDQ0plZ2hDM2poX19vNC0wN3NITGZ5NlVWRHhBVmUxbnd0ZjVJRjRZcDhoOTE1R0VSODlvREZFVmZRV3FNNnlSa095TDROemlyVE53Y3Bwb0I0c0xwcnZGUk9lcll1M1RVZEtqOWZINFhwalhIS0N4VVJvdWlUZlg3b0F4YjVYYlc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 18:21:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dozens killed in Lebanon as Israel searches for signs of navigator missing for 40 years - Politico - Yesterday</title>
+      <link>https://news.google.com/read/CBMi0wFBVV95cUxNYnQyMXF1c29qZTZuYWlwUVJpUlAycUg1TWdsNzNnOHN4X3NwSlBvd1FKMmY4SkRzVkhheVZfTVBzMnhrbU9kZnJzWDIwcktCakFWMlVOT1U0ZURkTmNwVmN4Zko4TkFUN3dMeGVzS2tXRWkxLTJOaWFGZl9rR0huQmtHbFBFdEc0U05GQUFGZFNNektGX1c2MDc3X0wxLVNNZHo0c1BlbVpPWWlsTERQSmRtQktwenE4OEE1VllVS2dYaEhwZWlJcDRqeF9WWkh6TGNN?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUZOamxuY0ZZeFdqTlRYM2xtVFJDUkF4ajJCQ2dLTWdZQk1JWU9vQVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Dozens killed in Lebanon as Israel searches for signs of navigator missing for 40 years - Politico - Yesterday</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMi0wFBVV95cUxNYnQyMXF1c29qZTZuYWlwUVJpUlAycUg1TWdsNzNnOHN4X3NwSlBvd1FKMmY4SkRzVkhheVZfTVBzMnhrbU9kZnJzWDIwcktCakFWMlVOT1U0ZURkTmNwVmN4Zko4TkFUN3dMeGVzS2tXRWkxLTJOaWFGZl9rR0huQmtHbFBFdEc0U05GQUFGZFNNektGX1c2MDc3X0wxLVNNZHo0c1BlbVpPWWlsTERQSmRtQktwenE4OEE1VllVS2dYaEhwZWlJcDRqeF9WWkh6TGNN?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 19:13:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>European leaders react to International Women's Day - Euronews.com - 10 hours ago - By Rory Elliott Armstrong</title>
+      <link>https://news.google.com/read/CBMinAFBVV95cUxQT1UzdGxvSnBBbUJZTG1EclBkX2wzbmVlc0F4Q0xOcjRaY3kxdUNNNWJ5eTM3UndhX1BMSmJwUF9YazVTWGd6Q3o4TEdYbkFNUUZvZ1BrN0NOX2lLNGwyYm1tVDVnZk9ud0dVNE8xa0ZsdW0yNEVqZ01NZnpsQWlkUTZNOHVEN1dLYWI4SU9oRDR1aVJ6dzBwSTRYNlM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpObmg2Tmxoak9XcFFiWEZuVFJDUEF4alhCQ2dLTWdhQnNvb3l2UVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>European leaders react to International Women's Day - Euronews.com - 10 hours ago - By Rory Elliott Armstrong</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMinAFBVV95cUxQT1UzdGxvSnBBbUJZTG1EclBkX2wzbmVlc0F4Q0xOcjRaY3kxdUNNNWJ5eTM3UndhX1BMSmJwUF9YazVTWGd6Q3o4TEdYbkFNUUZvZ1BrN0NOX2lLNGwyYm1tVDVnZk9ud0dVNE8xa0ZsdW0yNEVqZ01NZnpsQWlkUTZNOHVEN1dLYWI4SU9oRDR1aVJ6dzBwSTRYNlM?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 10:45:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>International Women’s Day march fights for women’s rights and equality - Live 5 News - 21 hours ago</title>
+      <link>https://news.google.com/read/CBMipAFBVV95cUxNOFNKQWdTTTV3eEE5aDNsSExiclZwRGZRNEdTaUh5eFY3blA1dThDUmp4SDFHNTNVbExHRTNDTEtBZEtIakdGTVY0Z3N2WGw2RnhiMVFvRjVvbDE5a0ExV05NNExiWG1HQXJ1S3NacTFYVldRaTdTMVA0eDNSRVh4QmdOTFdtaHVBWFVUTXlmUzF1Q1otN3BVWUE3OF96MXR0TVM4bQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpObmg2Tmxoak9XcFFiWEZuVFJDUEF4alhCQ2dLTWdhQnNvb3l2UVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>International Women’s Day march fights for women’s rights and equality - Live 5 News - 21 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMipAFBVV95cUxNOFNKQWdTTTV3eEE5aDNsSExiclZwRGZRNEdTaUh5eFY3blA1dThDUmp4SDFHNTNVbExHRTNDTEtBZEtIakdGTVY0Z3N2WGw2RnhiMVFvRjVvbDE5a0ExV05NNExiWG1HQXJ1S3NacTFYVldRaTdTMVA0eDNSRVh4QmdOTFdtaHVBWFVUTXlmUzF1Q1otN3BVWUE3OF96MXR0TVM4bQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 23:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photos: These bold women stand up for justice, rights ... and freedom - NPR - 8 hours ago - By Kamala Thiagarajan</title>
+      <link>https://news.google.com/read/CBMinAFBVV95cUxQVVFtUkdNVUljMkZmS2FkWVRYYkFUQWowcXg4NUJHNmV3WW9vc1BoclNHOW1SUV9Mb2IyZ3AtbFBHMlg0Z2R4SWRTT2trRnRCWGw3QkNpUGpfTC1GV0U5ZWR3WUFPX19kaGpZMC1GVnhZd1N2OHJfY1ZicUpiQVh6UHNUZDFteXIySnZ3MVdFb2ljZWt0bEdUZDlvRHE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpObmg2Tmxoak9XcFFiWEZuVFJDUEF4alhCQ2dLTWdhQnNvb3l2UVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Photos: These bold women stand up for justice, rights ... and freedom - NPR - 8 hours ago - By Kamala Thiagarajan</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMinAFBVV95cUxQVVFtUkdNVUljMkZmS2FkWVRYYkFUQWowcXg4NUJHNmV3WW9vc1BoclNHOW1SUV9Mb2IyZ3AtbFBHMlg0Z2R4SWRTT2trRnRCWGw3QkNpUGpfTC1GV0U5ZWR3WUFPX19kaGpZMC1GVnhZd1N2OHJfY1ZicUpiQVh6UHNUZDFteXIySnZ3MVdFb2ljZWt0bEdUZDlvRHE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 11:57:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photos show women marking International Women’s Day - AP News - 2 hours ago</title>
+      <link>https://news.google.com/read/CBMilgFBVV95cUxPWkx0NGd0czh2bHlfOS1aTGdOOXVfTXM3Z2NTOE1qeEVJMEo0cHZQNnZGc3g3X0xKd21QTXFEelVHdFRJc3lOMHBvSF8yc0lfZ1YxRE5iNm5aVVYyTElCbW8xcDRVcDNpVGk3dGpYZEYxakQ0d2I1M0VfbXlTYmROLVpvX2V1LVVQS3E3U2VVU0xwM0ViZ0E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUpObmg2Tmxoak9XcFFiWEZuVFJDUEF4alhCQ2dLTWdhQnNvb3l2UVU=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Photos show women marking International Women’s Day - AP News - 2 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMilgFBVV95cUxPWkx0NGd0czh2bHlfOS1aTGdOOXVfTXM3Z2NTOE1qeEVJMEo0cHZQNnZGc3g3X0xKd21QTXFEelVHdFRJc3lOMHBvSF8yc0lfZ1YxRE5iNm5aVVYyTElCbW8xcDRVcDNpVGk3dGpYZEYxakQ0d2I1M0VfbXlTYmROLVpvX2V1LVVQS3E3U2VVU0xwM0ViZ0E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 18:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump’s trip, Iran, G2, Japan, Taiwan: Beijing lays out its views on world order – as it happened - South China Morning Post - 15 hours ago</title>
+      <link>https://news.google.com/read/CBMi2wFBVV95cUxPM0NZQUxXYmFYUklJMF94LUdWcUQ0RkxpQlZUU3d1SXcwOXYzZUF1THJaaEZNOHctZDlnV3poUEhEY0RqdVZGamNUdTB1cjcwcG84XzY2YjlqdWpQV0NkaUhDWjlBNG5oMGYwZHA0Rm54T2pQeWlnZ1dvMVkzSXhoa2RsLVNSUHMzNXhoNmdGNElDT0p3ZzBMcHhZdl9ZYUdXamRWV2JILVNEcDlUQUlaZjNEZURrdVctSk9wNWtnX24xTGN6MDlzZm1ySVhVNnNIMG1ja2MxcGJ5UzQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUVObUUwTTE5bVh6bG9lVE50VFJDUUF4aThCU2dLTWdhNUk0QnhxUWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump’s trip, Iran, G2, Japan, Taiwan: Beijing lays out its views on world order – as it happened - South China Morning Post - 15 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMi2wFBVV95cUxPM0NZQUxXYmFYUklJMF94LUdWcUQ0RkxpQlZUU3d1SXcwOXYzZUF1THJaaEZNOHctZDlnV3poUEhEY0RqdVZGamNUdTB1cjcwcG84XzY2YjlqdWpQV0NkaUhDWjlBNG5oMGYwZHA0Rm54T2pQeWlnZ1dvMVkzSXhoa2RsLVNSUHMzNXhoNmdGNElDT0p3ZzBMcHhZdl9ZYUdXamRWV2JILVNEcDlUQUlaZjNEZURrdVctSk9wNWtnX24xTGN6MDlzZm1ySVhVNnNIMG1ja2MxcGJ5UzQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 05:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Five key takeaways from an annual briefing by China’s foreign minister - NPR - 3 hours ago - By Jennifer Pak</title>
+      <link>https://news.google.com/read/CBMitAFBVV95cUxPUkZzYTJjbkw5Xzc4ckEtdVU0SkRzdExKRVNpZjloV2tOam96SU5PMHVtbjNNMml4dU5nZWRidVVHbkItWUlGSDBUWlhQdklEYTM1Qk9fZHRrd0FhQkJ0TXplNEY4M0FTS3lOSEw2eG9nbHU0VG1BbUE5aWpSUEEwaDEyTUdEZkZ6Z0ZPTWJ2SjBTZm56dHRlYnFDS2JUa191VmRhSzBJS1dkdVFQaTJMa0RnVlY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUVObUUwTTE5bVh6bG9lVE50VFJDUUF4aThCU2dLTWdhNUk0QnhxUWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Five key takeaways from an annual briefing by China’s foreign minister - NPR - 3 hours ago - By Jennifer Pak</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMitAFBVV95cUxPUkZzYTJjbkw5Xzc4ckEtdVU0SkRzdExKRVNpZjloV2tOam96SU5PMHVtbjNNMml4dU5nZWRidVVHbkItWUlGSDBUWlhQdklEYTM1Qk9fZHRrd0FhQkJ0TXplNEY4M0FTS3lOSEw2eG9nbHU0VG1BbUE5aWpSUEEwaDEyTUdEZkZ6Z0ZPTWJ2SjBTZm56dHRlYnFDS2JUa191VmRhSzBJS1dkdVFQaTJMa0RnVlY?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 17:42:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>The U.S. and China running the world together? China says no thanks - NBC News - 15 hours ago - By Janis Mackey Frayer &amp; Eric Baculinao </title>
+      <link>https://news.google.com/read/CBMinwFBVV95cUxOcXpkWVFOeG1DdHltZHYwbUpGWm1sRHFUNWlMU1NXaGdiajIxZUVqV0xZb01MX21CTGlLeEZ5V1hzNGxNUVl0UTI2SWhEWmQ1VE4ycmp0cnFsYTh1dk50a2x3em5GVElvOGoxdmhUNU5DZUhJdTBWRkZWWGdDcHNjVXFFZ0xlbWhVNEVuQl9YM0lVQTZFUmNibUtkWjJDVHc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUVObUUwTTE5bVh6bG9lVE50VFJDUUF4aThCU2dLTWdhNUk0QnhxUWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>The U.S. and China running the world together? China says no thanks - NBC News - 15 hours ago - By Janis Mackey Frayer & Eric Baculinao </p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMinwFBVV95cUxOcXpkWVFOeG1DdHltZHYwbUpGWm1sRHFUNWlMU1NXaGdiajIxZUVqV0xZb01MX21CTGlLeEZ5V1hzNGxNUVl0UTI2SWhEWmQ1VE4ycmp0cnFsYTh1dk50a2x3em5GVElvOGoxdmhUNU5DZUhJdTBWRkZWWGdDcHNjVXFFZ0xlbWhVNEVuQl9YM0lVQTZFUmNibUtkWjJDVHc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 05:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Takeaways from Foreign Minister Wang Yi at China’s ‘two sessions’ - South China Morning Post - 16 hours ago - By Dewey Sim</title>
+      <link>https://news.google.com/read/CBMisgFBVV95cUxNeVlyU2ZFMU13N09ZNVU0Q1N3YllMaEo4d1NKcE9CNk5QcmM3Sm52SHowRFU1T0p6ZHZqMzhvNkFKVmRFTS03QkplYjhYaTJVYjlRUTBlWl9tZUlVYi1SQmMwcVdWcHNzOGJoQS1MTFBMS2dYWEJzbThyYUdreVhxNWVpMkdIMnFPRUY0Z3RyaE9PdzZaaWRIdGhLTm5lVlRya2JGbHRIME5VRFhRWElPUVdR0gGyAUFVX3lxTE1TcGhoVUZNQWZkRmE4UWZOSDI4c2F1TDZRcGJBNkF5ZTBCTm5VMlkyX1lvc3B3RHhNd2lzZ3EzQnJMUGdhcFhhUVZ5X0NXZEluWUFXRkhNUVJEVlpCSE5fNXQyZ3VjeC1mdDdtMi0ycTBGSkZaOVZhbHN2d0JaVjJEcGc1TGlVd0lmcHFWdnVQTDNnU0RSSS1ILTFhb2pWOU9aWHFNTVAxOEdOXzlrTkhMM1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNUVObUUwTTE5bVh6bG9lVE50VFJDUUF4aThCU2dLTWdhNUk0QnhxUWM=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Takeaways from Foreign Minister Wang Yi at China’s ‘two sessions’ - South China Morning Post - 16 hours ago - By Dewey Sim</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMisgFBVV95cUxNeVlyU2ZFMU13N09ZNVU0Q1N3YllMaEo4d1NKcE9CNk5QcmM3Sm52SHowRFU1T0p6ZHZqMzhvNkFKVmRFTS03QkplYjhYaTJVYjlRUTBlWl9tZUlVYi1SQmMwcVdWcHNzOGJoQS1MTFBMS2dYWEJzbThyYUdreVhxNWVpMkdIMnFPRUY0Z3RyaE9PdzZaaWRIdGhLTm5lVlRya2JGbHRIME5VRFhRWElPUVdR0gGyAUFVX3lxTE1TcGhoVUZNQWZkRmE4UWZOSDI4c2F1TDZRcGJBNkF5ZTBCTm5VMlkyX1lvc3B3RHhNd2lzZ3EzQnJMUGdhcFhhUVZ5X0NXZEluWUFXRkhNUVJEVlpCSE5fNXQyZ3VjeC1mdDdtMi0ycTBGSkZaOVZhbHN2d0JaVjJEcGc1TGlVd0lmcHFWdnVQTDNnU0RSSS1ILTFhb2pWOU9aWHFNTVAxOEdOXzlrTkhMM1E?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 04:38:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump tells Britain he does not need its help to win Iran war - Reuters - 21 hours ago</title>
+      <link>https://news.google.com/read/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump tells Britain he does not need its help to win Iran war - Reuters - 21 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sat, 07 Mar 2026 22:55:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump rejects UK’s offer to send aircraft carriers to Middle East: ‘We will remember’ - Yahoo - 17 hours ago - By Ryan Mancini</title>
+      <link>https://news.google.com/read/CBMihAFBVV95cUxNZTh2ZlNKX3Q1RjQ1TU9lMUJJaGhDS1JYSndzUHd0eE45azZpWkRPNWRmVmdxSkwwRXEwb09vT0xJaW9yTHZQdkFBczNDN1kxLUNRcHotZE81SGYwcU5WRk91bVdhdkZfaDJoSVVuU2hkTGg1bVBKNDZKaXBodnNraGNROVg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump rejects UK’s offer to send aircraft carriers to Middle East: ‘We will remember’ - Yahoo - 17 hours ago - By Ryan Mancini</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMihAFBVV95cUxNZTh2ZlNKX3Q1RjQ1TU9lMUJJaGhDS1JYSndzUHd0eE45azZpWkRPNWRmVmdxSkwwRXEwb09vT0xJaW9yTHZQdkFBczNDN1kxLUNRcHotZE81SGYwcU5WRk91bVdhdkZfaDJoSVVuU2hkTGg1bVBKNDZKaXBodnNraGNROVg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 03:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Starmer and Trump speak for first time since president's Iran criticism - BBC - 3 hours ago - By Kate Whannel</title>
+      <link>https://news.google.com/read/CBMiWkFVX3lxTE5QMjVfOUZJaXkxQkQyeDc4eU9RTnlVS1F3LVVTSDQxR3NyZS1rbnVHTmZQLVZ6M003NHlrSUNuYXVoeVlDNVFJWU1FVjhIeFlmTWZvbHYtSVFjQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Starmer and Trump speak for first time since president's Iran criticism - BBC - 3 hours ago - By Kate Whannel</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiWkFVX3lxTE5QMjVfOUZJaXkxQkQyeDc4eU9RTnlVS1F3LVVTSDQxR3NyZS1rbnVHTmZQLVZ6M003NHlrSUNuYXVoeVlDNVFJWU1FVjhIeFlmTWZvbHYtSVFjQQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 16:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu - 12 hours ago - By Jones Hayden</title>
+      <link>https://news.google.com/read/CBMioAFBVV95cUxOUGdyamNYQWctYzRmVndZcklLY3VQUy14WGM5OVM1NVRPNE9GTTVQM0NjMmFFUmVCMmkwcVBZbDhLYm1pUEdxaFNnT3lZZFhuN1A0X21abmYxV0JKQ1pKOVg1eUMwS2R5T2hkbElyb2JYQmprRFBlLWktOWdHWC1aRlVGYVIyTmE1X2lQYVBOVGdhdVFyRjZ4Z01HZW1QOGE4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNDRhQzFhZVdKc1FtcEZaR1l3VFJERUF4aW1CU2dLTWdZUmtvd251UVk=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Trump says Starmer seeking to join Iran war ‘after we’ve already won’ - politico.eu - 12 hours ago - By Jones Hayden</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMioAFBVV95cUxOUGdyamNYQWctYzRmVndZcklLY3VQUy14WGM5OVM1NVRPNE9GTTVQM0NjMmFFUmVCMmkwcVBZbDhLYm1pUEdxaFNnT3lZZFhuN1A0X21abmYxV0JKQ1pKOVg1eUMwS2R5T2hkbElyb2JYQmprRFBlLWktOWdHWC1aRlVGYVIyTmE1X2lQYVBOVGdhdVFyRjZ4Z01HZW1QOGE4?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 08:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal - Al Jazeera - 9 hours ago</title>
+      <link>https://news.google.com/read/CBMisAFBVV95cUxQXzBOWEZnVEQ4VU5vampQbjBpbkZ5eVdkZzBaZ3VVWUgtMkk5bmlqSjN3QnhsRzJuU0tZakU1ZzRKZjVYTzFSZENaVEwtckFMT2dTRXVXa2w1emlobWptbFB3WWRiNHRHcnU0MGd0X3NDYmhwTVhHcGd3M0U5RTRhVDdsa1M4cG9hbWxwSWFucVhyMTlSX2FWMXpvSmRWcGViQ2ZyUUt0VkJ4cXNQWm5rRNIBtgFBVV95cUxOeVBLcDRjczVGOW1IdkRkR09KR0VwUzdaaUhpWWhQamVUa0J2MEZwa01Idy14YXJGenJ5ZVpFNGw1a0ZUMW15d0N5d1oya3VVOFExUzBacURJVXh3ZXdEVHNwbzlWazVTVlE5U0tJUWdIcjFZNF9mX2N1WDc5T3hSb2ptTC11ZzRCV05QcU5zX2dOY2lxQllQUWpKbnAySmtzMHIxUklDcEJwaE9raGxuckk0OW1KUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdka1JHZGs0eU5rVmxVbVZGVFJERUF4aW1CU2dLTWdZQlVKeUlJQWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Rapper-turned-politician Balen Shah’s RSP heads for poll landslide in Nepal - Al Jazeera - 9 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMisAFBVV95cUxQXzBOWEZnVEQ4VU5vampQbjBpbkZ5eVdkZzBaZ3VVWUgtMkk5bmlqSjN3QnhsRzJuU0tZakU1ZzRKZjVYTzFSZENaVEwtckFMT2dTRXVXa2w1emlobWptbFB3WWRiNHRHcnU0MGd0X3NDYmhwTVhHcGd3M0U5RTRhVDdsa1M4cG9hbWxwSWFucVhyMTlSX2FWMXpvSmRWcGViQ2ZyUUt0VkJ4cXNQWm5rRNIBtgFBVV95cUxOeVBLcDRjczVGOW1IdkRkR09KR0VwUzdaaUhpWWhQamVUa0J2MEZwa01Idy14YXJGenJ5ZVpFNGw1a0ZUMW15d0N5d1oya3VVOFExUzBacURJVXh3ZXdEVHNwbzlWazVTVlE5U0tJUWdIcjFZNF9mX2N1WDc5T3hSb2ptTC11ZzRCV05QcU5zX2dOY2lxQllQUWpKbnAySmtzMHIxUklDcEJwaE9raGxuckk0OW1KUQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 11:38:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory - BBC - 16 hours ago - By Thomas Mackintosh</title>
+      <link>https://news.google.com/read/CBMiWkFVX3lxTFBIUDBYRTE4Z1dhaldHbTk1WVBpczkzT0ZiWWlqSnkxcHpUSFhnVUJIdmFyQklEOWU3MXJ0VnAwVWoyMHRSRmtnWHQ2TkdqUzdzMGpmYlp6R3V1QQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdka1JHZGs0eU5rVmxVbVZGVFJERUF4aW1CU2dLTWdZQlVKeUlJQWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Rapper-politician Balendra Shah unseats Nepal's ex-PM as he heads for victory - BBC - 16 hours ago - By Thomas Mackintosh</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiWkFVX3lxTFBIUDBYRTE4Z1dhaldHbTk1WVBpczkzT0ZiWWlqSnkxcHpUSFhnVUJIdmFyQklEOWU3MXJ0VnAwVWoyMHRSRmtnWHQ2TkdqUzdzMGpmYlp6R3V1QQ?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 04:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gen Z-Backed Rapper Is on Course to Lead Nepal With Landslide Win - The New York Times - 15 hours ago - By Binod Ghimire &amp; Hannah Beech</title>
+      <link>https://news.google.com/read/CBMiiwFBVV95cUxNT3JlTndfbDVzeUFXd2l4akJJNlpvVXVVV0ZoUzc0VGZlSVdUQktEdVp6cVZncnphbWhnQWxLY1lQbzU5NXVQUkN2N1NYYko2dUR6cVhTMElRTnNCcTFvanZ2STl1WGZOajd1RkhWR0dnd0tfTEpzODA4SWYxUjU4d1Exc2pFNE9lMERr?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdka1JHZGs0eU5rVmxVbVZGVFJERUF4aW1CU2dLTWdZQlVKeUlJQWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Gen Z-Backed Rapper Is on Course to Lead Nepal With Landslide Win - The New York Times - 15 hours ago - By Binod Ghimire & Hannah Beech</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMiiwFBVV95cUxNT3JlTndfbDVzeUFXd2l4akJJNlpvVXVVV0ZoUzc0VGZlSVdUQktEdVp6cVZncnphbWhnQWxLY1lQbzU5NXVQUkN2N1NYYko2dUR6cVhTMElRTnNCcTFvanZ2STl1WGZOajd1RkhWR0dnd0tfTEpzODA4SWYxUjU4d1Exc2pFNE9lMERr?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 04:53:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election - NPR - 13 hours ago</title>
+      <link>https://news.google.com/read/CBMilgFBVV95cUxPRm44blZLMXA3bXM1Q3lWQ3FHXzNrNnQ2QWJoZkJFZldOel9FR2FlbDFVWmZoSVg5TThCWDVNWGpUNDRlRUNVR3lBVjZEcnFyX09OZ0p2WHdMX3pENnJ5WUhBNHMwMktxOHFXZTVudkpQeW1YOUZYbkppZUg0WUJvN2xoYjFhWTBHZ2QyYmdISm9pMmVSNVE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iK0NnNVdka1JHZGs0eU5rVmxVbVZGVFJERUF4aW1CU2dLTWdZQlVKeUlJQWs=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election - NPR - 13 hours ago</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMilgFBVV95cUxPRm44blZLMXA3bXM1Q3lWQ3FHXzNrNnQ2QWJoZkJFZldOel9FR2FlbDFVWmZoSVg5TThCWDVNWGpUNDRlRUNVR3lBVjZEcnFyX09OZ0p2WHdMX3pENnJ5WUhBNHMwMktxOHFXZTVudkpQeW1YOUZYbkppZUg0WUJvN2xoYjFhWTBHZ2QyYmdISm9pMmVSNVE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 07:18:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israeli Strikes on Fuel Depots Send Black Clouds Over Iranian Capital - The New York Times - 4 hours ago - By Parin Behrooz &amp; Kiana Hayeri</title>
+      <link>https://news.google.com/read/CBMilgFBVV95cUxNLUMyQmd5VGkxbUJjS1FKajh4TmxZVVh5SEhVSVVNNUs4UGw2SF9NeHZDZlBnbGYzYW41cTVXWXdkR3lpZ2daQ214Y1hmNlE2UWJrUUxLWkVGaXhxUkZ4Rmd2ZTZVWVB2X05ieXFESURXSVpPLTBqNFNJalpjV3hoUWRjT0x5eFhsMUtyU1BuWFVYc19MVHc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNUZkR3M0VWxWU09IbDZiV2N5VFJDR0FoalJBeWdLTWdtQklveWp3dVJNeVFF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Israeli Strikes on Fuel Depots Send Black Clouds Over Iranian Capital - The New York Times - 4 hours ago - By Parin Behrooz & Kiana Hayeri</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMilgFBVV95cUxNLUMyQmd5VGkxbUJjS1FKajh4TmxZVVh5SEhVSVVNNUs4UGw2SF9NeHZDZlBnbGYzYW41cTVXWXdkR3lpZ2daQ214Y1hmNlE2UWJrUUxLWkVGaXhxUkZ4Rmd2ZTZVWVB2X05ieXFESURXSVpPLTBqNFNJalpjV3hoUWRjT0x5eFhsMUtyU1BuWFVYc19MVHc?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 16:14:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel hits Iran’s oil depots as clerics say consensus reached on Ayatollah successor - NPR - 9 hours ago - By Npr Staff</title>
+      <link>https://news.google.com/read/CBMihwFBVV95cUxPTjVxX2Q2UWxrSmY5U3pReHEtVW9fajBialN4WXY5NkM4UzBRelVNQkt0bWVJVFZuaVJrWGw4LTN2YXNRLXc5LWstd0VaSnhFVGdMdG9VbjhNaTliVERIa1h0OHpBMm03TWFCN3kzaFB2R2U2X1JFNlNhZDNUek1DM1VscXNWOFE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNUZkR3M0VWxWU09IbDZiV2N5VFJDR0FoalJBeWdLTWdtQklveWp3dVJNeVFF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Israel hits Iran’s oil depots as clerics say consensus reached on Ayatollah successor - NPR - 9 hours ago - By Npr Staff</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMihwFBVV95cUxPTjVxX2Q2UWxrSmY5U3pReHEtVW9fajBialN4WXY5NkM4UzBRelVNQkt0bWVJVFZuaVJrWGw4LTN2YXNRLXc5LWstd0VaSnhFVGdMdG9VbjhNaTliVERIa1h0OHpBMm03TWFCN3kzaFB2R2U2X1JFNlNhZDNUek1DM1VscXNWOFE?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 11:49:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scoop: U.S. dismayed by Israel's Iran fuel strikes, sources say - Axios - 26 minutes ago - By Barak Ravid</title>
+      <link>https://news.google.com/read/CBMieEFVX3lxTE9ncXc2bjNDUnQ2V25qa1o5ZU85Y0ZDLU90LUJtbnNnbDQ4SklhWTR1dVRwWm1wdVpHWWloTnppNE16cGQzSXNhU0hsNmRIdWJYb2J6cmxjSExBVWNJc1g4bEJ6V0lvdW96TVZ4SHlFSFRaX21lVjVnWg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNUZkR3M0VWxWU09IbDZiV2N5VFJDR0FoalJBeWdLTWdtQklveWp3dVJNeVFF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>Scoop: U.S. dismayed by Israel's Iran fuel strikes, sources say - Axios - 26 minutes ago - By Barak Ravid</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMieEFVX3lxTE9ncXc2bjNDUnQ2V25qa1o5ZU85Y0ZDLU90LUJtbnNnbDQ4SklhWTR1dVRwWm1wdVpHWWloTnppNE16cGQzSXNhU0hsNmRIdWJYb2J6cmxjSExBVWNJc1g4bEJ6V0lvdW96TVZ4SHlFSFRaX21lVjVnWg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 20:24:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Dark, like our future’: Iranians describe scenes of catastrophe after Tehran’s oil depots bombed - The Guardian - 1 hour ago - By Deepa Parent</title>
+      <link>https://news.google.com/read/CBMi1AFBVV95cUxNUVBQNlpaR1VKYi1YWUQ4SnRaNElmNUJUZm1zclNCYW9ZSElHVnJfTTFELTJpM2FzVllkNjhreU9icTNCeEVGMnRtd2ZMQ012WjNqSmJhaHFoWVdsZGNpMU5yb0Y1MHNFd1RUU2RlVE9TX1E4VGFTMktObkRJVVg3MkpuNFFMbkc1UTNkX1NhNUlsZFRmc1NnWjBVa0ZkaFZkV0RxX2RiUDBJVzNnaFNvMmxnWUVCNDBOM2VpYmw4TFJpX3JXaEF6RXUwYncwX0dBc0dYQg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</link>
+      <description><![CDATA[<img src="https://news.google.com/api/attachments/CC8iL0NnNUZkR3M0VWxWU09IbDZiV2N5VFJDR0FoalJBeWdLTWdtQklveWp3dVJNeVFF=-w560-h336-p-df" style="width:100%; max-width:600px;" /><br><p>‘Dark, like our future’: Iranians describe scenes of catastrophe after Tehran’s oil depots bombed - The Guardian - 1 hour ago - By Deepa Parent</p>]]></description>
+      <guid isPermaLink="false">https://news.google.com/read/CBMi1AFBVV95cUxNUVBQNlpaR1VKYi1YWUQ4SnRaNElmNUJUZm1zclNCYW9ZSElHVnJfTTFELTJpM2FzVllkNjhreU9icTNCeEVGMnRtd2ZMQ012WjNqSmJhaHFoWVdsZGNpMU5yb0Y1MHNFd1RUU2RlVE9TX1E4VGFTMktObkRJVVg3MkpuNFFMbkc1UTNkX1NhNUlsZFRmc1NnWjBVa0ZkaFZkV0RxX2RiUDBJVzNnaFNvMmxnWUVCNDBOM2VpYmw4TFJpX3JXaEF6RXUwYncwX0dBc0dYQg?hl=en-US&amp;gl=US&amp;ceid=US%3Aen</guid>
+      <pubDate>Sun, 08 Mar 2026 19:23:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
