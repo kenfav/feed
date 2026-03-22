@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 01:12:52 +0000</lastBuildDate>
-    <item>
-      <title>How to Deal With Loneliness</title>
-      <link>https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4</link>
-      <description>How to Deal With Loneliness</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/502100032/univ/art/502100032_univ_wss_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 3m 16s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/3d7284c/1/o/502100032_E_cnt_1_r360P.mp4" length="5850988" type="video/mp4"/>
-      <pubDate>Thu, 19 Feb 2026 15:44:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 01:21:58 +0000</lastBuildDate>
     <item>
       <title>Geoffrey W. Jackson: “I and the Father Are One” (John 10:30)</title>
       <link>https://cfp2.jw-cdn.org/a/e7958fe/1/o/jwbvod26_E_09_r360P.mp4</link>
