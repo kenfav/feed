@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 01:29:35 +0000</lastBuildDate>
-    <item>
-      <title>David H. Splane: Learning From Peter’s Good Qualities (Ps. 86:5)</title>
-      <link>https://cfp2.jw-cdn.org/a/89a6a32/1/o/jwbvod26_E_12_r360P.mp4</link>
-      <description>David H. Splane: Learning From Peter’s Good Qualities (Ps. 86:5)</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_12_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/89a6a32/1/o/jwbvod26_E_12_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/89a6a32/1/o/jwbvod26_E_12_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 9m 19s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/89a6a32/1/o/jwbvod26_E_12_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/89a6a32/1/o/jwbvod26_E_12_r360P.mp4" length="18257078" type="video/mp4"/>
-      <pubDate>Fri, 27 Feb 2026 13:59:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Seth Hyatt: Look! The Great Crowd (Rev. 7:13, 14)</title>
-      <link>https://cfp2.jw-cdn.org/a/2f3cd3/1/o/jwbvod26_E_08_r360P.mp4</link>
-      <description>Seth Hyatt: Look! The Great Crowd (Rev. 7:13, 14)</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_08_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/2f3cd3/1/o/jwbvod26_E_08_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/2f3cd3/1/o/jwbvod26_E_08_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 9m 53s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/2f3cd3/1/o/jwbvod26_E_08_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/2f3cd3/1/o/jwbvod26_E_08_r360P.mp4" length="19110126" type="video/mp4"/>
-      <pubDate>Fri, 27 Feb 2026 13:59:28 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Mar 2026 01:29:57 +0000</lastBuildDate>
     <item>
       <title>JW Broadcasting—March 2026</title>
       <link>https://cfp2.jw-cdn.org/a/1ad82f7/2/o/jwb-135_E_01_r360P.mp4</link>
@@ -156,7 +126,7 @@
             <b>⏳ Duração:</b> 17m 21s<br>]]></content:encoded>
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/65df19d/1/o/jwbvod26_E_01_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/65df19d/1/o/jwbvod26_E_01_r360P.mp4" length="41755277" type="video/mp4"/>
-      <pubDate>Sat, 28 Mar 2026 23:49:53 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2026 01:03:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
