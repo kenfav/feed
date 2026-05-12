@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 02:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 02:08:30 +0000</lastBuildDate>
     <item>
       <title>Mark Scott: Pursue Goals That Honor Jehovah (1 Cor. 9:26)</title>
       <link>https://cfp2.jw-cdn.org/a/dbd03c2/1/o/jwbvod26_E_14_r360P.mp4</link>
@@ -172,6 +172,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/c61b9c/1/o/jwb-137_E_01_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/c61b9c/1/o/jwb-137_E_01_r360P.mp4" length="192368547" type="video/mp4"/>
       <pubDate>Mon, 04 May 2026 13:25:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disaster Preparedness—Expect the Unexpected</title>
+      <link>https://cfp2.jw-cdn.org/a/a7c8af/1/o/mwbv_E_202605_01_r360P.mp4</link>
+      <description>Disaster Preparedness—Expect the Unexpected</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/mwbv/202605/univ/art/mwbv_univ_202605_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/a7c8af/1/o/mwbv_E_202605_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/a7c8af/1/o/mwbv_E_202605_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 4m 51s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/a7c8af/1/o/mwbv_E_202605_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/a7c8af/1/o/mwbv_E_202605_01_r360P.mp4" length="17369909" type="video/mp4"/>
+      <pubDate>Mon, 11 May 2026 14:04:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
