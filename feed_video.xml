@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 02:33:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 02:09:47 +0000</lastBuildDate>
     <item>
       <title>How to Read the Bible</title>
       <link>https://cfp2.jw-cdn.org/a/cb71330/3/o/ebtv_E_13_r360P.mp4</link>
@@ -142,6 +142,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/a7c8af/1/o/mwbv_E_202605_01_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/a7c8af/1/o/mwbv_E_202605_01_r360P.mp4" length="17369909" type="video/mp4"/>
       <pubDate>Mon, 11 May 2026 14:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Izak Marais: Jehovah Gives Us the Desire and Power to Act (Phil. 2:13)</title>
+      <link>https://cfp2.jw-cdn.org/a/c19ed75/1/o/jwbvod26_E_20_r360P.mp4</link>
+      <description>Izak Marais: Jehovah Gives Us the Desire and Power to Act (Phil. 2:13)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_20_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/c19ed75/1/o/jwbvod26_E_20_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/c19ed75/1/o/jwbvod26_E_20_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 12s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/c19ed75/1/o/jwbvod26_E_20_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/c19ed75/1/o/jwbvod26_E_20_r360P.mp4" length="21504187" type="video/mp4"/>
+      <pubDate>Fri, 22 May 2026 13:38:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joel Dellinger: Be a True Friend Like Jonathan (1 Sam. 18:1)</title>
+      <link>https://cfp2.jw-cdn.org/a/ea664b/1/o/jwbvod26_E_19_r360P.mp4</link>
+      <description>Joel Dellinger: Be a True Friend Like Jonathan (1 Sam. 18:1)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_19_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/ea664b/1/o/jwbvod26_E_19_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/ea664b/1/o/jwbvod26_E_19_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 17s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/ea664b/1/o/jwbvod26_E_19_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ea664b/1/o/jwbvod26_E_19_r360P.mp4" length="21868066" type="video/mp4"/>
+      <pubDate>Fri, 22 May 2026 13:38:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
