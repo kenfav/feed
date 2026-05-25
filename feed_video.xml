@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 02:28:39 +0000</lastBuildDate>
-    <item>
-      <title>Paul Gillies: “Happy Are the Peacemakers” (Matt. 5:9)</title>
-      <link>https://cfp2.jw-cdn.org/a/051500/1/o/jwbvod26_E_18_r360P.mp4</link>
-      <description>Paul Gillies: “Happy Are the Peacemakers” (Matt. 5:9)</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_18_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/051500/1/o/jwbvod26_E_18_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/051500/1/o/jwbvod26_E_18_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 10m 16s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/051500/1/o/jwbvod26_E_18_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/051500/1/o/jwbvod26_E_18_r360P.mp4" length="20984496" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 12:47:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Robert Luccioni: Keep Jehovah’s Promises in Sight! (Rev. 7:9)</title>
-      <link>https://cfp2.jw-cdn.org/a/5f2c6f6/1/o/jwbvod26_E_11_r360P.mp4</link>
-      <description>Robert Luccioni: Keep Jehovah’s Promises in Sight! (Rev. 7:9)</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_11_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/5f2c6f6/1/o/jwbvod26_E_11_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/5f2c6f6/1/o/jwbvod26_E_11_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 10m 26s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/5f2c6f6/1/o/jwbvod26_E_11_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/5f2c6f6/1/o/jwbvod26_E_11_r360P.mp4" length="23143643" type="video/mp4"/>
-      <pubDate>Fri, 24 Apr 2026 12:47:21 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 May 2026 02:36:50 +0000</lastBuildDate>
     <item>
       <title>Episode 6: “Are You the Coming One?”</title>
       <link>https://cfp2.jw-cdn.org/a/ac85e98/1/o/gnj_E_06_r360P.mp4</link>
