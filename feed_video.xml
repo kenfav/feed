@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 01:49:44 +0000</lastBuildDate>
-    <item>
-      <title>Was It Designed? Echolocation</title>
-      <link>https://cfp2.jw-cdn.org/a/88d1dd8/1/o/502200156_E_cnt_1_r360P.mp4</link>
-      <description>Was It Designed? Echolocation</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/502200156/univ/art/502200156_univ_wss_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/88d1dd8/1/o/502200156_E_cnt_1_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/88d1dd8/1/o/502200156_E_cnt_1_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 2m 57s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/88d1dd8/1/o/502200156_E_cnt_1_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/88d1dd8/1/o/502200156_E_cnt_1_r360P.mp4" length="13314046" type="video/mp4"/>
-      <pubDate>Thu, 11 Jun 2026 13:39:52 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Jul 2026 01:51:54 +0000</lastBuildDate>
     <item>
       <title>2026 Governing Body Update #4</title>
       <link>https://cfp2.jw-cdn.org/a/82d13b/1/o/1112024061_E_cnt_1_r360P.mp4</link>
