@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 01:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 01:51:35 +0000</lastBuildDate>
     <item>
       <title>D’Arcy MacEwan: Offering Sacrifices Out of Love and Appreciation (Judg. 11:36)</title>
       <link>https://cfp2.jw-cdn.org/a/3654af8/1/o/jwbvod26_E_33_r360P.mp4</link>
@@ -82,6 +82,36 @@
       <guid isPermaLink="false">https://akdd1.jw-cdn.org/sg2/p/ce11a0/1/o/jwb-139_E_01_r360P.mp4</guid>
       <enclosure url="https://akdd1.jw-cdn.org/sg2/p/ce11a0/1/o/jwb-139_E_01_r360P.mp4" length="158006631" type="video/mp4"/>
       <pubDate>Mon, 06 Jul 2026 17:25:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jacob Rumph: Jehovah Blesses His Servants in Unexpected Ways (Judg. 16:28)</title>
+      <link>https://cfp2.jw-cdn.org/a/b1a268c/1/o/jwbvod26_E_29_r360P.mp4</link>
+      <description>Jacob Rumph: Jehovah Blesses His Servants in Unexpected Ways (Judg. 16:28)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_29_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/b1a268c/1/o/jwbvod26_E_29_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/b1a268c/1/o/jwbvod26_E_29_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 9m 56s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/b1a268c/1/o/jwbvod26_E_29_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/b1a268c/1/o/jwbvod26_E_29_r360P.mp4" length="18582466" type="video/mp4"/>
+      <pubDate>Fri, 24 Jul 2026 13:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Seth Hyatt: Jehovah Cares for His Sheep (Ezek. 34:11)</title>
+      <link>https://cfp2.jw-cdn.org/a/326764/1/o/jwbvod26_E_28_r360P.mp4</link>
+      <description>Seth Hyatt: Jehovah Cares for His Sheep (Ezek. 34:11)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_28_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/326764/1/o/jwbvod26_E_28_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/326764/1/o/jwbvod26_E_28_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 9m 33s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/326764/1/o/jwbvod26_E_28_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/326764/1/o/jwbvod26_E_28_r360P.mp4" length="17330122" type="video/mp4"/>
+      <pubDate>Fri, 24 Jul 2026 13:10:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
