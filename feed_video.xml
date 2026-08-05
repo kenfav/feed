@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 01:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 01:45:12 +0000</lastBuildDate>
     <item>
       <title>“Eager to Declare the Good News”—Be Ready With the Right Equipment—Excerpt</title>
       <link>https://cfp2.jw-cdn.org/a/425c12/1/o/mwbv_E_202607_01_r360P.mp4</link>
@@ -160,17 +160,17 @@
     </item>
     <item>
       <title>JW Broadcasting—August 2026</title>
-      <link>https://akdd1.jw-cdn.org/sg2/p/16c6245/2/o/jwb-140_E_01_r360P.mp4</link>
+      <link>https://akdd1.jw-cdn.org/sg2/p/16c6245/3/o/jwb-140_E_01_r360P.mp4</link>
       <description>JW Broadcasting—August 2026</description>
       <content:encoded><![CDATA[
             <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-140/univ/art/jwb-140_univ_wss_01_lg.jpg">
-                <source src="https://akdd1.jw-cdn.org/sg2/p/16c6245/2/o/jwb-140_E_01_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://akdd1.jw-cdn.org/sg2/p/16c6245/2/o/jwb-140_E_01_r360P.mp4">Baixar Vídeo</a>
+                <source src="https://akdd1.jw-cdn.org/sg2/p/16c6245/3/o/jwb-140_E_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://akdd1.jw-cdn.org/sg2/p/16c6245/3/o/jwb-140_E_01_r360P.mp4">Baixar Vídeo</a>
             </video>
             <br><br>
             <b>⏳ Duração:</b> 1h 2m 42s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://akdd1.jw-cdn.org/sg2/p/16c6245/2/o/jwb-140_E_01_r360P.mp4</guid>
-      <enclosure url="https://akdd1.jw-cdn.org/sg2/p/16c6245/2/o/jwb-140_E_01_r360P.mp4" length="164448836" type="video/mp4"/>
+      <guid isPermaLink="false">https://akdd1.jw-cdn.org/sg2/p/16c6245/3/o/jwb-140_E_01_r360P.mp4</guid>
+      <enclosure url="https://akdd1.jw-cdn.org/sg2/p/16c6245/3/o/jwb-140_E_01_r360P.mp4" length="164448836" type="video/mp4"/>
       <pubDate>Mon, 03 Aug 2026 19:11:49 +0000</pubDate>
     </item>
   </channel>
