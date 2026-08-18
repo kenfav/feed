@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:42:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:41:31 +0000</lastBuildDate>
     <item>
       <title>Jacob Rumph: Jehovah Blesses His Servants in Unexpected Ways (Judg. 16:28)</title>
       <link>https://cfp2.jw-cdn.org/a/b1a268c/1/o/jwbvod26_E_29_r360P.mp4</link>
@@ -142,6 +142,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/d8a3ada/1/o/mwbv_E_202607_02_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/d8a3ada/1/o/mwbv_E_202607_02_r360P.mp4" length="11407164" type="video/mp4"/>
       <pubDate>Mon, 10 Aug 2026 13:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>2024 Governing Body Update #6—Excerpt</title>
+      <link>https://cfp2.jw-cdn.org/a/e741d33/1/o/mwbv_E_202609_01_r360P.mp4</link>
+      <description>2024 Governing Body Update #6—Excerpt</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/mwbv/202609/univ/art/mwbv_univ_202609_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/e741d33/1/o/mwbv_E_202609_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/e741d33/1/o/mwbv_E_202609_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 6m 49s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/e741d33/1/o/mwbv_E_202609_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/e741d33/1/o/mwbv_E_202609_01_r360P.mp4" length="16263630" type="video/mp4"/>
+      <pubDate>Mon, 17 Aug 2026 13:24:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
