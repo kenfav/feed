@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 00:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:41:53 +0000</lastBuildDate>
     <item>
       <title>Jacob Rumph: Jehovah Blesses His Servants in Unexpected Ways (Judg. 16:28)</title>
       <link>https://cfp2.jw-cdn.org/a/b1a268c/1/o/jwbvod26_E_29_r360P.mp4</link>
@@ -157,6 +157,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/e741d33/1/o/mwbv_E_202609_01_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/e741d33/1/o/mwbv_E_202609_01_r360P.mp4" length="16263630" type="video/mp4"/>
       <pubDate>Mon, 17 Aug 2026 13:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Leonard Myers: Jehovah Sustains Us in Difficult Situations (Ps. 55:22)</title>
+      <link>https://cfp2.jw-cdn.org/a/533f44e/1/o/jwbvod26_E_27_r360P.mp4</link>
+      <description>Leonard Myers: Jehovah Sustains Us in Difficult Situations (Ps. 55:22)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="">
+                <source src="https://cfp2.jw-cdn.org/a/533f44e/1/o/jwbvod26_E_27_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/533f44e/1/o/jwbvod26_E_27_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 9m 51s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/533f44e/1/o/jwbvod26_E_27_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/533f44e/1/o/jwbvod26_E_27_r360P.mp4" length="18814052" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 21:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geoffrey W. Jackson: Imitate Jesus When Responding to Unjust Accusations (1 Pet. 2:22, 23)</title>
+      <link>https://cfp2.jw-cdn.org/a/746da1/1/o/jwbvod26_E_36_r360P.mp4</link>
+      <description>Geoffrey W. Jackson: Imitate Jesus When Responding to Unjust Accusations (1 Pet. 2:22, 23)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_36_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/746da1/1/o/jwbvod26_E_36_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/746da1/1/o/jwbvod26_E_36_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 9m 26s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/746da1/1/o/jwbvod26_E_36_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/746da1/1/o/jwbvod26_E_36_r360P.mp4" length="19548968" type="video/mp4"/>
+      <pubDate>Fri, 21 Aug 2026 21:07:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
