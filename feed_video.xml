@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 00:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:43:04 +0000</lastBuildDate>
     <item>
       <title>Gajus Glockentin: Why Say, “Sorry”?  (Luke 15:18)</title>
       <link>https://cfp2.jw-cdn.org/a/1e91be/1/o/jwbvod26_E_31_r360P.mp4</link>
@@ -157,6 +157,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/746da1/1/o/jwbvod26_E_36_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/746da1/1/o/jwbvod26_E_36_r360P.mp4" length="19548968" type="video/mp4"/>
       <pubDate>Fri, 21 Aug 2026 21:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pursue What Builds Loyalty—Self-Control</title>
+      <link>https://cfp2.jw-cdn.org/a/f84d70/2/o/mwbv_E_202609_02_r360P.mp4</link>
+      <description>Pursue What Builds Loyalty—Self-Control</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/mwbv/202609/univ/art/mwbv_univ_202609_wss_02_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/f84d70/2/o/mwbv_E_202609_02_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/f84d70/2/o/mwbv_E_202609_02_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 3m 28s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/f84d70/2/o/mwbv_E_202609_02_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/f84d70/2/o/mwbv_E_202609_02_r360P.mp4" length="9606516" type="video/mp4"/>
+      <pubDate>Mon, 24 Aug 2026 15:21:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
