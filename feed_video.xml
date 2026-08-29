@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 08:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:53:00 +0000</lastBuildDate>
     <item>
       <title>Gajus Glockentin: Why Say, “Sorry”?  (Luke 15:18)</title>
       <link>https://cfp2.jw-cdn.org/a/1e91be/1/o/jwbvod26_E_31_r360P.mp4</link>
@@ -172,6 +172,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/f84d70/2/o/mwbv_E_202609_02_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/f84d70/2/o/mwbv_E_202609_02_r360P.mp4" length="9606516" type="video/mp4"/>
       <pubDate>Mon, 24 Aug 2026 15:21:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hermanus van Selm: “Consider It All Joy . . . When You Meet With Various Trials” (Jas. 1:2)</title>
+      <link>https://cfp2.jw-cdn.org/a/d7b5e47/1/o/jwbvod26_E_32_r360P.mp4</link>
+      <description>Hermanus van Selm: “Consider It All Joy . . . When You Meet With Various Trials” (Jas. 1:2)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_32_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/d7b5e47/1/o/jwbvod26_E_32_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/d7b5e47/1/o/jwbvod26_E_32_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 16s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/d7b5e47/1/o/jwbvod26_E_32_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/d7b5e47/1/o/jwbvod26_E_32_r360P.mp4" length="26362830" type="video/mp4"/>
+      <pubDate>Fri, 28 Aug 2026 20:27:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>M. Stephen Lett: Avoid Being Presumptuous (1 Pet. 5:5)</title>
+      <link>https://cfp2.jw-cdn.org/a/18c7c4/1/o/jwbvod26_E_30_r360P.mp4</link>
+      <description>M. Stephen Lett: Avoid Being Presumptuous (1 Pet. 5:5)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_30_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/18c7c4/1/o/jwbvod26_E_30_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/18c7c4/1/o/jwbvod26_E_30_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 16s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/18c7c4/1/o/jwbvod26_E_30_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/18c7c4/1/o/jwbvod26_E_30_r360P.mp4" length="24359638" type="video/mp4"/>
+      <pubDate>Fri, 28 Aug 2026 20:27:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
