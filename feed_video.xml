@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 02:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 02:11:27 +0000</lastBuildDate>
     <item>
       <title>“Iron Sharpens Iron”—Effective Use of JW.ORG—Excerpt</title>
       <link>https://cfp2.jw-cdn.org/a/d8a3ada/1/o/mwbv_E_202607_02_r360P.mp4</link>
@@ -142,6 +142,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/b3c650/1/o/mwbv_E_202609_03_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/b3c650/1/o/mwbv_E_202609_03_r360P.mp4" length="19190962" type="video/mp4"/>
       <pubDate>Fri, 04 Sep 2026 12:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>JW Broadcasting—September 2026</title>
+      <link>https://cfp2.jw-cdn.org/a/7752e26/1/o/jwb-141_E_01_r360P.mp4</link>
+      <description>JW Broadcasting—September 2026</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-141/univ/art/jwb-141_univ_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/7752e26/1/o/jwb-141_E_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/7752e26/1/o/jwb-141_E_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 59m 55s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/7752e26/1/o/jwb-141_E_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/7752e26/1/o/jwb-141_E_01_r360P.mp4" length="163914274" type="video/mp4"/>
+      <pubDate>Mon, 07 Sep 2026 13:01:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
