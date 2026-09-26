@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 02:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 02:39:55 +0000</lastBuildDate>
     <item>
       <title>Hermanus van Selm: “Consider It All Joy . . . When You Meet With Various Trials” (Jas. 1:2)</title>
       <link>https://cfp2.jw-cdn.org/a/d7b5e47/1/o/jwbvod26_E_32_r360P.mp4</link>
@@ -157,6 +157,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/0599b76/1/o/jwbvod26_E_41_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/0599b76/1/o/jwbvod26_E_41_r360P.mp4" length="14634223" type="video/mp4"/>
       <pubDate>Mon, 21 Sep 2026 13:26:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Joel Dellinger: Love Jehovah’s Lost Sheep (Jas. 5:19, 20)</title>
+      <link>https://cfp2.jw-cdn.org/a/e9e9fc/1/o/jwbvod26_E_55_r360P.mp4</link>
+      <description>Joel Dellinger: Love Jehovah’s Lost Sheep (Jas. 5:19, 20)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_55_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/e9e9fc/1/o/jwbvod26_E_55_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/e9e9fc/1/o/jwbvod26_E_55_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 3s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/e9e9fc/1/o/jwbvod26_E_55_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/e9e9fc/1/o/jwbvod26_E_55_r360P.mp4" length="20895312" type="video/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 13:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jody Jedele: The Path of the Righteous Grows Brighter and Brighter (Prov. 4:18)</title>
+      <link>https://cfp2.jw-cdn.org/a/3a0148/1/o/jwbvod26_E_35_r360P.mp4</link>
+      <description>Jody Jedele: The Path of the Righteous Grows Brighter and Brighter (Prov. 4:18)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_35_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/3a0148/1/o/jwbvod26_E_35_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/3a0148/1/o/jwbvod26_E_35_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 8m 36s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/3a0148/1/o/jwbvod26_E_35_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/3a0148/1/o/jwbvod26_E_35_r360P.mp4" length="23948245" type="video/mp4"/>
+      <pubDate>Fri, 25 Sep 2026 13:49:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
