@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 03:07:07 +0000</lastBuildDate>
-    <item>
-      <title>Plan for the Future Now!</title>
-      <link>https://cfp2.jw-cdn.org/a/71c816/1/o/502100035_E_cnt_1_r360P.mp4</link>
-      <description>Plan for the Future Now!</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/502100035/univ/art/502100035_univ_wss_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/71c816/1/o/502100035_E_cnt_1_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/71c816/1/o/502100035_E_cnt_1_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 3m 30s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/71c816/1/o/502100035_E_cnt_1_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/71c816/1/o/502100035_E_cnt_1_r360P.mp4" length="8192212" type="video/mp4"/>
-      <pubDate>Mon, 31 Aug 2026 12:29:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Oct 2026 03:13:51 +0000</lastBuildDate>
     <item>
       <title>Organizational Accomplishments—Helping Those Affected by Armed Conflicts</title>
       <link>https://cfp2.jw-cdn.org/a/b3c650/1/o/mwbv_E_202609_03_r360P.mp4</link>
@@ -37,6 +22,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/b3c650/1/o/mwbv_E_202609_03_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/b3c650/1/o/mwbv_E_202609_03_r360P.mp4" length="19190962" type="video/mp4"/>
       <pubDate>Fri, 04 Sep 2026 12:59:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>JW Broadcasting—September 2026</title>
+      <link>https://cfp2.jw-cdn.org/a/7752e26/2/o/jwb-141_E_01_r360P.mp4</link>
+      <description>JW Broadcasting—September 2026</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-141/univ/art/jwb-141_univ_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/7752e26/2/o/jwb-141_E_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/7752e26/2/o/jwb-141_E_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 54m 58s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/7752e26/2/o/jwb-141_E_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/7752e26/2/o/jwb-141_E_01_r360P.mp4" length="143477869" type="video/mp4"/>
+      <pubDate>Mon, 07 Sep 2026 13:01:44 +0000</pubDate>
     </item>
     <item>
       <title>Love the Ministry—Conversational but Focused</title>
