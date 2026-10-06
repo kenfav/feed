@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 03:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:58:06 +0000</lastBuildDate>
     <item>
       <title>JW Broadcasting—September 2026</title>
       <link>https://cfp2.jw-cdn.org/a/7752e26/2/o/jwb-141_E_01_r360P.mp4</link>
@@ -187,6 +187,51 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/a41aae/1/o/patv_E_01_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/a41aae/1/o/patv_E_01_r360P.mp4" length="3894860" type="video/mp4"/>
       <pubDate>Sat, 03 Oct 2026 20:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Love the Ministry—Wisely Using Our Time in the Ministry</title>
+      <link>https://cfp2.jw-cdn.org/a/fd1227/1/o/jwbvod26_E_42_r360P.mp4</link>
+      <description>Love the Ministry—Wisely Using Our Time in the Ministry</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_42_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/fd1227/1/o/jwbvod26_E_42_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/fd1227/1/o/jwbvod26_E_42_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 4m 43s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/fd1227/1/o/jwbvod26_E_42_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/fd1227/1/o/jwbvod26_E_42_r360P.mp4" length="14014769" type="video/mp4"/>
+      <pubDate>Mon, 05 Oct 2026 13:56:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>How to Use Enjoy Life Forever!</title>
+      <link>https://cfp2.jw-cdn.org/a/0fd64f6/2/o/mwbv_E_202705_01_r360P.mp4</link>
+      <description>How to Use Enjoy Life Forever!</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/mwbv/202705/univ/art/mwbv_univ_202705_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/0fd64f6/2/o/mwbv_E_202705_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/0fd64f6/2/o/mwbv_E_202705_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 3m 59s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/0fd64f6/2/o/mwbv_E_202705_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/0fd64f6/2/o/mwbv_E_202705_01_r360P.mp4" length="9279279" type="video/mp4"/>
+      <pubDate>Mon, 05 Oct 2026 18:06:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>JW Broadcasting—October 2026</title>
+      <link>https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4</link>
+      <description>JW Broadcasting—October 2026</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_wss_01_lg.jpg">
+                <source src="https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 57m 14s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4</guid>
+      <enclosure url="https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4" length="149610289" type="video/mp4"/>
+      <pubDate>Mon, 05 Oct 2026 18:07:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
