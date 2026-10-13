@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 03:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:39:49 +0000</lastBuildDate>
     <item>
       <title>Love the Ministry—Conversational but Focused</title>
       <link>https://cfp2.jw-cdn.org/a/b35c78f1/1/o/jwbvod26_E_40_r360P.mp4</link>
@@ -205,18 +205,48 @@
     </item>
     <item>
       <title>JW Broadcasting—October 2026</title>
-      <link>https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4</link>
+      <link>https://cfp2.jw-cdn.org/a/72180a/1/o/jwb-142_E_01_r360P.mp4</link>
       <description>JW Broadcasting—October 2026</description>
       <content:encoded><![CDATA[
             <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-142/univ/art/jwb-142_univ_wss_01_lg.jpg">
-                <source src="https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4">Baixar Vídeo</a>
+                <source src="https://cfp2.jw-cdn.org/a/72180a/1/o/jwb-142_E_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/72180a/1/o/jwb-142_E_01_r360P.mp4">Baixar Vídeo</a>
             </video>
             <br><br>
             <b>⏳ Duração:</b> 57m 14s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4</guid>
-      <enclosure url="https://akdd1.jw-cdn.org/sg2/p/72180a/1/o/jwb-142_E_01_r360P.mp4" length="149610289" type="video/mp4"/>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/72180a/1/o/jwb-142_E_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/72180a/1/o/jwb-142_E_01_r360P.mp4" length="149610289" type="video/mp4"/>
       <pubDate>Mon, 05 Oct 2026 18:07:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Love the Ministry—Expanding Our Ministry</title>
+      <link>https://cfp2.jw-cdn.org/a/616253/1/o/jwbvod26_E_44_r360P.mp4</link>
+      <description>Love the Ministry—Expanding Our Ministry</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_44_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/616253/1/o/jwbvod26_E_44_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/616253/1/o/jwbvod26_E_44_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 5m 15s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/616253/1/o/jwbvod26_E_44_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/616253/1/o/jwbvod26_E_44_r360P.mp4" length="15958964" type="video/mp4"/>
+      <pubDate>Mon, 12 Oct 2026 14:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Love the Ministry—Coping With Our Insecurities</title>
+      <link>https://cfp2.jw-cdn.org/a/4b9088/1/o/jwbvod26_E_43_r360P.mp4</link>
+      <description>Love the Ministry—Coping With Our Insecurities</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_43_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/4b9088/1/o/jwbvod26_E_43_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/4b9088/1/o/jwbvod26_E_43_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 5m 22s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/4b9088/1/o/jwbvod26_E_43_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/4b9088/1/o/jwbvod26_E_43_r360P.mp4" length="16071285" type="video/mp4"/>
+      <pubDate>Mon, 12 Oct 2026 14:08:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
