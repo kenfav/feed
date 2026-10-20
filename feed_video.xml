@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 02:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 02:42:56 +0000</lastBuildDate>
     <item>
       <title>Love the Ministry—Conquering Fear of Man</title>
       <link>https://cfp2.jw-cdn.org/a/0599b76/1/o/jwbvod26_E_41_r360P.mp4</link>
@@ -187,6 +187,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/4b9088/1/o/jwbvod26_E_43_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/4b9088/1/o/jwbvod26_E_43_r360P.mp4" length="16071285" type="video/mp4"/>
       <pubDate>Mon, 12 Oct 2026 14:08:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giving Glorifies Jehovah</title>
+      <link>https://cfp2.jw-cdn.org/a/9f5465/1/o/mwbv_E_202611_01_r360P.mp4</link>
+      <description>Giving Glorifies Jehovah</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/mwbv/202611/univ/art/mwbv_univ_202611_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/9f5465/1/o/mwbv_E_202611_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/9f5465/1/o/mwbv_E_202611_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 6m 8s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/9f5465/1/o/mwbv_E_202611_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/9f5465/1/o/mwbv_E_202611_01_r360P.mp4" length="15585992" type="video/mp4"/>
+      <pubDate>Mon, 19 Oct 2026 14:38:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Learn From Jehovah’s Friends—Elisha</title>
+      <link>https://cfp2.jw-cdn.org/a/205d0c1/1/o/ljf_E_011_r360P.mp4</link>
+      <description>Learn From Jehovah’s Friends—Elisha</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/503000135/univ/art/503000135_univ_wss_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/205d0c1/1/o/ljf_E_011_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/205d0c1/1/o/ljf_E_011_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 2m 46s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/205d0c1/1/o/ljf_E_011_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/205d0c1/1/o/ljf_E_011_r360P.mp4" length="7311814" type="video/mp4"/>
+      <pubDate>Mon, 19 Oct 2026 15:01:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
