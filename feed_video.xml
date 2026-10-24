@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 02:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 02:36:32 +0000</lastBuildDate>
     <item>
       <title>Joel Dellinger: Love Jehovah’s Lost Sheep (Jas. 5:19, 20)</title>
       <link>https://cfp2.jw-cdn.org/a/e9e9fc/1/o/jwbvod26_E_55_r360P.mp4</link>
@@ -202,6 +202,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/205d0c1/1/o/ljf_E_011_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/205d0c1/1/o/ljf_E_011_r360P.mp4" length="7311814" type="video/mp4"/>
       <pubDate>Mon, 19 Oct 2026 15:01:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peter Price: Remain Loyal Under Emotional Pressure (Job 2:9, 10)</title>
+      <link>https://cfp2.jw-cdn.org/a/2a8f34/1/o/jwbvod26_E_47_r360P.mp4</link>
+      <description>Peter Price: Remain Loyal Under Emotional Pressure (Job 2:9, 10)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_47_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/2a8f34/1/o/jwbvod26_E_47_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/2a8f34/1/o/jwbvod26_E_47_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 30s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/2a8f34/1/o/jwbvod26_E_47_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/2a8f34/1/o/jwbvod26_E_47_r360P.mp4" length="22367299" type="video/mp4"/>
+      <pubDate>Fri, 23 Oct 2026 12:57:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Christopher Mavor: Patiently Waiting for Jehovah’s Day (Matt. 24:13)</title>
+      <link>https://cfp2.jw-cdn.org/a/9c83aa4/1/o/jwbvod26_E_45_r360P.mp4</link>
+      <description>Christopher Mavor: Patiently Waiting for Jehovah’s Day (Matt. 24:13)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_45_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/9c83aa4/1/o/jwbvod26_E_45_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/9c83aa4/1/o/jwbvod26_E_45_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 27s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/9c83aa4/1/o/jwbvod26_E_45_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/9c83aa4/1/o/jwbvod26_E_45_r360P.mp4" length="23161452" type="video/mp4"/>
+      <pubDate>Fri, 23 Oct 2026 12:57:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
