@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 03:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:23:59 +0000</lastBuildDate>
     <item>
       <title>164. I Trust In You</title>
       <link>https://cfp2.jw-cdn.org/a/da9740/1/o/sjjm_E_164_r360P.mp4</link>
@@ -202,6 +202,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/9c83aa4/1/o/jwbvod26_E_45_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/9c83aa4/1/o/jwbvod26_E_45_r360P.mp4" length="23161452" type="video/mp4"/>
       <pubDate>Fri, 23 Oct 2026 12:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark Sanderson: Deliverance Is Near (Luke 21:28)</title>
+      <link>https://cfp2.jw-cdn.org/a/8eb008f/1/o/jwbvod26_E_39_r360P.mp4</link>
+      <description>Mark Sanderson: Deliverance Is Near (Luke 21:28)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_39_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/8eb008f/1/o/jwbvod26_E_39_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/8eb008f/1/o/jwbvod26_E_39_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 9m 19s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/8eb008f/1/o/jwbvod26_E_39_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/8eb008f/1/o/jwbvod26_E_39_r360P.mp4" length="16869218" type="video/mp4"/>
+      <pubDate>Fri, 30 Oct 2026 13:44:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark Scott: “Hope Does Not Lead to Disappointment” (Rom. 5:5)</title>
+      <link>https://cfp2.jw-cdn.org/a/d3e9a40/1/o/jwbvod26_E_38_r360P.mp4</link>
+      <description>Mark Scott: “Hope Does Not Lead to Disappointment” (Rom. 5:5)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_38_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/d3e9a40/1/o/jwbvod26_E_38_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/d3e9a40/1/o/jwbvod26_E_38_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 9m 59s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/d3e9a40/1/o/jwbvod26_E_38_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/d3e9a40/1/o/jwbvod26_E_38_r360P.mp4" length="19581901" type="video/mp4"/>
+      <pubDate>Fri, 30 Oct 2026 13:44:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
