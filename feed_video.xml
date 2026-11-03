@@ -7,67 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 03:32:57 +0000</lastBuildDate>
-    <item>
-      <title>164. I Trust In You</title>
-      <link>https://cfp2.jw-cdn.org/a/da9740/1/o/sjjm_E_164_r360P.mp4</link>
-      <description>164. I Trust In You</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/sjjm/univ/art/sjjm_univ_wss_164_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/da9740/1/o/sjjm_E_164_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/da9740/1/o/sjjm_E_164_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 4m 10s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/da9740/1/o/sjjm_E_164_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/da9740/1/o/sjjm_E_164_r360P.mp4" length="5556924" type="video/mp4"/>
-      <pubDate>Sat, 03 Oct 2026 20:42:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>I Trust In You</title>
-      <link>https://cfp2.jw-cdn.org/a/09dc672/2/o/osg_E_126_r360P.mp4</link>
-      <description>I Trust In You</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/502900153/univ/art/502900153_univ_wss_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/09dc672/2/o/osg_E_126_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/09dc672/2/o/osg_E_126_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 4m 10s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/09dc672/2/o/osg_E_126_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/09dc672/2/o/osg_E_126_r360P.mp4" length="4957750" type="video/mp4"/>
-      <pubDate>Sat, 03 Oct 2026 20:42:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tutorial for Successfully Using the “Research Guide”</title>
-      <link>https://cfp2.jw-cdn.org/a/c0456f/2/o/patv_E_02_r360P.mp4</link>
-      <description>Tutorial for Successfully Using the “Research Guide”</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/patv/univ/art/patv_univ_wss_02_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/c0456f/2/o/patv_E_02_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/c0456f/2/o/patv_E_02_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 2m 31s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/c0456f/2/o/patv_E_02_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/c0456f/2/o/patv_E_02_r360P.mp4" length="4631693" type="video/mp4"/>
-      <pubDate>Sat, 03 Oct 2026 20:54:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>How to Use Expandable Sections in Digital Publications</title>
-      <link>https://cfp2.jw-cdn.org/a/a41aae/2/o/patv_E_01_r360P.mp4</link>
-      <description>How to Use Expandable Sections in Digital Publications</description>
-      <content:encoded><![CDATA[
-            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/patv/univ/art/patv_univ_wss_01_lg.jpg">
-                <source src="https://cfp2.jw-cdn.org/a/a41aae/2/o/patv_E_01_r360P.mp4" type="video/mp4">
-                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/a41aae/2/o/patv_E_01_r360P.mp4">Baixar Vídeo</a>
-            </video>
-            <br><br>
-            <b>⏳ Duração:</b> 1m 37s<br>]]></content:encoded>
-      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/a41aae/2/o/patv_E_01_r360P.mp4</guid>
-      <enclosure url="https://cfp2.jw-cdn.org/a/a41aae/2/o/patv_E_01_r360P.mp4" length="3883091" type="video/mp4"/>
-      <pubDate>Sat, 03 Oct 2026 20:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Nov 2026 04:40:25 +0000</lastBuildDate>
     <item>
       <title>Love the Ministry—Wisely Using Our Time in the Ministry</title>
       <link>https://cfp2.jw-cdn.org/a/fd1227/1/o/jwbvod26_E_42_r360P.mp4</link>
@@ -232,6 +172,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/d3e9a40/1/o/jwbvod26_E_38_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/d3e9a40/1/o/jwbvod26_E_38_r360P.mp4" length="19581901" type="video/mp4"/>
       <pubDate>Fri, 30 Oct 2026 13:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>JW Broadcasting—November 2026</title>
+      <link>https://cfp2.jw-cdn.org/a/33759d/1/o/jwb-143_E_01_r360P.mp4</link>
+      <description>JW Broadcasting—November 2026</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwb-143/univ/art/jwb-143_univ_wss_01_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/33759d/1/o/jwb-143_E_01_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/33759d/1/o/jwb-143_E_01_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 1h 0m 0s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/33759d/1/o/jwb-143_E_01_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/33759d/1/o/jwb-143_E_01_r360P.mp4" length="176546993" type="video/mp4"/>
+      <pubDate>Mon, 02 Nov 2026 16:24:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
