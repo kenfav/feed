@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 03:46:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:20:11 +0000</lastBuildDate>
     <item>
       <title>Love the Ministry—Expanding Our Ministry</title>
       <link>https://cfp2.jw-cdn.org/a/616253/1/o/jwbvod26_E_44_r360P.mp4</link>
@@ -142,6 +142,21 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/33759d/1/o/jwb-143_E_01_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/33759d/1/o/jwb-143_E_01_r360P.mp4" length="176546993" type="video/mp4"/>
       <pubDate>Mon, 02 Nov 2026 16:24:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Our Planet Will Survive!</title>
+      <link>https://cfp2.jw-cdn.org/a/107b7e4/1/o/ebtv_E_14_r360P.mp4</link>
+      <description>Our Planet Will Survive!</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/1102020449/univ/art/1102020449_univ_wss_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/107b7e4/1/o/ebtv_E_14_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/107b7e4/1/o/ebtv_E_14_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 2m 24s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/107b7e4/1/o/ebtv_E_14_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/107b7e4/1/o/ebtv_E_14_r360P.mp4" length="9335491" type="video/mp4"/>
+      <pubDate>Mon, 09 Nov 2026 18:23:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
