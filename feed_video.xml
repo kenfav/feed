@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 04:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:09:48 +0000</lastBuildDate>
     <item>
       <title>Giving Glorifies Jehovah</title>
       <link>https://cfp2.jw-cdn.org/a/9f5465/1/o/mwbv_E_202611_01_r360P.mp4</link>
@@ -127,6 +127,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/107b7e4/2/o/ebtv_E_14_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/107b7e4/2/o/ebtv_E_14_r360P.mp4" length="9340789" type="video/mp4"/>
       <pubDate>Mon, 09 Nov 2026 18:23:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tutorial for JW Library Updates</title>
+      <link>https://cfp2.jw-cdn.org/a/f615ed/1/o/patv_E_03_r360P.mp4</link>
+      <description>Tutorial for JW Library Updates</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/patv/univ/art/patv_univ_wss_03_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/f615ed/1/o/patv_E_03_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/f615ed/1/o/patv_E_03_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 2m 30s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/f615ed/1/o/patv_E_03_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/f615ed/1/o/patv_E_03_r360P.mp4" length="5545758" type="video/mp4"/>
+      <pubDate>Fri, 13 Nov 2026 11:32:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026 Governing Body Update #7</title>
+      <link>https://cfp2.jw-cdn.org/a/286e374/2/o/1112024071_E_cnt_1_r360P.mp4</link>
+      <description>2026 Governing Body Update #7</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/1112024071/univ/art/1112024071_univ_wss_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/286e374/2/o/1112024071_E_cnt_1_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/286e374/2/o/1112024071_E_cnt_1_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 12m 49s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/286e374/2/o/1112024071_E_cnt_1_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/286e374/2/o/1112024071_E_cnt_1_r360P.mp4" length="28543397" type="video/mp4"/>
+      <pubDate>Fri, 13 Nov 2026 11:32:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
