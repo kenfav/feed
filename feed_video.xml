@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:36:43 +0000</lastBuildDate>
     <item>
       <title>Mark Sanderson: Deliverance Is Near (Luke 21:28)</title>
       <link>https://cfp2.jw-cdn.org/a/8eb008f/1/o/jwbvod26_E_39_r360P.mp4</link>
@@ -127,6 +127,36 @@
       <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/759a2bb/1/o/jwbvod26_E_48_r360P.mp4</guid>
       <enclosure url="https://cfp2.jw-cdn.org/a/759a2bb/1/o/jwbvod26_E_48_r360P.mp4" length="28864953" type="video/mp4"/>
       <pubDate>Fri, 20 Nov 2026 13:42:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alex Reinmueller: Surrounded by Jehovah’s Shield of Approval (Ps. 5:12)</title>
+      <link>https://cfp2.jw-cdn.org/a/ccc34a/1/o/jwbvod26_E_52_r360P.mp4</link>
+      <description>Alex Reinmueller: Surrounded by Jehovah’s Shield of Approval (Ps. 5:12)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_52_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/ccc34a/1/o/jwbvod26_E_52_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/ccc34a/1/o/jwbvod26_E_52_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 9m 4s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/ccc34a/1/o/jwbvod26_E_52_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/ccc34a/1/o/jwbvod26_E_52_r360P.mp4" length="23050162" type="video/mp4"/>
+      <pubDate>Sat, 28 Nov 2026 01:30:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jacob Rumph: Jehovah Will Continue to Support You (Heb. 13:5)</title>
+      <link>https://cfp2.jw-cdn.org/a/5af13b8/1/o/jwbvod26_E_51_r360P.mp4</link>
+      <description>Jacob Rumph: Jehovah Will Continue to Support You (Heb. 13:5)</description>
+      <content:encoded><![CDATA[
+            <video controls preload="metadata" style="width:100%; max-width:100%; border-radius: 8px;" poster="https://cms-imgp.jw-cdn.org/img/p/jwbvod26/univ/art/jwbvod26_univ_wss_51_lg.jpg">
+                <source src="https://cfp2.jw-cdn.org/a/5af13b8/1/o/jwbvod26_E_51_r360P.mp4" type="video/mp4">
+                Seu leitor RSS não suporta reprodução de vídeo. <a href="https://cfp2.jw-cdn.org/a/5af13b8/1/o/jwbvod26_E_51_r360P.mp4">Baixar Vídeo</a>
+            </video>
+            <br><br>
+            <b>⏳ Duração:</b> 10m 26s<br>]]></content:encoded>
+      <guid isPermaLink="false">https://cfp2.jw-cdn.org/a/5af13b8/1/o/jwbvod26_E_51_r360P.mp4</guid>
+      <enclosure url="https://cfp2.jw-cdn.org/a/5af13b8/1/o/jwbvod26_E_51_r360P.mp4" length="19376396" type="video/mp4"/>
+      <pubDate>Sat, 28 Nov 2026 01:30:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
